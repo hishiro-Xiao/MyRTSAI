@@ -1,0 +1,1939 @@
+Combat :
+start time :666
+end time : 670
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(29)(0, (9,3), 1, 0)Worker(30)(0, (7,4), 1, 0)Worker(32)(0, (6,4), 1, 0)Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,2), 1, 0)
+Involved_B :Light(33)(1, (7,6), 4, 0)
+Involved_ALL :Worker(29)(0, (9,3), 1, 0)Worker(30)(0, (7,4), 1, 0)Worker(32)(0, (6,4), 1, 0)Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,2), 1, 0)Light(33)(1, (7,6), 4, 0)
+Remained_A :Worker(29)(0, (9,2), 1, 0)Worker(30)(0, (7,5), 1, 0)Worker(32)(0, (6,3), 1, 0)Worker(34)(0, (8,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,2), 1, 0)
+Remained_B :Light(33)(1, (7,6), 4, 0)
+Remained_ALL :Worker(29)(0, (9,2), 1, 0)Worker(30)(0, (7,5), 1, 0)Worker(32)(0, (6,3), 1, 0)Light(33)(1, (7,6), 4, 0)Worker(34)(0, (8,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,2), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(29)(0, (9,3), 1, 0)Worker(30)(0, (7,4), 1, 0)Worker(32)(0, (6,4), 1, 0)Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,2), 1, 0)Light(33)(1, (7,6), 4, 0)
+
+Combat :
+start time :670
+end time : 680
+Combat Ended Because of :Destroyed
+Involved_A :Worker(29)(0, (9,2), 1, 0)Worker(30)(0, (7,5), 1, 0)Worker(32)(0, (6,3), 1, 0)Worker(34)(0, (8,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (5,4), 1, 0)Ranged(40)(0, (6,2), 1, 0)
+Involved_B :Light(33)(1, (7,6), 4, 0)
+Involved_ALL :Worker(29)(0, (9,2), 1, 0)Worker(30)(0, (7,5), 1, 0)Worker(32)(0, (6,3), 1, 0)Worker(34)(0, (8,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (5,4), 1, 0)Ranged(40)(0, (6,2), 1, 0)Light(33)(1, (7,6), 4, 0)
+Remained_A :Worker(29)(0, (9,3), 1, 0)Worker(30)(0, (7,5), 1, 0)Worker(32)(0, (6,4), 1, 0)Worker(34)(0, (7,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (5,3), 1, 0)Ranged(40)(0, (6,2), 1, 0)
+Remained_B :
+Remained_ALL :Worker(29)(0, (9,3), 1, 0)Worker(30)(0, (7,5), 1, 0)Worker(32)(0, (6,4), 1, 0)Worker(34)(0, (7,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (5,3), 1, 0)Ranged(40)(0, (6,2), 1, 0)
+KilledUnits :(Light(33)(1, (7,6), 2, 0), 680)
+PassiveUnits :Worker(29)(0, (9,2), 1, 0)Worker(32)(0, (6,3), 1, 0)Worker(34)(0, (8,4), 1, 0)Worker(36)(0, (5,4), 1, 0)Ranged(40)(0, (6,2), 1, 0)
+
+Combat :
+start time :1836
+end time : 1840
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(62)(0, (1,20), 1, 0)
+Involved_B :Light(37)(1, (3,20), 4, 0)Light(60)(1, (2,20), 4, 0)
+Involved_ALL :Worker(62)(0, (1,20), 1, 0)Light(37)(1, (3,20), 4, 0)Light(60)(1, (2,20), 4, 0)
+Remained_A :Worker(62)(0, (1,21), 1, 0)
+Remained_B :Light(37)(1, (3,19), 4, 0)Light(60)(1, (2,20), 4, 0)
+Remained_ALL :Light(37)(1, (3,19), 4, 0)Light(60)(1, (2,20), 4, 0)Worker(62)(0, (1,21), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(62)(0, (1,20), 1, 0)Light(37)(1, (3,20), 4, 0)
+
+Combat :
+start time :1849
+end time : 1850
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(62)(0, (1,21), 1, 0)
+Involved_B :Light(60)(1, (1,20), 4, 0)
+Involved_ALL :Worker(62)(0, (1,21), 1, 0)Light(60)(1, (1,20), 4, 0)
+Remained_A :Worker(62)(0, (2,21), 1, 0)
+Remained_B :Light(60)(1, (1,20), 4, 0)
+Remained_ALL :Light(60)(1, (1,20), 4, 0)Worker(62)(0, (2,21), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(62)(0, (1,21), 1, 0)Light(60)(1, (1,20), 4, 0)
+
+Combat :
+start time :1850
+end time : 1856
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(59)(0, (1,19), 1, 0)Worker(64)(0, (2,18), 1, 0)
+Involved_B :Light(37)(1, (2,19), 4, 0)Light(38)(1, (3,18), 4, 0)Light(60)(1, (1,20), 4, 0)
+Involved_ALL :Worker(59)(0, (1,19), 1, 0)Worker(64)(0, (2,18), 1, 0)Light(37)(1, (2,19), 4, 0)Light(38)(1, (3,18), 4, 0)Light(60)(1, (1,20), 4, 0)
+Remained_A :Worker(59)(0, (1,19), 1, 0)Worker(64)(0, (2,18), 1, 0)
+Remained_B :Light(37)(1, (3,19), 2, 0)Light(38)(1, (3,17), 4, 0)Light(60)(1, (1,20), 4, 0)
+Remained_ALL :Light(37)(1, (3,19), 2, 0)Light(38)(1, (3,17), 4, 0)Worker(59)(0, (1,19), 1, 0)Light(60)(1, (1,20), 4, 0)Worker(64)(0, (2,18), 1, 0)
+KilledUnits :
+PassiveUnits :Light(37)(1, (2,19), 4, 0)Light(38)(1, (3,18), 4, 0)
+
+Combat :
+start time :1856
+end time : 1859
+Combat Ended Because of :Destroyed
+Involved_A :Worker(59)(0, (1,19), 1, 0)
+Involved_B :Light(60)(1, (1,20), 4, 0)
+Involved_ALL :Worker(59)(0, (1,19), 1, 0)Light(60)(1, (1,20), 4, 0)
+Remained_A :
+Remained_B :Light(60)(1, (1,20), 4, 0)
+Remained_ALL :Light(60)(1, (1,20), 4, 0)
+KilledUnits :(Worker(59)(0, (1,19), 1, 0), 1859)
+PassiveUnits :
+
+Combat :
+start time :1860
+end time : 1864
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(62)(0, (2,20), 1, 0)
+Involved_B :Light(60)(1, (1,20), 4, 0)
+Involved_ALL :Worker(62)(0, (2,20), 1, 0)Light(60)(1, (1,20), 4, 0)
+Remained_A :Worker(62)(0, (2,20), 1, 0)
+Remained_B :Light(60)(1, (1,20), 4, 0)
+Remained_ALL :Light(60)(1, (1,20), 4, 0)Worker(62)(0, (2,20), 1, 0)
+KilledUnits :
+PassiveUnits :Light(60)(1, (1,20), 4, 0)
+
+Combat :
+start time :1864
+end time : 1867
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(62)(0, (2,20), 1, 0)Worker(64)(0, (2,18), 1, 0)
+Involved_B :Light(37)(1, (2,19), 2, 0)Light(38)(1, (2,17), 4, 0)Light(60)(1, (1,20), 4, 0)
+Involved_ALL :Worker(62)(0, (2,20), 1, 0)Worker(64)(0, (2,18), 1, 0)Light(37)(1, (2,19), 2, 0)Light(38)(1, (2,17), 4, 0)Light(60)(1, (1,20), 4, 0)
+Remained_A :Worker(62)(0, (2,20), 1, 0)Worker(64)(0, (2,18), 1, 0)
+Remained_B :Light(37)(1, (2,19), 2, 0)Light(38)(1, (2,17), 4, 0)Light(60)(1, (1,21), 3, 0)
+Remained_ALL :Light(37)(1, (2,19), 2, 0)Light(38)(1, (2,17), 4, 0)Light(60)(1, (1,21), 3, 0)Worker(62)(0, (2,20), 1, 0)Worker(64)(0, (2,18), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(64)(0, (2,18), 1, 0)Light(60)(1, (1,20), 4, 0)
+
+Combat :
+start time :1864
+end time : 1869
+Combat Ended Because of :Destroyed
+Involved_A :Worker(55)(0, (5,15), 1, 0)
+Involved_B :Light(42)(1, (4,15), 4, 0)
+Involved_ALL :Worker(55)(0, (5,15), 1, 0)Light(42)(1, (4,15), 4, 0)
+Remained_A :
+Remained_B :Light(42)(1, (4,15), 4, 0)
+Remained_ALL :Light(42)(1, (4,15), 4, 0)
+KilledUnits :(Worker(55)(0, (5,15), 1, 0), 1869)
+PassiveUnits :Worker(55)(0, (5,15), 1, 0)
+
+Combat :
+start time :1867
+end time : 1869
+Combat Ended Because of :Destroyed
+Involved_A :Worker(62)(0, (2,20), 1, 0)Worker(64)(0, (2,18), 1, 0)
+Involved_B :Light(37)(1, (2,19), 2, 0)Light(38)(1, (2,17), 4, 0)
+Involved_ALL :Worker(62)(0, (2,20), 1, 0)Worker(64)(0, (2,18), 1, 0)Light(37)(1, (2,19), 2, 0)Light(38)(1, (2,17), 4, 0)
+Remained_A :
+Remained_B :Light(37)(1, (2,19), 2, 0)Light(38)(1, (2,17), 4, 0)
+Remained_ALL :Light(37)(1, (2,19), 2, 0)Light(38)(1, (2,17), 4, 0)
+KilledUnits :(Worker(64)(0, (2,18), 1, 0), 1869)(Worker(62)(0, (2,20), 1, 0), 1869)
+PassiveUnits :Worker(64)(0, (2,18), 1, 0)
+
+Combat :
+start time :1877
+end time : 1880
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(61)(0, (1,16), 1, 0)
+Involved_B :Light(38)(1, (2,16), 4, 0)
+Involved_ALL :Worker(61)(0, (1,16), 1, 0)Light(38)(1, (2,16), 4, 0)
+Remained_A :Worker(61)(0, (1,17), 1, 0)
+Remained_B :Light(38)(1, (2,16), 4, 0)
+Remained_ALL :Light(38)(1, (2,16), 4, 0)Worker(61)(0, (1,17), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(61)(0, (1,16), 1, 0)
+
+Combat :
+start time :1885
+end time : 1890
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(61)(0, (1,17), 1, 0)
+Involved_B :Light(37)(1, (1,18), 2, 0)
+Involved_ALL :Worker(61)(0, (1,17), 1, 0)Light(37)(1, (1,18), 2, 0)
+Remained_A :Worker(61)(0, (0,17), 1, 0)
+Remained_B :Light(37)(1, (1,18), 2, 0)
+Remained_ALL :Light(37)(1, (1,18), 2, 0)Worker(61)(0, (0,17), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(61)(0, (1,17), 1, 0)
+
+Combat :
+start time :1890
+end time : 1893
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(68)(0, (2,14), 1, 0)Worker(67)(0, (3,14), 1, 0)
+Involved_B :Light(42)(1, (2,15), 4, 0)
+Involved_ALL :Worker(68)(0, (2,14), 1, 0)Worker(67)(0, (3,14), 1, 0)Light(42)(1, (2,15), 4, 0)
+Remained_A :Worker(67)(0, (3,14), 1, 0)Worker(68)(0, (2,14), 1, 0)
+Remained_B :Light(42)(1, (1,15), 4, 0)
+Remained_ALL :Light(42)(1, (1,15), 4, 0)Worker(67)(0, (3,14), 1, 0)Worker(68)(0, (2,14), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(67)(0, (3,14), 1, 0)Light(42)(1, (2,15), 4, 0)
+
+Combat :
+start time :1898
+end time : 1903
+Combat Ended Because of :Destroyed
+Involved_A :Worker(61)(0, (0,17), 1, 0)
+Involved_B :Light(38)(1, (0,16), 4, 0)
+Involved_ALL :Worker(61)(0, (0,17), 1, 0)Light(38)(1, (0,16), 4, 0)
+Remained_A :
+Remained_B :Light(38)(1, (0,16), 3, 0)
+Remained_ALL :Light(38)(1, (0,16), 3, 0)
+KilledUnits :(Worker(61)(0, (0,17), 1, 0), 1903)
+PassiveUnits :
+
+Combat :
+start time :1900
+end time : 1901
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(71)(0, (1,14), 1, 0)Worker(68)(0, (2,14), 1, 0)
+Involved_B :Light(42)(1, (1,15), 4, 0)
+Involved_ALL :Worker(71)(0, (1,14), 1, 0)Worker(68)(0, (2,14), 1, 0)Light(42)(1, (1,15), 4, 0)
+Remained_A :Worker(68)(0, (2,14), 1, 0)Worker(71)(0, (1,14), 1, 0)
+Remained_B :Light(42)(1, (2,15), 4, 0)
+Remained_ALL :Light(42)(1, (2,15), 4, 0)Worker(68)(0, (2,14), 1, 0)Worker(71)(0, (1,14), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(71)(0, (1,14), 1, 0)Worker(68)(0, (2,14), 1, 0)Light(42)(1, (1,15), 4, 0)
+
+Combat :
+start time :1901
+end time : 1905
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(67)(0, (3,15), 1, 0)Worker(68)(0, (2,14), 1, 0)Worker(71)(0, (1,14), 1, 0)
+Involved_B :Light(42)(1, (2,15), 4, 0)
+Involved_ALL :Worker(67)(0, (3,15), 1, 0)Worker(68)(0, (2,14), 1, 0)Worker(71)(0, (1,14), 1, 0)Light(42)(1, (2,15), 4, 0)
+Remained_A :Worker(67)(0, (3,15), 1, 0)Worker(68)(0, (2,13), 1, 0)Worker(71)(0, (1,14), 1, 0)
+Remained_B :Light(42)(1, (2,15), 4, 0)
+Remained_ALL :Light(42)(1, (2,15), 4, 0)Worker(67)(0, (3,15), 1, 0)Worker(68)(0, (2,13), 1, 0)Worker(71)(0, (1,14), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(67)(0, (3,15), 1, 0)Worker(68)(0, (2,14), 1, 0)
+
+Combat :
+start time :1905
+end time : 1906
+Combat Ended Because of :Destroyed
+Involved_A :Worker(67)(0, (3,15), 1, 0)
+Involved_B :Light(42)(1, (2,15), 4, 0)
+Involved_ALL :Worker(67)(0, (3,15), 1, 0)Light(42)(1, (2,15), 4, 0)
+Remained_A :
+Remained_B :Light(42)(1, (2,15), 4, 0)
+Remained_ALL :Light(42)(1, (2,15), 4, 0)
+KilledUnits :(Worker(67)(0, (3,15), 1, 0), 1906)
+PassiveUnits :Worker(67)(0, (3,15), 1, 0)
+
+Combat :
+start time :1915
+end time : 1919
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(71)(0, (1,15), 1, 0)
+Involved_B :Light(38)(1, (1,16), 3, 0)
+Involved_ALL :Worker(71)(0, (1,15), 1, 0)Light(38)(1, (1,16), 3, 0)
+Remained_A :Worker(71)(0, (1,15), 1, 0)
+Remained_B :Light(38)(1, (0,16), 3, 0)
+Remained_ALL :Light(38)(1, (0,16), 3, 0)Worker(71)(0, (1,15), 1, 0)
+KilledUnits :
+PassiveUnits :Light(38)(1, (1,16), 3, 0)
+
+Combat :
+start time :1922
+end time : 1925
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(68)(0, (2,14), 1, 0)Worker(70)(0, (3,13), 1, 0)
+Involved_B :Light(42)(1, (3,14), 4, 0)
+Involved_ALL :Worker(68)(0, (2,14), 1, 0)Worker(70)(0, (3,13), 1, 0)Light(42)(1, (3,14), 4, 0)
+Remained_A :Worker(68)(0, (2,15), 1, 0)Worker(70)(0, (3,13), 1, 0)
+Remained_B :Light(42)(1, (3,14), 4, 0)
+Remained_ALL :Light(42)(1, (3,14), 4, 0)Worker(68)(0, (2,15), 1, 0)Worker(70)(0, (3,13), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(68)(0, (2,14), 1, 0)Worker(70)(0, (3,13), 1, 0)
+
+Combat :
+start time :1925
+end time : 1930
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(70)(0, (3,13), 1, 0)
+Involved_B :Light(42)(1, (3,14), 4, 0)
+Involved_ALL :Worker(70)(0, (3,13), 1, 0)Light(42)(1, (3,14), 4, 0)
+Remained_A :Worker(70)(0, (4,13), 1, 0)
+Remained_B :Light(42)(1, (3,14), 4, 0)
+Remained_ALL :Light(42)(1, (3,14), 4, 0)Worker(70)(0, (4,13), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(70)(0, (3,13), 1, 0)
+
+Combat :
+start time :1925
+end time : 1927
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(68)(0, (2,15), 1, 0)Worker(71)(0, (1,15), 1, 0)
+Involved_B :Light(69)(1, (2,16), 4, 0)
+Involved_ALL :Worker(68)(0, (2,15), 1, 0)Worker(71)(0, (1,15), 1, 0)Light(69)(1, (2,16), 4, 0)
+Remained_A :Worker(68)(0, (2,15), 1, 0)Worker(71)(0, (1,15), 1, 0)
+Remained_B :Light(69)(1, (2,16), 4, 0)
+Remained_ALL :Worker(68)(0, (2,15), 1, 0)Light(69)(1, (2,16), 4, 0)Worker(71)(0, (1,15), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(71)(0, (1,15), 1, 0)Light(69)(1, (2,16), 4, 0)
+
+Combat :
+start time :1927
+end time : 1930
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(71)(0, (1,15), 1, 0)Worker(68)(0, (2,15), 1, 0)
+Involved_B :Light(38)(1, (1,16), 3, 0)Light(69)(1, (2,16), 4, 0)
+Involved_ALL :Worker(71)(0, (1,15), 1, 0)Worker(68)(0, (2,15), 1, 0)Light(38)(1, (1,16), 3, 0)Light(69)(1, (2,16), 4, 0)
+Remained_A :Worker(68)(0, (2,15), 1, 0)Worker(71)(0, (0,15), 1, 0)
+Remained_B :Light(38)(1, (1,16), 3, 0)Light(69)(1, (3,16), 4, 0)
+Remained_ALL :Light(38)(1, (1,16), 3, 0)Worker(68)(0, (2,15), 1, 0)Light(69)(1, (3,16), 4, 0)Worker(71)(0, (0,15), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(71)(0, (1,15), 1, 0)Light(69)(1, (2,16), 4, 0)
+
+Combat :
+start time :1930
+end time : 1934
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(51)(0, (6,13), 1, 0)
+Involved_B :Light(45)(1, (6,14), 4, 0)Light(52)(1, (7,14), 4, 0)
+Involved_ALL :Worker(51)(0, (6,13), 1, 0)Light(45)(1, (6,14), 4, 0)Light(52)(1, (7,14), 4, 0)
+Remained_A :Worker(51)(0, (6,13), 1, 0)
+Remained_B :Light(45)(1, (5,14), 4, 0)Light(52)(1, (7,14), 4, 0)
+Remained_ALL :Light(45)(1, (5,14), 4, 0)Worker(51)(0, (6,13), 1, 0)Light(52)(1, (7,14), 4, 0)
+KilledUnits :
+PassiveUnits :Light(45)(1, (6,14), 4, 0)Light(52)(1, (7,14), 4, 0)
+
+Combat :
+start time :1936
+end time : 1941
+Combat Ended Because of :Destroyed
+Involved_A :Worker(51)(0, (6,13), 1, 0)
+Involved_B :Light(52)(1, (7,13), 4, 0)
+Involved_ALL :Worker(51)(0, (6,13), 1, 0)Light(52)(1, (7,13), 4, 0)
+Remained_A :
+Remained_B :Light(52)(1, (7,13), 4, 0)
+Remained_ALL :Light(52)(1, (7,13), 4, 0)
+KilledUnits :(Worker(51)(0, (6,13), 1, 0), 1941)
+PassiveUnits :Worker(51)(0, (6,13), 1, 0)
+
+Combat :
+start time :1938
+end time : 1940
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(68)(0, (2,15), 1, 0)
+Involved_B :Light(69)(1, (2,16), 4, 0)Light(38)(1, (1,16), 3, 0)
+Involved_ALL :Worker(68)(0, (2,15), 1, 0)Light(69)(1, (2,16), 4, 0)Light(38)(1, (1,16), 3, 0)
+Remained_A :Worker(68)(0, (1,15), 1, 0)
+Remained_B :Light(38)(1, (1,17), 3, 0)Light(69)(1, (2,16), 4, 0)
+Remained_ALL :Light(38)(1, (1,17), 3, 0)Worker(68)(0, (1,15), 1, 0)Light(69)(1, (2,16), 4, 0)
+KilledUnits :
+PassiveUnits :Worker(68)(0, (2,15), 1, 0)Light(38)(1, (1,16), 3, 0)
+
+Combat :
+start time :1948
+end time : 1951
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(68)(0, (1,15), 1, 0)
+Involved_B :Light(42)(1, (1,14), 4, 0)
+Involved_ALL :Worker(68)(0, (1,15), 1, 0)Light(42)(1, (1,14), 4, 0)
+Remained_A :Worker(68)(0, (1,15), 1, 0)
+Remained_B :Light(42)(1, (1,14), 4, 0)
+Remained_ALL :Light(42)(1, (1,14), 4, 0)Worker(68)(0, (1,15), 1, 0)
+KilledUnits :
+PassiveUnits :
+
+Combat :
+start time :1950
+end time : 1951
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(71)(0, (0,17), 1, 0)
+Involved_B :Light(37)(1, (2,17), 2, 0)Light(38)(1, (1,17), 3, 0)Light(69)(1, (2,16), 4, 0)
+Involved_ALL :Worker(71)(0, (0,17), 1, 0)Light(37)(1, (2,17), 2, 0)Light(38)(1, (1,17), 3, 0)Light(69)(1, (2,16), 4, 0)
+Remained_A :Worker(71)(0, (0,17), 1, 0)
+Remained_B :Light(37)(1, (2,17), 2, 0)Light(38)(1, (1,17), 3, 0)Light(69)(1, (1,16), 4, 0)
+Remained_ALL :Light(37)(1, (2,17), 2, 0)Light(38)(1, (1,17), 3, 0)Light(69)(1, (1,16), 4, 0)Worker(71)(0, (0,17), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(71)(0, (0,17), 1, 0)Light(37)(1, (2,17), 2, 0)Light(38)(1, (1,17), 3, 0)Light(69)(1, (2,16), 4, 0)
+
+Combat :
+start time :1951
+end time : 1953
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(68)(0, (1,15), 1, 0)Worker(71)(0, (0,17), 1, 0)
+Involved_B :Light(38)(1, (1,17), 3, 0)Light(69)(1, (1,16), 4, 0)Light(37)(1, (2,17), 2, 0)Light(42)(1, (1,14), 4, 0)
+Involved_ALL :Worker(68)(0, (1,15), 1, 0)Worker(71)(0, (0,17), 1, 0)Light(38)(1, (1,17), 3, 0)Light(69)(1, (1,16), 4, 0)Light(37)(1, (2,17), 2, 0)Light(42)(1, (1,14), 4, 0)
+Remained_A :Worker(71)(0, (0,17), 1, 0)
+Remained_B :Light(37)(1, (2,17), 2, 0)Light(38)(1, (1,17), 3, 0)Light(42)(1, (1,14), 3, 0)Light(69)(1, (1,16), 4, 0)
+Remained_ALL :Light(37)(1, (2,17), 2, 0)Light(38)(1, (1,17), 3, 0)Light(42)(1, (1,14), 3, 0)Light(69)(1, (1,16), 4, 0)Worker(71)(0, (0,17), 1, 0)
+KilledUnits :(Worker(68)(0, (1,15), 1, 0), 1953)
+PassiveUnits :Light(38)(1, (1,17), 3, 0)Light(37)(1, (2,17), 2, 0)
+
+Combat :
+start time :1953
+end time : 1954
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(71)(0, (0,17), 1, 0)
+Involved_B :Light(37)(1, (2,17), 2, 0)Light(38)(1, (1,17), 3, 0)Light(69)(1, (1,16), 4, 0)
+Involved_ALL :Worker(71)(0, (0,17), 1, 0)Light(37)(1, (2,17), 2, 0)Light(38)(1, (1,17), 3, 0)Light(69)(1, (1,16), 4, 0)
+Remained_A :Worker(71)(0, (0,17), 1, 0)
+Remained_B :Light(37)(1, (3,17), 2, 0)Light(38)(1, (1,17), 3, 0)Light(69)(1, (1,16), 4, 0)
+Remained_ALL :Light(37)(1, (3,17), 2, 0)Light(38)(1, (1,17), 3, 0)Light(69)(1, (1,16), 4, 0)Worker(71)(0, (0,17), 1, 0)
+KilledUnits :
+PassiveUnits :Light(37)(1, (2,17), 2, 0)Light(38)(1, (1,17), 3, 0)
+
+Combat :
+start time :1954
+end time : 1956
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(71)(0, (0,17), 1, 0)
+Involved_B :Light(38)(1, (1,17), 3, 0)Light(69)(1, (1,16), 4, 0)
+Involved_ALL :Worker(71)(0, (0,17), 1, 0)Light(38)(1, (1,17), 3, 0)Light(69)(1, (1,16), 4, 0)
+Remained_A :Worker(71)(0, (0,17), 1, 0)
+Remained_B :Light(38)(1, (1,18), 2, 0)Light(69)(1, (1,16), 4, 0)
+Remained_ALL :Light(38)(1, (1,18), 2, 0)Light(69)(1, (1,16), 4, 0)Worker(71)(0, (0,17), 1, 0)
+KilledUnits :
+PassiveUnits :Light(38)(1, (1,17), 3, 0)
+
+Combat :
+start time :1960
+end time : 1961
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(70)(0, (1,13), 1, 0)
+Involved_B :Light(42)(1, (1,14), 3, 0)
+Involved_ALL :Worker(70)(0, (1,13), 1, 0)Light(42)(1, (1,14), 3, 0)
+Remained_A :Worker(70)(0, (1,13), 1, 0)
+Remained_B :Light(42)(1, (2,14), 3, 0)
+Remained_ALL :Light(42)(1, (2,14), 3, 0)Worker(70)(0, (1,13), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(70)(0, (1,13), 1, 0)Light(42)(1, (1,14), 3, 0)
+
+Combat :
+start time :1964
+end time : 1969
+Combat Ended Because of :Destroyed
+Involved_A :Worker(71)(0, (0,17), 1, 0)
+Involved_B :Light(38)(1, (0,18), 2, 0)Light(69)(1, (0,16), 4, 0)
+Involved_ALL :Worker(71)(0, (0,17), 1, 0)Light(38)(1, (0,18), 2, 0)Light(69)(1, (0,16), 4, 0)
+Remained_A :
+Remained_B :Light(38)(1, (0,18), 2, 0)Light(69)(1, (0,16), 4, 0)
+Remained_ALL :Light(38)(1, (0,18), 2, 0)Light(69)(1, (0,16), 4, 0)
+KilledUnits :(Worker(71)(0, (0,17), 1, 0), 1969)
+PassiveUnits :Worker(71)(0, (0,17), 1, 0)
+
+Combat :
+start time :1969
+end time : 1974
+Combat Ended Because of :Destroyed
+Involved_A :Worker(70)(0, (1,13), 1, 0)
+Involved_B :Light(42)(1, (1,14), 3, 0)
+Involved_ALL :Worker(70)(0, (1,13), 1, 0)Light(42)(1, (1,14), 3, 0)
+Remained_A :
+Remained_B :Light(42)(1, (1,14), 3, 0)
+Remained_ALL :Light(42)(1, (1,14), 3, 0)
+KilledUnits :(Worker(70)(0, (1,13), 1, 0), 1974)
+PassiveUnits :Worker(70)(0, (1,13), 1, 0)
+
+Combat :
+start time :1970
+end time : 1972
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(72)(0, (4,12), 1, 0)
+Involved_B :Light(52)(1, (4,13), 4, 0)
+Involved_ALL :Worker(72)(0, (4,12), 1, 0)Light(52)(1, (4,13), 4, 0)
+Remained_A :Worker(72)(0, (4,12), 1, 0)
+Remained_B :Light(52)(1, (4,13), 4, 0)
+Remained_ALL :Light(52)(1, (4,13), 4, 0)Worker(72)(0, (4,12), 1, 0)
+KilledUnits :
+PassiveUnits :Light(52)(1, (4,13), 4, 0)
+
+Combat :
+start time :1972
+end time : 1973
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(72)(0, (4,12), 1, 0)
+Involved_B :Light(52)(1, (4,13), 4, 0)Light(65)(1, (3,13), 4, 0)
+Involved_ALL :Worker(72)(0, (4,12), 1, 0)Light(52)(1, (4,13), 4, 0)Light(65)(1, (3,13), 4, 0)
+Remained_A :Worker(72)(0, (4,12), 1, 0)
+Remained_B :Light(52)(1, (5,13), 4, 0)Light(65)(1, (3,13), 4, 0)
+Remained_ALL :Light(52)(1, (5,13), 4, 0)Light(65)(1, (3,13), 4, 0)Worker(72)(0, (4,12), 1, 0)
+KilledUnits :
+PassiveUnits :Light(52)(1, (4,13), 4, 0)Light(65)(1, (3,13), 4, 0)
+
+Combat :
+start time :1976
+end time : 1980
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(72)(0, (4,12), 1, 0)
+Involved_B :Light(50)(1, (5,12), 4, 0)Light(52)(1, (5,13), 4, 0)
+Involved_ALL :Worker(72)(0, (4,12), 1, 0)Light(50)(1, (5,12), 4, 0)Light(52)(1, (5,13), 4, 0)
+Remained_A :Worker(72)(0, (4,12), 1, 0)
+Remained_B :Light(50)(1, (5,12), 4, 0)Light(52)(1, (5,13), 4, 0)
+Remained_ALL :Light(50)(1, (5,12), 4, 0)Light(52)(1, (5,13), 4, 0)Worker(72)(0, (4,12), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(72)(0, (4,12), 1, 0)Light(52)(1, (5,13), 4, 0)
+
+Combat :
+start time :1980
+end time : 1981
+Combat Ended Because of :Destroyed
+Involved_A :Worker(72)(0, (4,12), 1, 0)
+Involved_B :Light(50)(1, (5,12), 4, 0)Light(52)(1, (5,13), 4, 0)Light(65)(1, (3,12), 4, 0)
+Involved_ALL :Worker(72)(0, (4,12), 1, 0)Light(50)(1, (5,12), 4, 0)Light(52)(1, (5,13), 4, 0)Light(65)(1, (3,12), 4, 0)
+Remained_A :
+Remained_B :Light(50)(1, (5,12), 4, 0)Light(52)(1, (4,13), 4, 0)Light(65)(1, (3,12), 4, 0)
+Remained_ALL :Light(50)(1, (5,12), 4, 0)Light(52)(1, (4,13), 4, 0)Light(65)(1, (3,12), 4, 0)
+KilledUnits :(Worker(72)(0, (4,12), 1, 0), 1981)
+PassiveUnits :Worker(72)(0, (4,12), 1, 0)Light(52)(1, (5,13), 4, 0)Light(65)(1, (3,12), 4, 0)
+
+Combat :
+start time :1996
+end time : 2000
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(41)(0, (6,8), 1, 0)Worker(44)(0, (5,9), 1, 0)
+Involved_B :Light(56)(1, (6,9), 4, 0)
+Involved_ALL :Worker(41)(0, (6,8), 1, 0)Worker(44)(0, (5,9), 1, 0)Light(56)(1, (6,9), 4, 0)
+Remained_A :Worker(41)(0, (6,7), 1, 0)Worker(44)(0, (5,8), 1, 0)
+Remained_B :Light(56)(1, (6,9), 4, 0)
+Remained_ALL :Worker(41)(0, (6,7), 1, 0)Worker(44)(0, (5,8), 1, 0)Light(56)(1, (6,9), 4, 0)
+KilledUnits :
+PassiveUnits :Worker(41)(0, (6,8), 1, 0)Worker(44)(0, (5,9), 1, 0)
+
+Combat :
+start time :2017
+end time : 2020
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(41)(0, (6,8), 1, 0)
+Involved_B :Light(56)(1, (7,8), 4, 0)
+Involved_ALL :Worker(41)(0, (6,8), 1, 0)Light(56)(1, (7,8), 4, 0)
+Remained_A :Worker(41)(0, (6,7), 1, 0)
+Remained_B :Light(56)(1, (7,8), 4, 0)
+Remained_ALL :Worker(41)(0, (6,7), 1, 0)Light(56)(1, (7,8), 4, 0)
+KilledUnits :
+PassiveUnits :Worker(41)(0, (6,8), 1, 0)
+
+Combat :
+start time :2017
+end time : 2020
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(75)(0, (4,10), 1, 0)
+Involved_B :Light(65)(1, (3,10), 4, 0)
+Involved_ALL :Worker(75)(0, (4,10), 1, 0)Light(65)(1, (3,10), 4, 0)
+Remained_A :Worker(75)(0, (4,11), 1, 0)
+Remained_B :Light(65)(1, (3,10), 4, 0)
+Remained_ALL :Light(65)(1, (3,10), 4, 0)Worker(75)(0, (4,11), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(75)(0, (4,10), 1, 0)
+
+Combat :
+start time :2030
+end time : 2031
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(75)(0, (5,11), 1, 0)
+Involved_B :Light(52)(1, (6,11), 4, 0)
+Involved_ALL :Worker(75)(0, (5,11), 1, 0)Light(52)(1, (6,11), 4, 0)
+Remained_A :Worker(75)(0, (5,11), 1, 0)
+Remained_B :Light(52)(1, (6,11), 4, 0)
+Remained_ALL :Light(52)(1, (6,11), 4, 0)Worker(75)(0, (5,11), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(75)(0, (5,11), 1, 0)Light(52)(1, (6,11), 4, 0)
+
+Combat :
+start time :2031
+end time : 2037
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(75)(0, (5,11), 1, 0)
+Involved_B :Light(50)(1, (6,12), 4, 0)Light(52)(1, (6,11), 4, 0)
+Involved_ALL :Worker(75)(0, (5,11), 1, 0)Light(50)(1, (6,12), 4, 0)Light(52)(1, (6,11), 4, 0)
+Remained_A :Worker(75)(0, (5,11), 1, 0)
+Remained_B :Light(50)(1, (6,12), 4, 0)Light(52)(1, (6,10), 3, 0)
+Remained_ALL :Light(50)(1, (6,12), 4, 0)Light(52)(1, (6,10), 3, 0)Worker(75)(0, (5,11), 1, 0)
+KilledUnits :
+PassiveUnits :Light(50)(1, (6,12), 4, 0)Light(52)(1, (6,11), 4, 0)
+
+Combat :
+start time :2038
+end time : 2039
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(75)(0, (5,11), 1, 0)
+Involved_B :Light(42)(1, (5,12), 3, 0)Light(50)(1, (6,12), 4, 0)Light(65)(1, (4,11), 4, 0)
+Involved_ALL :Worker(75)(0, (5,11), 1, 0)Light(42)(1, (5,12), 3, 0)Light(50)(1, (6,12), 4, 0)Light(65)(1, (4,11), 4, 0)
+Remained_A :Worker(75)(0, (5,11), 1, 0)
+Remained_B :Light(42)(1, (5,12), 3, 0)Light(50)(1, (6,13), 4, 0)Light(65)(1, (4,11), 4, 0)
+Remained_ALL :Light(42)(1, (5,12), 3, 0)Light(50)(1, (6,13), 4, 0)Light(65)(1, (4,11), 4, 0)Worker(75)(0, (5,11), 1, 0)
+KilledUnits :
+PassiveUnits :Light(42)(1, (5,12), 3, 0)Light(50)(1, (6,12), 4, 0)Light(65)(1, (4,11), 4, 0)
+
+Combat :
+start time :2039
+end time : 2043
+Combat Ended Because of :Destroyed
+Involved_A :Worker(75)(0, (5,11), 1, 0)
+Involved_B :Light(42)(1, (5,12), 3, 0)Light(65)(1, (4,11), 4, 0)
+Involved_ALL :Worker(75)(0, (5,11), 1, 0)Light(42)(1, (5,12), 3, 0)Light(65)(1, (4,11), 4, 0)
+Remained_A :
+Remained_B :Light(42)(1, (5,12), 3, 0)Light(65)(1, (4,11), 4, 0)
+Remained_ALL :Light(42)(1, (5,12), 3, 0)Light(65)(1, (4,11), 4, 0)
+KilledUnits :(Worker(75)(0, (5,11), 1, 0), 2043)
+PassiveUnits :
+
+Combat :
+start time :2045
+end time : 2050
+Combat Ended Because of :Destroyed
+Involved_A :Worker(41)(0, (6,8), 1, 0)
+Involved_B :Light(52)(1, (6,9), 3, 0)Light(48)(1, (7,9), 4, 0)
+Involved_ALL :Worker(41)(0, (6,8), 1, 0)Light(52)(1, (6,9), 3, 0)Light(48)(1, (7,9), 4, 0)
+Remained_A :
+Remained_B :Light(48)(1, (7,8), 4, 0)Light(52)(1, (6,9), 3, 0)
+Remained_ALL :Light(48)(1, (7,8), 4, 0)Light(52)(1, (6,9), 3, 0)
+KilledUnits :(Worker(41)(0, (6,8), 1, 0), 2050)
+PassiveUnits :Light(48)(1, (7,9), 4, 0)
+
+Combat :
+start time :2054
+end time : 2060
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(29)(0, (8,3), 1, 0)Worker(30)(0, (6,5), 1, 0)Worker(32)(0, (9,2), 1, 0)Worker(34)(0, (8,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (5,4), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(39)(0, (4,5), 1, 0)Worker(44)(0, (6,6), 1, 0)Worker(53)(0, (10,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (4,0), 1, 0)
+Involved_B :Light(56)(1, (7,6), 4, 0)
+Involved_ALL :Worker(29)(0, (8,3), 1, 0)Worker(30)(0, (6,5), 1, 0)Worker(32)(0, (9,2), 1, 0)Worker(34)(0, (8,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (5,4), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(39)(0, (4,5), 1, 0)Worker(44)(0, (6,6), 1, 0)Worker(53)(0, (10,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (4,0), 1, 0)Light(56)(1, (7,6), 4, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(29)(0, (9,3), 1, 0)Worker(30)(0, (7,5), 1, 0)Worker(32)(0, (9,1), 1, 0)Worker(34)(0, (7,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (5,5), 1, 0)Worker(39)(0, (4,6), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Worker(53)(0, (10,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (5,0), 1, 0)
+Remained_B :Light(56)(1, (7,6), 4, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(29)(0, (9,3), 1, 0)Worker(30)(0, (7,5), 1, 0)Worker(32)(0, (9,1), 1, 0)Worker(34)(0, (7,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (5,5), 1, 0)Worker(39)(0, (4,6), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Worker(53)(0, (10,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Light(56)(1, (7,6), 4, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (5,0), 1, 0)
+KilledUnits :(Worker(44)(0, (6,6), 1, 0), 2059)
+PassiveUnits :Worker(29)(0, (8,3), 1, 0)Worker(30)(0, (6,5), 1, 0)Worker(32)(0, (9,2), 1, 0)Worker(34)(0, (8,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (5,4), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(39)(0, (4,5), 1, 0)Worker(44)(0, (6,6), 1, 0)Worker(53)(0, (10,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (4,0), 1, 0)
+
+Combat :
+start time :2060
+end time : 2067
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(29)(0, (9,3), 1, 0)Worker(30)(0, (7,5), 1, 0)Worker(34)(0, (7,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Worker(46)(0, (9,4), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Worker(53)(0, (10,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(32)(0, (9,1), 1, 0)Worker(36)(0, (5,5), 1, 0)Worker(39)(0, (4,6), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (5,0), 1, 0)Worker(79)(0, (2,3), 1, 0)
+Involved_B :Light(56)(1, (7,6), 4, 0)
+Involved_ALL :Worker(29)(0, (9,3), 1, 0)Worker(30)(0, (7,5), 1, 0)Worker(34)(0, (7,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Worker(46)(0, (9,4), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Worker(53)(0, (10,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(32)(0, (9,1), 1, 0)Worker(36)(0, (5,5), 1, 0)Worker(39)(0, (4,6), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (5,0), 1, 0)Worker(79)(0, (2,3), 1, 0)Light(56)(1, (7,6), 4, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(29)(0, (9,3), 1, 0)Worker(30)(0, (7,5), 1, 0)Worker(32)(0, (9,1), 1, 0)Worker(34)(0, (7,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (5,5), 1, 0)Worker(39)(0, (4,6), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Worker(46)(0, (9,4), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Worker(53)(0, (10,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (5,0), 1, 0)Worker(79)(0, (2,3), 1, 0)
+Remained_B :Light(56)(1, (6,6), 2, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(29)(0, (9,3), 1, 0)Worker(30)(0, (7,5), 1, 0)Worker(32)(0, (9,1), 1, 0)Worker(34)(0, (7,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (5,5), 1, 0)Worker(39)(0, (4,6), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Worker(46)(0, (9,4), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Worker(53)(0, (10,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Light(56)(1, (6,6), 2, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (5,0), 1, 0)Worker(79)(0, (2,3), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(29)(0, (9,3), 1, 0)Worker(34)(0, (7,4), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Worker(46)(0, (9,4), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Worker(53)(0, (10,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(32)(0, (9,1), 1, 0)Worker(36)(0, (5,5), 1, 0)Worker(39)(0, (4,6), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (5,0), 1, 0)Worker(79)(0, (2,3), 1, 0)Light(56)(1, (7,6), 4, 0)
+
+Combat :
+start time :2067
+end time : 2070
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(29)(0, (9,3), 1, 0)Worker(30)(0, (7,5), 1, 0)Worker(34)(0, (7,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (5,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(27)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (9,1), 1, 0)Worker(39)(0, (4,6), 1, 0)Worker(46)(0, (9,4), 1, 0)Worker(53)(0, (10,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (5,0), 1, 0)Worker(79)(0, (2,3), 1, 0)
+Involved_B :Light(56)(1, (6,6), 2, 0)
+Involved_ALL :Worker(29)(0, (9,3), 1, 0)Worker(30)(0, (7,5), 1, 0)Worker(34)(0, (7,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (5,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(27)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (9,1), 1, 0)Worker(39)(0, (4,6), 1, 0)Worker(46)(0, (9,4), 1, 0)Worker(53)(0, (10,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (5,0), 1, 0)Worker(79)(0, (2,3), 1, 0)Light(56)(1, (6,6), 2, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(27)(0, (1,1), 1, 0)Worker(29)(0, (8,3), 1, 0)Worker(30)(0, (7,5), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (9,2), 1, 0)Worker(34)(0, (8,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (6,5), 1, 0)Worker(39)(0, (4,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Worker(46)(0, (10,4), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Worker(53)(0, (11,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (6,0), 1, 0)Worker(79)(0, (2,4), 1, 0)
+Remained_B :Light(56)(1, (6,6), 2, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(27)(0, (1,1), 1, 0)Worker(29)(0, (8,3), 1, 0)Worker(30)(0, (7,5), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (9,2), 1, 0)Worker(34)(0, (8,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (6,5), 1, 0)Worker(39)(0, (4,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Worker(46)(0, (10,4), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Worker(53)(0, (11,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Light(56)(1, (6,6), 2, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (6,0), 1, 0)Worker(79)(0, (2,4), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(29)(0, (9,3), 1, 0)Worker(34)(0, (7,4), 1, 0)Worker(36)(0, (5,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(27)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (9,1), 1, 0)Worker(39)(0, (4,6), 1, 0)Worker(46)(0, (9,4), 1, 0)Worker(53)(0, (10,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (5,0), 1, 0)Worker(79)(0, (2,3), 1, 0)Light(56)(1, (6,6), 2, 0)
+
+Combat :
+start time :2069
+end time : 2070
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(76)(0, (2,7), 1, 0)
+Involved_B :Light(69)(1, (2,8), 4, 0)
+Involved_ALL :Worker(76)(0, (2,7), 1, 0)Light(69)(1, (2,8), 4, 0)
+Remained_A :Worker(76)(0, (3,7), 1, 0)
+Remained_B :Light(69)(1, (2,8), 4, 0)
+Remained_ALL :Light(69)(1, (2,8), 4, 0)Worker(76)(0, (3,7), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(76)(0, (2,7), 1, 0)Light(69)(1, (2,8), 4, 0)
+
+Combat :
+start time :2070
+end time : 2075
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(29)(0, (8,3), 1, 0)Worker(30)(0, (7,5), 1, 0)Worker(34)(0, (8,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (6,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(77)(0, (6,0), 1, 0)Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (9,2), 1, 0)Worker(39)(0, (4,5), 1, 0)Ranged(73)(0, (3,2), 1, 0)Worker(79)(0, (2,4), 1, 0)
+Involved_B :Light(56)(1, (6,6), 2, 0)
+Involved_ALL :Worker(29)(0, (8,3), 1, 0)Worker(30)(0, (7,5), 1, 0)Worker(34)(0, (8,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (6,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(77)(0, (6,0), 1, 0)Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (9,2), 1, 0)Worker(39)(0, (4,5), 1, 0)Ranged(73)(0, (3,2), 1, 0)Worker(79)(0, (2,4), 1, 0)Light(56)(1, (6,6), 2, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(29)(0, (8,3), 1, 0)Worker(30)(0, (7,5), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (9,2), 1, 0)Worker(34)(0, (8,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (6,5), 1, 0)Worker(39)(0, (4,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (6,0), 1, 0)Worker(79)(0, (2,4), 1, 0)
+Remained_B :Light(56)(1, (7,6), 2, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(29)(0, (8,3), 1, 0)Worker(30)(0, (7,5), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (9,2), 1, 0)Worker(34)(0, (8,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (6,5), 1, 0)Worker(39)(0, (4,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Light(56)(1, (7,6), 2, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (6,0), 1, 0)Worker(79)(0, (2,4), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(29)(0, (8,3), 1, 0)Worker(30)(0, (7,5), 1, 0)Worker(34)(0, (8,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(77)(0, (6,0), 1, 0)Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (9,2), 1, 0)Worker(39)(0, (4,5), 1, 0)Ranged(73)(0, (3,2), 1, 0)Worker(79)(0, (2,4), 1, 0)Light(56)(1, (6,6), 2, 0)
+
+Combat :
+start time :2075
+end time : 2080
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(29)(0, (8,3), 1, 0)Worker(30)(0, (7,5), 1, 0)Worker(32)(0, (9,2), 1, 0)Worker(34)(0, (8,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (6,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(39)(0, (4,5), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (6,0), 1, 0)Worker(79)(0, (2,4), 1, 0)
+Involved_B :Light(56)(1, (7,6), 2, 0)
+Involved_ALL :Worker(29)(0, (8,3), 1, 0)Worker(30)(0, (7,5), 1, 0)Worker(32)(0, (9,2), 1, 0)Worker(34)(0, (8,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (6,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(39)(0, (4,5), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (6,0), 1, 0)Worker(79)(0, (2,4), 1, 0)Light(56)(1, (7,6), 2, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(29)(0, (9,3), 1, 0)Worker(30)(0, (7,4), 1, 0)Worker(32)(0, (10,2), 1, 0)Worker(34)(0, (8,5), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (6,5), 1, 0)Worker(39)(0, (5,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (6,1), 1, 0)Worker(79)(0, (2,5), 1, 0)
+Remained_B :Light(56)(1, (7,6), 2, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(29)(0, (9,3), 1, 0)Worker(30)(0, (7,4), 1, 0)Worker(32)(0, (10,2), 1, 0)Worker(34)(0, (8,5), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (6,5), 1, 0)Worker(39)(0, (5,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Light(56)(1, (7,6), 2, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (6,1), 1, 0)Worker(79)(0, (2,5), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(29)(0, (8,3), 1, 0)Worker(30)(0, (7,5), 1, 0)Worker(32)(0, (9,2), 1, 0)Worker(34)(0, (8,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (6,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(39)(0, (4,5), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (6,0), 1, 0)Worker(79)(0, (2,4), 1, 0)
+
+Combat :
+start time :2075
+end time : 2080
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(76)(0, (3,7), 1, 0)
+Involved_B :Light(52)(1, (5,7), 3, 0)Light(65)(1, (4,7), 4, 0)
+Involved_ALL :Worker(76)(0, (3,7), 1, 0)Light(52)(1, (5,7), 3, 0)Light(65)(1, (4,7), 4, 0)
+Remained_A :Worker(76)(0, (3,6), 1, 0)
+Remained_B :Light(52)(1, (5,7), 3, 0)Light(65)(1, (4,7), 4, 0)
+Remained_ALL :Light(52)(1, (5,7), 3, 0)Light(65)(1, (4,7), 4, 0)Worker(76)(0, (3,6), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(76)(0, (3,7), 1, 0)Light(52)(1, (5,7), 3, 0)
+
+Combat :
+start time :2080
+end time : 2090
+Combat Ended Because of :Destroyed
+Involved_A :Worker(29)(0, (9,3), 1, 0)Worker(30)(0, (7,4), 1, 0)Worker(34)(0, (8,5), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (6,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Worker(46)(0, (9,4), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(77)(0, (6,1), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(32)(0, (10,2), 1, 0)Worker(39)(0, (5,5), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+Involved_B :Light(56)(1, (7,6), 2, 0)
+Involved_ALL :Worker(29)(0, (9,3), 1, 0)Worker(30)(0, (7,4), 1, 0)Worker(34)(0, (8,5), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (6,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Worker(46)(0, (9,4), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(77)(0, (6,1), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(32)(0, (10,2), 1, 0)Worker(39)(0, (5,5), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Light(56)(1, (7,6), 2, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(29)(0, (10,3), 1, 0)Worker(30)(0, (7,4), 1, 0)Worker(32)(0, (11,2), 1, 0)Worker(34)(0, (8,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (6,6), 1, 0)Worker(39)(0, (5,4), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Worker(46)(0, (9,5), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (7,1), 1, 0)
+Remained_B :
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(29)(0, (10,3), 1, 0)Worker(30)(0, (7,4), 1, 0)Worker(32)(0, (11,2), 1, 0)Worker(34)(0, (8,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(36)(0, (6,6), 1, 0)Worker(39)(0, (5,4), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Worker(46)(0, (9,5), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (7,1), 1, 0)
+KilledUnits :(Light(56)(1, (7,6), 1, 0), 2090)
+PassiveUnits :Worker(29)(0, (9,3), 1, 0)Worker(30)(0, (7,4), 1, 0)Worker(34)(0, (8,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Worker(46)(0, (9,4), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(77)(0, (6,1), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(32)(0, (10,2), 1, 0)Worker(39)(0, (5,5), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+
+Combat :
+start time :2088
+end time : 2090
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(76)(0, (3,6), 1, 0)
+Involved_B :Light(65)(1, (3,7), 4, 0)Light(69)(1, (3,8), 4, 0)
+Involved_ALL :Worker(76)(0, (3,6), 1, 0)Light(65)(1, (3,7), 4, 0)Light(69)(1, (3,8), 4, 0)
+Remained_A :Worker(76)(0, (2,6), 1, 0)
+Remained_B :Light(65)(1, (3,7), 4, 0)Light(69)(1, (3,9), 4, 0)
+Remained_ALL :Light(65)(1, (3,7), 4, 0)Light(69)(1, (3,9), 4, 0)Worker(76)(0, (2,6), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(76)(0, (3,6), 1, 0)Light(69)(1, (3,8), 4, 0)
+
+Combat :
+start time :2098
+end time : 2100
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(36)(0, (6,6), 1, 0)
+Involved_B :Light(52)(1, (6,7), 3, 0)
+Involved_ALL :Worker(36)(0, (6,6), 1, 0)Light(52)(1, (6,7), 3, 0)
+Remained_A :Worker(36)(0, (6,5), 1, 0)
+Remained_B :Light(52)(1, (6,7), 3, 0)
+Remained_ALL :Worker(36)(0, (6,5), 1, 0)Light(52)(1, (6,7), 3, 0)
+KilledUnits :
+PassiveUnits :Worker(36)(0, (6,6), 1, 0)
+
+Combat :
+start time :2100
+end time : 2101
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(76)(0, (3,6), 1, 0)
+Involved_B :Light(65)(1, (3,7), 4, 0)Light(69)(1, (3,8), 4, 0)
+Involved_ALL :Worker(76)(0, (3,6), 1, 0)Light(65)(1, (3,7), 4, 0)Light(69)(1, (3,8), 4, 0)
+Remained_A :Worker(76)(0, (3,6), 1, 0)
+Remained_B :Light(65)(1, (2,7), 4, 0)Light(69)(1, (3,8), 4, 0)
+Remained_ALL :Light(65)(1, (2,7), 4, 0)Light(69)(1, (3,8), 4, 0)Worker(76)(0, (3,6), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(76)(0, (3,6), 1, 0)Light(65)(1, (3,7), 4, 0)Light(69)(1, (3,8), 4, 0)
+
+Combat :
+start time :2109
+end time : 2110
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(76)(0, (3,6), 1, 0)
+Involved_B :Light(65)(1, (3,7), 4, 0)
+Involved_ALL :Worker(76)(0, (3,6), 1, 0)Light(65)(1, (3,7), 4, 0)
+Remained_A :Worker(76)(0, (3,6), 1, 0)
+Remained_B :Light(65)(1, (3,7), 4, 0)
+Remained_ALL :Light(65)(1, (3,7), 4, 0)Worker(76)(0, (3,6), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(76)(0, (3,6), 1, 0)Light(65)(1, (3,7), 4, 0)
+
+Combat :
+start time :2110
+end time : 2118
+Combat Ended Because of :Destroyed
+Involved_A :Worker(36)(0, (6,6), 1, 0)
+Involved_B :Light(52)(1, (6,7), 3, 0)Light(48)(1, (7,7), 4, 0)
+Involved_ALL :Worker(36)(0, (6,6), 1, 0)Light(52)(1, (6,7), 3, 0)Light(48)(1, (7,7), 4, 0)
+Remained_A :
+Remained_B :Light(48)(1, (7,6), 4, 0)Light(52)(1, (6,7), 2, 0)
+Remained_ALL :Light(48)(1, (7,6), 4, 0)Light(52)(1, (6,7), 2, 0)
+KilledUnits :(Worker(36)(0, (6,6), 1, 0), 2118)
+PassiveUnits :Light(48)(1, (7,7), 4, 0)
+
+Combat :
+start time :2110
+end time : 2114
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(76)(0, (3,6), 1, 0)Worker(79)(0, (3,5), 1, 0)
+Involved_B :Light(65)(1, (3,7), 4, 0)
+Involved_ALL :Worker(76)(0, (3,6), 1, 0)Worker(79)(0, (3,5), 1, 0)Light(65)(1, (3,7), 4, 0)
+Remained_A :Worker(79)(0, (3,5), 1, 0)
+Remained_B :Light(65)(1, (3,7), 4, 0)
+Remained_ALL :Light(65)(1, (3,7), 4, 0)Worker(79)(0, (3,5), 1, 0)
+KilledUnits :(Worker(76)(0, (3,6), 1, 0), 2114)
+PassiveUnits :Worker(76)(0, (3,6), 1, 0)Worker(79)(0, (3,5), 1, 0)
+
+Combat :
+start time :2118
+end time : 2120
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(29)(0, (10,3), 1, 0)Worker(30)(0, (7,5), 1, 0)Worker(32)(0, (9,2), 1, 0)Worker(34)(0, (8,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(39)(0, (5,4), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (2,3), 1, 1)Worker(53)(0, (10,4), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (9,1), 1, 0)Worker(79)(0, (3,5), 1, 0)
+Involved_B :Light(48)(1, (7,6), 4, 0)
+Involved_ALL :Worker(29)(0, (10,3), 1, 0)Worker(30)(0, (7,5), 1, 0)Worker(32)(0, (9,2), 1, 0)Worker(34)(0, (8,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(39)(0, (5,4), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (2,3), 1, 1)Worker(53)(0, (10,4), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (9,1), 1, 0)Worker(79)(0, (3,5), 1, 0)Light(48)(1, (7,6), 4, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (2,3), 1, 0)Worker(29)(0, (11,3), 1, 0)Worker(30)(0, (7,5), 1, 0)Worker(32)(0, (10,2), 1, 0)Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(39)(0, (5,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Worker(53)(0, (11,4), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (10,1), 1, 0)Worker(79)(0, (2,5), 1, 0)
+Remained_B :Light(48)(1, (7,6), 4, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (2,3), 1, 0)Worker(29)(0, (11,3), 1, 0)Worker(30)(0, (7,5), 1, 0)Worker(32)(0, (10,2), 1, 0)Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(39)(0, (5,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Light(48)(1, (7,6), 4, 0)Ranged(49)(0, (5,3), 1, 0)Worker(53)(0, (11,4), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (10,1), 1, 0)Worker(79)(0, (2,5), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(29)(0, (10,3), 1, 0)Worker(32)(0, (9,2), 1, 0)Worker(34)(0, (8,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(39)(0, (5,4), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (2,3), 1, 1)Worker(53)(0, (10,4), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(77)(0, (9,1), 1, 0)Worker(79)(0, (3,5), 1, 0)
+
+Combat :
+start time :2120
+end time : 2126
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(30)(0, (7,5), 1, 0)Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (2,3), 1, 0)Worker(32)(0, (10,2), 1, 0)Worker(39)(0, (5,5), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+Involved_B :Light(48)(1, (7,6), 4, 0)
+Involved_ALL :Worker(30)(0, (7,5), 1, 0)Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (2,3), 1, 0)Worker(32)(0, (10,2), 1, 0)Worker(39)(0, (5,5), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Light(48)(1, (7,6), 4, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (2,3), 1, 0)Worker(32)(0, (10,2), 1, 0)Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(39)(0, (5,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+Remained_B :Light(48)(1, (7,6), 2, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (2,3), 1, 0)Worker(32)(0, (10,2), 1, 0)Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(39)(0, (5,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Light(48)(1, (7,6), 2, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+KilledUnits :(Worker(30)(0, (7,5), 1, 0), 2123)
+PassiveUnits :Worker(34)(0, (8,3), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (2,3), 1, 0)Worker(32)(0, (10,2), 1, 0)Worker(39)(0, (5,5), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+
+Combat :
+start time :2120
+end time : 2122
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(79)(0, (2,5), 1, 0)
+Involved_B :Light(37)(1, (2,6), 2, 0)
+Involved_ALL :Worker(79)(0, (2,5), 1, 0)Light(37)(1, (2,6), 2, 0)
+Remained_A :Worker(79)(0, (2,5), 1, 0)
+Remained_B :Light(37)(1, (2,6), 2, 0)
+Remained_ALL :Light(37)(1, (2,6), 2, 0)Worker(79)(0, (2,5), 1, 0)
+KilledUnits :
+PassiveUnits :Light(37)(1, (2,6), 2, 0)
+
+Combat :
+start time :2122
+end time : 2126
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(79)(0, (2,5), 1, 0)
+Involved_B :Light(37)(1, (2,6), 2, 0)Light(65)(1, (3,6), 4, 0)
+Involved_ALL :Worker(79)(0, (2,5), 1, 0)Light(37)(1, (2,6), 2, 0)Light(65)(1, (3,6), 4, 0)
+Remained_A :Worker(79)(0, (2,5), 1, 0)
+Remained_B :Light(37)(1, (1,6), 1, 0)Light(65)(1, (3,6), 4, 0)
+Remained_ALL :Light(37)(1, (1,6), 1, 0)Light(65)(1, (3,6), 4, 0)Worker(79)(0, (2,5), 1, 0)
+KilledUnits :
+PassiveUnits :Light(37)(1, (2,6), 2, 0)Light(65)(1, (3,6), 4, 0)
+
+Combat :
+start time :2126
+end time : 2130
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(39)(0, (5,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (2,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (10,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Worker(80)(0, (1,2), 1, 0)
+Involved_B :Light(52)(1, (6,6), 2, 0)Light(48)(1, (7,6), 2, 0)
+Involved_ALL :Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(39)(0, (5,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (2,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (10,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Worker(80)(0, (1,2), 1, 0)Light(52)(1, (6,6), 2, 0)Light(48)(1, (7,6), 2, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (9,2), 1, 0)Worker(34)(0, (8,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(39)(0, (6,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Worker(80)(0, (0,2), 1, 0)
+Remained_B :Light(48)(1, (7,6), 1, 0)Light(52)(1, (6,6), 2, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (9,2), 1, 0)Worker(34)(0, (8,4), 1, 0)Ranged(35)(0, (7,3), 1, 0)Worker(39)(0, (6,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Light(48)(1, (7,6), 1, 0)Ranged(49)(0, (5,3), 1, 0)Light(52)(1, (6,6), 2, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Worker(80)(0, (0,2), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(34)(0, (8,3), 1, 0)Worker(39)(0, (5,5), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(43)(0, (7,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (2,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (10,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Worker(80)(0, (1,2), 1, 0)Light(52)(1, (6,6), 2, 0)Light(48)(1, (7,6), 2, 0)
+
+Combat :
+start time :2130
+end time : 2140
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Worker(27)(0, (1,1), 1, 1)Worker(29)(0, (10,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (9,2), 1, 0)Worker(34)(0, (8,4), 1, 0)Worker(39)(0, (6,5), 1, 0)Ranged(43)(0, (7,2), 1, 0)Worker(79)(0, (2,5), 1, 0)Worker(80)(0, (0,2), 1, 0)
+Involved_B :Light(65)(1, (3,5), 4, 0)Light(48)(1, (7,6), 1, 0)Light(52)(1, (6,6), 2, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Worker(27)(0, (1,1), 1, 1)Worker(29)(0, (10,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (9,2), 1, 0)Worker(34)(0, (8,4), 1, 0)Worker(39)(0, (6,5), 1, 0)Ranged(43)(0, (7,2), 1, 0)Worker(79)(0, (2,5), 1, 0)Worker(80)(0, (0,2), 1, 0)Light(65)(1, (3,5), 4, 0)Light(48)(1, (7,6), 1, 0)Light(52)(1, (6,6), 2, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(27)(0, (1,2), 1, 1)Worker(29)(0, (11,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (10,2), 1, 0)Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(80)(0, (0,3), 1, 0)
+Remained_B :Light(52)(1, (5,6), 2, 0)Light(65)(1, (3,5), 1, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(27)(0, (1,2), 1, 1)Worker(29)(0, (11,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (10,2), 1, 0)Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Light(52)(1, (5,6), 2, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Light(65)(1, (3,5), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(80)(0, (0,3), 1, 0)
+KilledUnits :(Light(48)(1, (7,5), 1, 0), 2140)(Worker(79)(0, (2,5), 1, 0), 2135)(Worker(39)(0, (6,5), 1, 0), 2136)
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(40)(0, (6,2), 1, 0)Ranged(49)(0, (5,3), 1, 0)Ranged(54)(0, (5,2), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Worker(27)(0, (1,1), 1, 1)Worker(29)(0, (10,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (9,2), 1, 0)Worker(34)(0, (8,4), 1, 0)Ranged(43)(0, (7,2), 1, 0)Worker(80)(0, (0,2), 1, 0)Light(52)(1, (6,6), 2, 0)
+
+Combat :
+start time :2134
+end time : 2135
+Combat Ended Because of :Destroyed
+Involved_A :Worker(79)(0, (2,5), 1, 0)
+Involved_B :Light(37)(1, (2,6), 1, 0)Light(65)(1, (3,5), 4, 0)
+Involved_ALL :Worker(79)(0, (2,5), 1, 0)Light(37)(1, (2,6), 1, 0)Light(65)(1, (3,5), 4, 0)
+Remained_A :
+Remained_B :Light(37)(1, (2,6), 1, 0)Light(65)(1, (3,5), 2, 0)
+Remained_ALL :Light(37)(1, (2,6), 1, 0)Light(65)(1, (3,5), 2, 0)
+KilledUnits :(Worker(79)(0, (2,5), 1, 0), 2135)
+PassiveUnits :Light(37)(1, (2,6), 1, 0)
+
+Combat :
+start time :2140
+end time : 2141
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(27)(0, (1,2), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Worker(80)(0, (0,3), 1, 0)
+Involved_B :Light(65)(1, (3,5), 1, 0)Light(52)(1, (5,6), 2, 0)Light(69)(1, (3,6), 4, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(27)(0, (1,2), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Worker(80)(0, (0,3), 1, 0)Light(65)(1, (3,5), 1, 0)Light(52)(1, (5,6), 2, 0)Light(69)(1, (3,6), 4, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(27)(0, (1,2), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(80)(0, (0,3), 1, 0)
+Remained_B :Light(52)(1, (5,6), 2, 0)Light(65)(1, (3,5), 1, 0)Light(69)(1, (3,6), 4, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(27)(0, (1,2), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Light(52)(1, (5,6), 2, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Light(65)(1, (3,5), 1, 0)Ranged(66)(0, (4,3), 1, 0)Light(69)(1, (3,6), 4, 0)Ranged(73)(0, (3,1), 1, 0)Worker(80)(0, (0,3), 1, 0)
+KilledUnits :
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(27)(0, (1,2), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Worker(80)(0, (0,3), 1, 0)Light(65)(1, (3,5), 1, 0)Light(52)(1, (5,6), 2, 0)Light(69)(1, (3,6), 4, 0)
+
+Combat :
+start time :2141
+end time : 2143
+Combat Ended Because of :Reinforcement
+Involved_A :Ranged(35)(0, (7,3), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)
+Involved_B :Light(42)(1, (5,7), 3, 0)Light(52)(1, (5,6), 2, 0)Light(65)(1, (3,5), 1, 0)Light(50)(1, (6,7), 4, 0)Light(69)(1, (3,6), 4, 0)
+Involved_ALL :Ranged(35)(0, (7,3), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)Light(42)(1, (5,7), 3, 0)Light(52)(1, (5,6), 2, 0)Light(65)(1, (3,5), 1, 0)Light(50)(1, (6,7), 4, 0)Light(69)(1, (3,6), 4, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)
+Remained_B :Light(42)(1, (5,7), 3, 0)Light(50)(1, (6,7), 4, 0)Light(52)(1, (6,6), 2, 0)Light(65)(1, (4,5), 1, 0)Light(69)(1, (3,6), 4, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Light(42)(1, (5,7), 3, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Light(50)(1, (6,7), 4, 0)Light(52)(1, (6,6), 2, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Light(65)(1, (4,5), 1, 0)Ranged(66)(0, (4,3), 1, 0)Light(69)(1, (3,6), 4, 0)Ranged(73)(0, (3,1), 1, 0)
+KilledUnits :
+PassiveUnits :Ranged(35)(0, (7,3), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(54)(0, (5,1), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)Light(42)(1, (5,7), 3, 0)Light(52)(1, (5,6), 2, 0)Light(65)(1, (3,5), 1, 0)Light(50)(1, (6,7), 4, 0)Light(69)(1, (3,6), 4, 0)
+
+Combat :
+start time :2141
+end time : 2143
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(27)(0, (1,2), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Worker(80)(0, (0,3), 1, 0)
+Involved_B :Light(65)(1, (3,5), 1, 0)Light(42)(1, (5,7), 3, 0)Light(52)(1, (5,6), 2, 0)Light(69)(1, (3,6), 4, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(27)(0, (1,2), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Worker(80)(0, (0,3), 1, 0)Light(65)(1, (3,5), 1, 0)Light(42)(1, (5,7), 3, 0)Light(52)(1, (5,6), 2, 0)Light(69)(1, (3,6), 4, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(27)(0, (1,2), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(80)(0, (0,3), 1, 0)
+Remained_B :Light(42)(1, (5,7), 3, 0)Light(52)(1, (6,6), 2, 0)Light(65)(1, (4,5), 1, 0)Light(69)(1, (3,6), 4, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(27)(0, (1,2), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Light(42)(1, (5,7), 3, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Light(52)(1, (6,6), 2, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Light(65)(1, (4,5), 1, 0)Ranged(66)(0, (4,3), 1, 0)Light(69)(1, (3,6), 4, 0)Ranged(73)(0, (3,1), 1, 0)Worker(80)(0, (0,3), 1, 0)
+KilledUnits :
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(27)(0, (1,2), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Worker(80)(0, (0,3), 1, 0)Light(65)(1, (3,5), 1, 0)Light(42)(1, (5,7), 3, 0)Light(52)(1, (5,6), 2, 0)Light(69)(1, (3,6), 4, 0)
+
+Combat :
+start time :2142
+end time : 2148
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (10,2), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)
+Involved_B :Light(52)(1, (6,6), 2, 0)Light(42)(1, (5,7), 3, 0)Light(50)(1, (6,7), 4, 0)Light(65)(1, (3,5), 1, 0)
+Involved_ALL :Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (10,2), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)Light(52)(1, (6,6), 2, 0)Light(42)(1, (5,7), 3, 0)Light(50)(1, (6,7), 4, 0)Light(65)(1, (3,5), 1, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (10,2), 1, 0)Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)
+Remained_B :Light(42)(1, (5,7), 3, 0)Light(50)(1, (6,7), 4, 0)Light(52)(1, (6,6), 2, 0)Light(65)(1, (4,5), 1, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (10,2), 1, 0)Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Light(42)(1, (5,7), 3, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Light(50)(1, (6,7), 4, 0)Light(52)(1, (6,6), 2, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Light(65)(1, (4,5), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(54)(0, (5,1), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (10,2), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)Light(52)(1, (6,6), 2, 0)Light(42)(1, (5,7), 3, 0)Light(50)(1, (6,7), 4, 0)Light(65)(1, (3,5), 1, 0)
+
+Combat :
+start time :2143
+end time : 2148
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(27)(0, (1,2), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Worker(80)(0, (0,3), 1, 0)
+Involved_B :Light(65)(1, (4,5), 1, 0)Light(42)(1, (5,7), 3, 0)Light(52)(1, (6,6), 2, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(27)(0, (1,2), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Worker(80)(0, (0,3), 1, 0)Light(65)(1, (4,5), 1, 0)Light(42)(1, (5,7), 3, 0)Light(52)(1, (6,6), 2, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(27)(0, (1,2), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(80)(0, (0,3), 1, 0)
+Remained_B :Light(42)(1, (5,7), 3, 0)Light(52)(1, (6,6), 2, 0)Light(65)(1, (4,5), 1, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(27)(0, (1,2), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Light(42)(1, (5,7), 3, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Light(52)(1, (6,6), 2, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Light(65)(1, (4,5), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(80)(0, (0,3), 1, 0)
+KilledUnits :
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(27)(0, (1,2), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Worker(80)(0, (0,3), 1, 0)Light(65)(1, (4,5), 1, 0)Light(42)(1, (5,7), 3, 0)Light(52)(1, (6,6), 2, 0)
+
+Combat :
+start time :2148
+end time : 2149
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (10,2), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)
+Involved_B :Light(52)(1, (6,6), 2, 0)Light(42)(1, (5,7), 3, 0)Light(50)(1, (6,7), 4, 0)Light(65)(1, (4,5), 1, 0)Light(69)(1, (4,6), 4, 0)
+Involved_ALL :Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (10,2), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)Light(52)(1, (6,6), 2, 0)Light(42)(1, (5,7), 3, 0)Light(50)(1, (6,7), 4, 0)Light(65)(1, (4,5), 1, 0)Light(69)(1, (4,6), 4, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (10,2), 1, 0)Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)
+Remained_B :Light(42)(1, (5,8), 3, 0)Light(50)(1, (6,7), 4, 0)Light(52)(1, (6,6), 2, 0)Light(65)(1, (4,5), 1, 0)Light(69)(1, (4,6), 4, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (10,2), 1, 0)Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Light(42)(1, (5,8), 3, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Light(50)(1, (6,7), 4, 0)Light(52)(1, (6,6), 2, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Light(65)(1, (4,5), 1, 0)Ranged(66)(0, (4,3), 1, 0)Light(69)(1, (4,6), 4, 0)Ranged(73)(0, (3,1), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(54)(0, (5,1), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (10,2), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)Light(52)(1, (6,6), 2, 0)Light(42)(1, (5,7), 3, 0)Light(50)(1, (6,7), 4, 0)Light(65)(1, (4,5), 1, 0)Light(69)(1, (4,6), 4, 0)
+
+Combat :
+start time :2148
+end time : 2149
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(27)(0, (1,2), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Worker(80)(0, (0,3), 1, 0)
+Involved_B :Light(65)(1, (4,5), 1, 0)Light(69)(1, (4,6), 4, 0)Light(42)(1, (5,7), 3, 0)Light(52)(1, (6,6), 2, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(27)(0, (1,2), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Worker(80)(0, (0,3), 1, 0)Light(65)(1, (4,5), 1, 0)Light(69)(1, (4,6), 4, 0)Light(42)(1, (5,7), 3, 0)Light(52)(1, (6,6), 2, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(27)(0, (1,2), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(80)(0, (0,3), 1, 0)
+Remained_B :Light(42)(1, (5,8), 3, 0)Light(52)(1, (6,6), 2, 0)Light(65)(1, (4,5), 1, 0)Light(69)(1, (4,6), 4, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(27)(0, (1,2), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Light(42)(1, (5,8), 3, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Light(52)(1, (6,6), 2, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Light(65)(1, (4,5), 1, 0)Ranged(66)(0, (4,3), 1, 0)Light(69)(1, (4,6), 4, 0)Ranged(73)(0, (3,1), 1, 0)Worker(80)(0, (0,3), 1, 0)
+KilledUnits :
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(27)(0, (1,2), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Worker(80)(0, (0,3), 1, 0)Light(65)(1, (4,5), 1, 0)Light(69)(1, (4,6), 4, 0)Light(42)(1, (5,7), 3, 0)Light(52)(1, (6,6), 2, 0)
+
+Combat :
+start time :2149
+end time : 2150
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (10,2), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)
+Involved_B :Light(52)(1, (6,6), 2, 0)Light(50)(1, (6,7), 4, 0)Light(65)(1, (4,5), 1, 0)Light(69)(1, (4,6), 4, 0)
+Involved_ALL :Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (10,2), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)Light(52)(1, (6,6), 2, 0)Light(50)(1, (6,7), 4, 0)Light(65)(1, (4,5), 1, 0)Light(69)(1, (4,6), 4, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (10,1), 1, 0)Worker(34)(0, (9,3), 1, 0)Ranged(35)(0, (7,2), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)
+Remained_B :Light(50)(1, (6,7), 4, 0)Light(52)(1, (6,6), 2, 0)Light(69)(1, (4,6), 4, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (10,1), 1, 0)Worker(34)(0, (9,3), 1, 0)Ranged(35)(0, (7,2), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Light(50)(1, (6,7), 4, 0)Light(52)(1, (6,6), 2, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Light(69)(1, (4,6), 4, 0)Ranged(73)(0, (3,1), 1, 0)
+KilledUnits :(Light(65)(1, (4,5), 1, 0), 2150)
+PassiveUnits :Worker(34)(0, (8,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(54)(0, (5,1), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(32)(0, (10,2), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)Light(52)(1, (6,6), 2, 0)Light(50)(1, (6,7), 4, 0)Light(65)(1, (4,5), 1, 0)Light(69)(1, (4,6), 4, 0)
+
+Combat :
+start time :2149
+end time : 2150
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(27)(0, (1,2), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Worker(80)(0, (0,3), 1, 0)
+Involved_B :Light(65)(1, (4,5), 1, 0)Light(69)(1, (4,6), 4, 0)Light(52)(1, (6,6), 2, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(27)(0, (1,2), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Worker(80)(0, (0,3), 1, 0)Light(65)(1, (4,5), 1, 0)Light(69)(1, (4,6), 4, 0)Light(52)(1, (6,6), 2, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(27)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (9,3), 1, 0)Ranged(35)(0, (7,2), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(80)(0, (0,3), 1, 0)
+Remained_B :Light(52)(1, (6,6), 2, 0)Light(69)(1, (4,6), 4, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(27)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (9,3), 1, 0)Ranged(35)(0, (7,2), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Light(52)(1, (6,6), 2, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Light(69)(1, (4,6), 4, 0)Ranged(73)(0, (3,1), 1, 0)Worker(80)(0, (0,3), 1, 0)
+KilledUnits :(Light(65)(1, (4,5), 1, 0), 2150)
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (7,3), 1, 0)Ranged(47)(0, (6,3), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(27)(0, (1,2), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (8,3), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (8,2), 1, 0)Worker(80)(0, (0,3), 1, 0)Light(65)(1, (4,5), 1, 0)Light(69)(1, (4,6), 4, 0)Light(52)(1, (6,6), 2, 0)
+
+Combat :
+start time :2150
+end time : 2155
+Combat Ended Because of :Reinforcement
+Involved_A :Ranged(35)(0, (7,2), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(34)(0, (9,3), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)
+Involved_B :Light(50)(1, (6,7), 4, 0)Light(52)(1, (6,6), 2, 0)Light(69)(1, (4,6), 4, 0)
+Involved_ALL :Ranged(35)(0, (7,2), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(34)(0, (9,3), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)Light(50)(1, (6,7), 4, 0)Light(52)(1, (6,6), 2, 0)Light(69)(1, (4,6), 4, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(34)(0, (9,3), 1, 0)Ranged(35)(0, (7,2), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)
+Remained_B :Light(50)(1, (6,7), 4, 0)Light(69)(1, (4,6), 3, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(34)(0, (9,3), 1, 0)Ranged(35)(0, (7,2), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Light(50)(1, (6,7), 4, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Light(69)(1, (4,6), 3, 0)Ranged(73)(0, (3,1), 1, 0)
+KilledUnits :(Light(52)(1, (6,6), 2, 0), 2155)
+PassiveUnits :Ranged(35)(0, (7,2), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(34)(0, (9,3), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)Light(50)(1, (6,7), 4, 0)Light(52)(1, (6,6), 2, 0)Light(69)(1, (4,6), 4, 0)
+
+Combat :
+start time :2150
+end time : 2155
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(27)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(35)(0, (7,2), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(54)(0, (5,0), 1, 0)Worker(80)(0, (0,3), 1, 0)
+Involved_B :Light(69)(1, (4,6), 4, 0)Light(50)(1, (6,7), 4, 0)Light(52)(1, (6,6), 2, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(27)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(35)(0, (7,2), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(54)(0, (5,0), 1, 0)Worker(80)(0, (0,3), 1, 0)Light(69)(1, (4,6), 4, 0)Light(50)(1, (6,7), 4, 0)Light(52)(1, (6,6), 2, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(27)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(35)(0, (7,2), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(80)(0, (0,3), 1, 0)
+Remained_B :Light(50)(1, (6,7), 4, 0)Light(69)(1, (4,6), 3, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(27)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(35)(0, (7,2), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Light(50)(1, (6,7), 4, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Light(69)(1, (4,6), 3, 0)Ranged(73)(0, (3,1), 1, 0)Worker(80)(0, (0,3), 1, 0)
+KilledUnits :(Light(52)(1, (6,6), 2, 0), 2155)
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(27)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(35)(0, (7,2), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(54)(0, (5,0), 1, 0)Worker(80)(0, (0,3), 1, 0)Light(69)(1, (4,6), 4, 0)Light(50)(1, (6,7), 4, 0)Light(52)(1, (6,6), 2, 0)
+
+Combat :
+start time :2155
+end time : 2156
+Combat Ended Because of :Reinforcement
+Involved_A :Ranged(35)(0, (7,2), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(34)(0, (9,3), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)
+Involved_B :Light(50)(1, (6,7), 4, 0)Light(37)(1, (2,4), 1, 0)Light(69)(1, (4,6), 3, 0)
+Involved_ALL :Ranged(35)(0, (7,2), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(34)(0, (9,3), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)Light(50)(1, (6,7), 4, 0)Light(37)(1, (2,4), 1, 0)Light(69)(1, (4,6), 3, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(34)(0, (9,3), 1, 0)Ranged(35)(0, (7,2), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)
+Remained_B :Light(37)(1, (2,4), 1, 0)Light(50)(1, (6,7), 4, 0)Light(69)(1, (3,6), 3, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(34)(0, (9,3), 1, 0)Ranged(35)(0, (7,2), 1, 0)Light(37)(1, (2,4), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Light(50)(1, (6,7), 4, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Light(69)(1, (3,6), 3, 0)Ranged(73)(0, (3,1), 1, 0)
+KilledUnits :
+PassiveUnits :Ranged(35)(0, (7,2), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(34)(0, (9,3), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)Light(50)(1, (6,7), 4, 0)Light(37)(1, (2,4), 1, 0)Light(69)(1, (4,6), 3, 0)
+
+Combat :
+start time :2155
+end time : 2156
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(27)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(35)(0, (7,2), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(54)(0, (5,0), 1, 0)Worker(80)(0, (0,3), 1, 0)
+Involved_B :Light(37)(1, (2,4), 1, 0)Light(69)(1, (4,6), 3, 0)Light(50)(1, (6,7), 4, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(27)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(35)(0, (7,2), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(54)(0, (5,0), 1, 0)Worker(80)(0, (0,3), 1, 0)Light(37)(1, (2,4), 1, 0)Light(69)(1, (4,6), 3, 0)Light(50)(1, (6,7), 4, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(27)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(35)(0, (7,2), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(80)(0, (0,3), 1, 0)
+Remained_B :Light(37)(1, (2,4), 1, 0)Light(50)(1, (6,7), 4, 0)Light(69)(1, (3,6), 3, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(27)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(35)(0, (7,2), 1, 0)Light(37)(1, (2,4), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Light(50)(1, (6,7), 4, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Light(69)(1, (3,6), 3, 0)Ranged(73)(0, (3,1), 1, 0)Worker(80)(0, (0,3), 1, 0)
+KilledUnits :
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(27)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(35)(0, (7,2), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(54)(0, (5,0), 1, 0)Worker(80)(0, (0,3), 1, 0)Light(37)(1, (2,4), 1, 0)Light(69)(1, (4,6), 3, 0)Light(50)(1, (6,7), 4, 0)
+
+Combat :
+start time :2156
+end time : 2160
+Combat Ended Because of :Reinforcement
+Involved_A :Ranged(35)(0, (7,2), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(34)(0, (9,3), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)
+Involved_B :Light(50)(1, (6,7), 4, 0)Light(37)(1, (2,4), 1, 0)
+Involved_ALL :Ranged(35)(0, (7,2), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(34)(0, (9,3), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)Light(50)(1, (6,7), 4, 0)Light(37)(1, (2,4), 1, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(34)(0, (10,3), 1, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+Remained_B :Light(50)(1, (6,7), 3, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(34)(0, (10,3), 1, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Light(50)(1, (6,7), 3, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+KilledUnits :(Light(37)(1, (2,4), 1, 0), 2160)
+PassiveUnits :Ranged(35)(0, (7,2), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(34)(0, (9,3), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)Light(50)(1, (6,7), 4, 0)Light(37)(1, (2,4), 1, 0)
+
+Combat :
+start time :2156
+end time : 2160
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(27)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(35)(0, (7,2), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(54)(0, (5,0), 1, 0)Worker(80)(0, (0,3), 1, 0)
+Involved_B :Light(37)(1, (2,4), 1, 0)Light(50)(1, (6,7), 4, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(27)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(35)(0, (7,2), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(54)(0, (5,0), 1, 0)Worker(80)(0, (0,3), 1, 0)Light(37)(1, (2,4), 1, 0)Light(50)(1, (6,7), 4, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(27)(0, (0,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Worker(80)(0, (0,4), 1, 0)
+Remained_B :Light(50)(1, (6,7), 3, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(27)(0, (0,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Light(50)(1, (6,7), 3, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Worker(80)(0, (0,4), 1, 0)
+KilledUnits :(Light(37)(1, (2,4), 1, 0), 2160)
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(58)(0, (4,1), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(27)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(35)(0, (7,2), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(54)(0, (5,0), 1, 0)Worker(80)(0, (0,3), 1, 0)Light(37)(1, (2,4), 1, 0)Light(50)(1, (6,7), 4, 0)
+
+Combat :
+start time :2160
+end time : 2164
+Combat Ended Because of :Reinforcement
+Involved_A :Ranged(40)(0, (6,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+Involved_B :Light(50)(1, (6,7), 3, 0)
+Involved_ALL :Ranged(40)(0, (6,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Light(50)(1, (6,7), 3, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+Remained_B :Light(50)(1, (6,7), 3, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Light(50)(1, (6,7), 3, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+KilledUnits :
+PassiveUnits :Ranged(40)(0, (6,1), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Light(50)(1, (6,7), 3, 0)
+
+Combat :
+start time :2164
+end time : 2167
+Combat Ended Because of :Reinforcement
+Involved_A :Ranged(40)(0, (6,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+Involved_B :Light(50)(1, (6,7), 3, 0)Light(69)(1, (4,6), 3, 0)
+Involved_ALL :Ranged(40)(0, (6,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Light(50)(1, (6,7), 3, 0)Light(69)(1, (4,6), 3, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+Remained_B :Light(50)(1, (6,6), 2, 0)Light(69)(1, (4,6), 3, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Light(50)(1, (6,6), 2, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Light(69)(1, (4,6), 3, 0)Ranged(73)(0, (3,2), 1, 0)
+KilledUnits :
+PassiveUnits :Ranged(40)(0, (6,1), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Light(50)(1, (6,7), 3, 0)Light(69)(1, (4,6), 3, 0)
+
+Combat :
+start time :2164
+end time : 2167
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Worker(27)(0, (0,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (6,1), 1, 0)
+Involved_B :Light(69)(1, (4,6), 3, 0)Light(50)(1, (6,7), 3, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Worker(27)(0, (0,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (6,1), 1, 0)Light(69)(1, (4,6), 3, 0)Light(50)(1, (6,7), 3, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(27)(0, (0,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+Remained_B :Light(50)(1, (6,6), 2, 0)Light(69)(1, (4,6), 3, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Worker(27)(0, (0,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Light(50)(1, (6,6), 2, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Light(69)(1, (4,6), 3, 0)Ranged(73)(0, (3,2), 1, 0)
+KilledUnits :
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Worker(27)(0, (0,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (6,1), 1, 0)Light(69)(1, (4,6), 3, 0)Light(50)(1, (6,7), 3, 0)
+
+Combat :
+start time :2167
+end time : 2170
+Combat Ended Because of :Reinforcement
+Involved_A :Ranged(40)(0, (6,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+Involved_B :Light(50)(1, (6,6), 2, 0)Light(42)(1, (5,7), 3, 0)Light(69)(1, (4,6), 3, 0)
+Involved_ALL :Ranged(40)(0, (6,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Light(50)(1, (6,6), 2, 0)Light(42)(1, (5,7), 3, 0)Light(69)(1, (4,6), 3, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,2), 1, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+Remained_B :Light(42)(1, (5,7), 3, 0)Light(50)(1, (6,6), 2, 0)Light(69)(1, (4,6), 3, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,2), 1, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(40)(0, (6,1), 1, 0)Light(42)(1, (5,7), 3, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Light(50)(1, (6,6), 2, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Light(69)(1, (4,6), 3, 0)Ranged(73)(0, (3,2), 1, 0)
+KilledUnits :
+PassiveUnits :Ranged(40)(0, (6,1), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Light(50)(1, (6,6), 2, 0)Light(42)(1, (5,7), 3, 0)Light(69)(1, (4,6), 3, 0)
+
+Combat :
+start time :2167
+end time : 2170
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Worker(27)(0, (0,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (6,1), 1, 0)
+Involved_B :Light(69)(1, (4,6), 3, 0)Light(42)(1, (5,7), 3, 0)Light(50)(1, (6,6), 2, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Worker(27)(0, (0,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (6,1), 1, 0)Light(69)(1, (4,6), 3, 0)Light(42)(1, (5,7), 3, 0)Light(50)(1, (6,6), 2, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,2), 1, 0)Worker(27)(0, (0,1), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+Remained_B :Light(42)(1, (5,7), 3, 0)Light(50)(1, (6,6), 2, 0)Light(69)(1, (4,6), 3, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,2), 1, 0)Worker(27)(0, (0,1), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (6,1), 1, 0)Light(42)(1, (5,7), 3, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Light(50)(1, (6,6), 2, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Light(69)(1, (4,6), 3, 0)Ranged(73)(0, (3,2), 1, 0)
+KilledUnits :
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,3), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Worker(27)(0, (0,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (6,1), 1, 0)Light(69)(1, (4,6), 3, 0)Light(42)(1, (5,7), 3, 0)Light(50)(1, (6,6), 2, 0)
+
+Combat :
+start time :2170
+end time : 2175
+Combat Ended Because of :Reinforcement
+Involved_A :Ranged(40)(0, (6,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+Involved_B :Light(50)(1, (6,6), 2, 0)Light(42)(1, (5,7), 3, 0)Light(69)(1, (4,6), 3, 0)
+Involved_ALL :Ranged(40)(0, (6,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Light(50)(1, (6,6), 2, 0)Light(42)(1, (5,7), 3, 0)Light(69)(1, (4,6), 3, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+Remained_B :Light(42)(1, (4,7), 3, 0)Light(50)(1, (6,5), 2, 0)Light(69)(1, (5,6), 3, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(40)(0, (6,1), 1, 0)Light(42)(1, (4,7), 3, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Light(50)(1, (6,5), 2, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Light(69)(1, (5,6), 3, 0)Ranged(73)(0, (3,2), 1, 0)
+KilledUnits :
+PassiveUnits :Ranged(40)(0, (6,1), 1, 0)Base(20)(0, (2,2), 10, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Light(50)(1, (6,6), 2, 0)Light(42)(1, (5,7), 3, 0)Light(69)(1, (4,6), 3, 0)
+
+Combat :
+start time :2170
+end time : 2175
+Combat Ended Because of :Reinforcement
+Involved_A :Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+Involved_B :Light(42)(1, (5,7), 3, 0)Light(50)(1, (6,6), 2, 0)Light(69)(1, (4,6), 3, 0)
+Involved_ALL :Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(73)(0, (3,2), 1, 0)Light(42)(1, (5,7), 3, 0)Light(50)(1, (6,6), 2, 0)Light(69)(1, (4,6), 3, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+Remained_B :Light(42)(1, (4,7), 3, 0)Light(50)(1, (6,5), 2, 0)Light(69)(1, (5,6), 3, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (6,1), 1, 0)Light(42)(1, (4,7), 3, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Light(50)(1, (6,5), 2, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Light(69)(1, (5,6), 3, 0)Ranged(73)(0, (3,2), 1, 0)
+KilledUnits :
+PassiveUnits :Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(73)(0, (3,2), 1, 0)Light(42)(1, (5,7), 3, 0)Light(50)(1, (6,6), 2, 0)Light(69)(1, (4,6), 3, 0)
+
+Combat :
+start time :2175
+end time : 2180
+Combat Ended Because of :Reinforcement
+Involved_A :Ranged(40)(0, (6,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+Involved_B :Light(50)(1, (6,5), 2, 0)Light(69)(1, (5,6), 3, 0)
+Involved_ALL :Ranged(40)(0, (6,1), 1, 0)Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Light(50)(1, (6,5), 2, 0)Light(69)(1, (5,6), 3, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Ranged(35)(0, (8,1), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+Remained_B :Light(69)(1, (5,5), 3, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Ranged(35)(0, (8,1), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Light(69)(1, (5,5), 3, 0)Ranged(73)(0, (3,2), 1, 0)
+KilledUnits :(Light(50)(1, (6,5), 2, 0), 2180)(Ranged(47)(0, (6,4), 1, 0), 2180)
+PassiveUnits :Ranged(40)(0, (6,1), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Ranged(35)(0, (8,2), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Light(69)(1, (5,6), 3, 0)
+
+Combat :
+start time :2175
+end time : 2180
+Combat Ended Because of :Reinforcement
+Involved_A :Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+Involved_B :Light(50)(1, (6,5), 2, 0)Light(69)(1, (5,6), 3, 0)
+Involved_ALL :Ranged(47)(0, (6,4), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(73)(0, (3,2), 1, 0)Light(50)(1, (6,5), 2, 0)Light(69)(1, (5,6), 3, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,1), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+Remained_B :Light(69)(1, (5,5), 3, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,1), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Light(69)(1, (5,5), 3, 0)Ranged(73)(0, (3,2), 1, 0)
+KilledUnits :(Light(50)(1, (6,5), 2, 0), 2180)(Ranged(47)(0, (6,4), 1, 0), 2180)
+PassiveUnits :Ranged(54)(0, (5,1), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (6,1), 1, 0)Ranged(73)(0, (3,2), 1, 0)Light(69)(1, (5,6), 3, 0)
+
+Combat :
+start time :2180
+end time : 2183
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Worker(22)(0, (1,1), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(54)(0, (5,0), 1, 0)
+Involved_B :Light(69)(1, (5,5), 3, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Worker(22)(0, (1,1), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(54)(0, (5,0), 1, 0)Light(69)(1, (5,5), 3, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,1), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+Remained_B :Light(69)(1, (5,5), 3, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,1), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Light(69)(1, (5,5), 3, 0)Ranged(73)(0, (3,2), 1, 0)
+KilledUnits :
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Worker(22)(0, (1,1), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(54)(0, (5,0), 1, 0)
+
+Combat :
+start time :2183
+end time : 2190
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Worker(22)(0, (1,1), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(54)(0, (5,0), 1, 0)
+Involved_B :Light(42)(1, (4,6), 3, 0)Light(69)(1, (5,5), 3, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Ranged(49)(0, (5,4), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Worker(22)(0, (1,1), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(54)(0, (5,0), 1, 0)Light(42)(1, (4,6), 3, 0)Light(69)(1, (5,5), 3, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,0), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+Remained_B :Light(42)(1, (4,6), 2, 0)Light(69)(1, (5,5), 2, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,0), 1, 0)Barracks(31)(0, (2,1), 4, 0)Light(42)(1, (4,6), 2, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Light(69)(1, (5,5), 2, 0)Ranged(73)(0, (3,2), 1, 0)
+KilledUnits :(Ranged(49)(0, (5,4), 1, 0), 2185)
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Worker(22)(0, (1,1), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(54)(0, (5,0), 1, 0)Light(42)(1, (4,6), 3, 0)
+
+Combat :
+start time :2184
+end time : 2186
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(80)(0, (0,4), 1, 0)
+Involved_B :Light(45)(1, (0,5), 4, 0)
+Involved_ALL :Worker(80)(0, (0,4), 1, 0)Light(45)(1, (0,5), 4, 0)
+Remained_A :Worker(80)(0, (1,4), 1, 0)
+Remained_B :Light(45)(1, (0,5), 4, 0)
+Remained_ALL :Light(45)(1, (0,5), 4, 0)Worker(80)(0, (1,4), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(80)(0, (0,4), 1, 0)
+
+Combat :
+start time :2190
+end time : 2191
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(54)(0, (5,0), 1, 0)
+Involved_B :Light(42)(1, (4,6), 2, 0)Light(69)(1, (5,5), 2, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(54)(0, (5,0), 1, 0)Light(42)(1, (4,6), 2, 0)Light(69)(1, (5,5), 2, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+Remained_B :Light(42)(1, (4,5), 2, 0)Light(69)(1, (5,5), 2, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Light(42)(1, (4,5), 2, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Light(69)(1, (5,5), 2, 0)Ranged(73)(0, (3,2), 1, 0)
+KilledUnits :
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(54)(0, (5,0), 1, 0)Light(42)(1, (4,6), 2, 0)Light(69)(1, (5,5), 2, 0)
+
+Combat :
+start time :2191
+end time : 2196
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(35)(0, (8,0), 1, 0)Ranged(40)(0, (7,0), 1, 0)
+Involved_B :Light(42)(1, (4,5), 2, 0)Light(69)(1, (5,5), 2, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(35)(0, (8,0), 1, 0)Ranged(40)(0, (7,0), 1, 0)Light(42)(1, (4,5), 2, 0)Light(69)(1, (5,5), 2, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(35)(0, (8,0), 1, 0)Ranged(40)(0, (7,0), 1, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)
+Remained_B :Light(42)(1, (4,5), 2, 0)Light(69)(1, (5,4), 2, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(35)(0, (8,0), 1, 0)Ranged(40)(0, (7,0), 1, 0)Light(42)(1, (4,5), 2, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Light(69)(1, (5,4), 2, 0)Ranged(73)(0, (3,2), 1, 0)
+KilledUnits :
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(35)(0, (8,0), 1, 0)Ranged(40)(0, (7,0), 1, 0)Light(42)(1, (4,5), 2, 0)Light(69)(1, (5,5), 2, 0)
+
+Combat :
+start time :2196
+end time : 2200
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(35)(0, (8,0), 1, 0)Ranged(40)(0, (7,0), 1, 0)Worker(80)(0, (2,4), 1, 0)
+Involved_B :Light(42)(1, (4,5), 2, 0)Light(69)(1, (5,4), 2, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(35)(0, (8,0), 1, 0)Ranged(40)(0, (7,0), 1, 0)Worker(80)(0, (2,4), 1, 0)Light(42)(1, (4,5), 2, 0)Light(69)(1, (5,4), 2, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(35)(0, (9,0), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(54)(0, (6,0), 1, 0)Ranged(58)(0, (5,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(80)(0, (2,4), 1, 0)
+Remained_B :Light(42)(1, (4,4), 2, 0)Light(69)(1, (5,4), 2, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(35)(0, (9,0), 1, 0)Ranged(40)(0, (7,1), 1, 0)Light(42)(1, (4,4), 2, 0)Ranged(54)(0, (6,0), 1, 0)Ranged(58)(0, (5,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Light(69)(1, (5,4), 2, 0)Ranged(73)(0, (3,1), 1, 0)Worker(80)(0, (2,4), 1, 0)
+KilledUnits :
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(54)(0, (5,0), 1, 0)Ranged(58)(0, (4,2), 1, 0)Ranged(73)(0, (3,2), 1, 0)Ranged(35)(0, (8,0), 1, 0)Ranged(40)(0, (7,0), 1, 0)Worker(80)(0, (2,4), 1, 0)Light(42)(1, (4,5), 2, 0)Light(69)(1, (5,4), 2, 0)
+
+Combat :
+start time :2200
+end time : 2204
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(54)(0, (6,0), 1, 0)Ranged(58)(0, (5,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(22)(0, (1,0), 1, 0)Worker(27)(0, (0,1), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (9,2), 1, 0)Ranged(35)(0, (9,0), 1, 0)Ranged(43)(0, (10,1), 1, 0)Worker(80)(0, (2,4), 1, 0)
+Involved_B :Light(42)(1, (4,4), 2, 0)Light(69)(1, (5,4), 2, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(54)(0, (6,0), 1, 0)Ranged(58)(0, (5,2), 1, 0)Ranged(66)(0, (4,3), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(22)(0, (1,0), 1, 0)Worker(27)(0, (0,1), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (9,2), 1, 0)Ranged(35)(0, (9,0), 1, 0)Ranged(43)(0, (10,1), 1, 0)Worker(80)(0, (2,4), 1, 0)Light(42)(1, (4,4), 2, 0)Light(69)(1, (5,4), 2, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,0), 1, 0)Worker(27)(0, (0,1), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (9,2), 1, 0)Ranged(35)(0, (9,0), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(43)(0, (10,1), 1, 0)Ranged(54)(0, (6,0), 1, 0)Ranged(58)(0, (5,2), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(80)(0, (2,4), 1, 0)
+Remained_B :Light(42)(1, (4,4), 2, 0)Light(69)(1, (5,3), 2, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,0), 1, 0)Worker(27)(0, (0,1), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (9,2), 1, 0)Ranged(35)(0, (9,0), 1, 0)Ranged(40)(0, (7,1), 1, 0)Light(42)(1, (4,4), 2, 0)Ranged(43)(0, (10,1), 1, 0)Ranged(54)(0, (6,0), 1, 0)Ranged(58)(0, (5,2), 1, 0)Light(69)(1, (5,3), 2, 0)Ranged(73)(0, (3,1), 1, 0)Worker(80)(0, (2,4), 1, 0)
+KilledUnits :(Ranged(66)(0, (4,3), 1, 0), 2204)
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(54)(0, (6,0), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(22)(0, (1,0), 1, 0)Worker(27)(0, (0,1), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (9,2), 1, 0)Ranged(35)(0, (9,0), 1, 0)Ranged(43)(0, (10,1), 1, 0)Worker(80)(0, (2,4), 1, 0)
+
+Combat :
+start time :2204
+end time : 2206
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(54)(0, (6,0), 1, 0)Ranged(58)(0, (5,2), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(22)(0, (1,0), 1, 0)Worker(27)(0, (0,1), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (9,2), 1, 0)Ranged(35)(0, (9,0), 1, 0)Ranged(43)(0, (10,1), 1, 0)
+Involved_B :Light(42)(1, (4,4), 2, 0)Light(69)(1, (5,3), 2, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(54)(0, (6,0), 1, 0)Ranged(58)(0, (5,2), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(22)(0, (1,0), 1, 0)Worker(27)(0, (0,1), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (9,2), 1, 0)Ranged(35)(0, (9,0), 1, 0)Ranged(43)(0, (10,1), 1, 0)Light(42)(1, (4,4), 2, 0)Light(69)(1, (5,3), 2, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,0), 1, 0)Worker(27)(0, (0,1), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (9,2), 1, 0)Ranged(35)(0, (9,0), 1, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(43)(0, (10,1), 1, 0)Ranged(54)(0, (6,0), 1, 0)Ranged(73)(0, (3,1), 1, 0)
+Remained_B :Light(42)(1, (4,4), 2, 0)Light(69)(1, (5,3), 2, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,0), 1, 0)Worker(27)(0, (0,1), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (9,2), 1, 0)Ranged(35)(0, (9,0), 1, 0)Ranged(40)(0, (7,1), 1, 0)Light(42)(1, (4,4), 2, 0)Ranged(43)(0, (10,1), 1, 0)Ranged(54)(0, (6,0), 1, 0)Light(69)(1, (5,3), 2, 0)Ranged(73)(0, (3,1), 1, 0)
+KilledUnits :(Ranged(58)(0, (5,2), 1, 0), 2206)
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Ranged(40)(0, (7,1), 1, 0)Ranged(54)(0, (6,0), 1, 0)Ranged(73)(0, (3,1), 1, 0)Worker(22)(0, (1,0), 1, 0)Worker(27)(0, (0,1), 1, 1)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (9,2), 1, 0)Ranged(35)(0, (9,0), 1, 0)Ranged(43)(0, (10,1), 1, 0)Light(42)(1, (4,4), 2, 0)
+
+Combat :
+start time :2205
+end time : 2206
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(80)(0, (2,4), 1, 0)
+Involved_B :Light(45)(1, (1,4), 4, 0)
+Involved_ALL :Worker(80)(0, (2,4), 1, 0)Light(45)(1, (1,4), 4, 0)
+Remained_A :Worker(80)(0, (2,5), 1, 0)
+Remained_B :Light(45)(1, (1,4), 4, 0)
+Remained_ALL :Light(45)(1, (1,4), 4, 0)Worker(80)(0, (2,5), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(80)(0, (2,4), 1, 0)Light(45)(1, (1,4), 4, 0)
+
+Combat :
+start time :2209
+end time : 2214
+Combat Ended Because of :Destroyed
+Involved_A :Worker(80)(0, (2,5), 1, 0)
+Involved_B :Light(60)(1, (2,6), 3, 0)
+Involved_ALL :Worker(80)(0, (2,5), 1, 0)Light(60)(1, (2,6), 3, 0)
+Remained_A :
+Remained_B :Light(60)(1, (2,6), 3, 0)
+Remained_ALL :Light(60)(1, (2,6), 3, 0)
+KilledUnits :(Worker(80)(0, (2,5), 1, 0), 2214)
+PassiveUnits :Worker(80)(0, (2,5), 1, 0)
+
+Combat :
+start time :2210
+end time : 2214
+Combat Ended Because of :Reinforcement
+Involved_A :Ranged(40)(0, (8,1), 1, 0)Ranged(54)(0, (6,1), 1, 0)Worker(34)(0, (9,3), 1, 0)Ranged(35)(0, (10,0), 1, 0)Ranged(43)(0, (10,1), 1, 0)Ranged(77)(0, (11,1), 1, 0)
+Involved_B :Light(69)(1, (5,3), 2, 0)
+Involved_ALL :Ranged(40)(0, (8,1), 1, 0)Ranged(54)(0, (6,1), 1, 0)Worker(34)(0, (9,3), 1, 0)Ranged(35)(0, (10,0), 1, 0)Ranged(43)(0, (10,1), 1, 0)Ranged(77)(0, (11,1), 1, 0)Light(69)(1, (5,3), 2, 0)
+Remained_A :Worker(34)(0, (9,3), 1, 0)Ranged(35)(0, (10,0), 1, 0)Ranged(40)(0, (8,1), 1, 0)Ranged(43)(0, (10,1), 1, 0)Ranged(54)(0, (6,1), 1, 0)Ranged(77)(0, (11,1), 1, 0)
+Remained_B :Light(69)(1, (5,4), 2, 0)
+Remained_ALL :Worker(34)(0, (9,3), 1, 0)Ranged(35)(0, (10,0), 1, 0)Ranged(40)(0, (8,1), 1, 0)Ranged(43)(0, (10,1), 1, 0)Ranged(54)(0, (6,1), 1, 0)Light(69)(1, (5,4), 2, 0)Ranged(77)(0, (11,1), 1, 0)
+KilledUnits :
+PassiveUnits :Ranged(40)(0, (8,1), 1, 0)Worker(34)(0, (9,3), 1, 0)Ranged(35)(0, (10,0), 1, 0)Ranged(43)(0, (10,1), 1, 0)Ranged(77)(0, (11,1), 1, 0)Light(69)(1, (5,3), 2, 0)
+
+Combat :
+start time :2210
+end time : 2214
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(73)(0, (3,2), 1, 0)
+Involved_B :Light(42)(1, (4,4), 2, 0)Light(69)(1, (5,3), 2, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(73)(0, (3,2), 1, 0)Light(42)(1, (4,4), 2, 0)Light(69)(1, (5,3), 2, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(73)(0, (3,2), 1, 0)
+Remained_B :Light(42)(1, (3,4), 2, 0)Light(69)(1, (5,4), 2, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Light(42)(1, (3,4), 2, 0)Light(69)(1, (5,4), 2, 0)Ranged(73)(0, (3,2), 1, 0)
+KilledUnits :
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(73)(0, (3,2), 1, 0)Light(42)(1, (4,4), 2, 0)Light(69)(1, (5,3), 2, 0)
+
+Combat :
+start time :2214
+end time : 2220
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(73)(0, (3,2), 1, 0)
+Involved_B :Light(42)(1, (3,4), 2, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(73)(0, (3,2), 1, 0)Light(42)(1, (3,4), 2, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(73)(0, (4,2), 1, 0)
+Remained_B :Light(42)(1, (3,3), 2, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Light(42)(1, (3,3), 2, 0)Ranged(73)(0, (4,2), 1, 0)
+KilledUnits :
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(73)(0, (3,2), 1, 0)Light(42)(1, (3,4), 2, 0)
+
+Combat :
+start time :2220
+end time : 2225
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(54)(0, (6,1), 1, 0)Ranged(73)(0, (4,2), 1, 0)Worker(83)(0, (2,3), 1, 0)Ranged(40)(0, (8,2), 1, 0)Ranged(82)(0, (2,0), 1, 0)
+Involved_B :Light(42)(1, (3,3), 2, 0)Light(69)(1, (5,4), 2, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(54)(0, (6,1), 1, 0)Ranged(73)(0, (4,2), 1, 0)Worker(83)(0, (2,3), 1, 0)Ranged(40)(0, (8,2), 1, 0)Ranged(82)(0, (2,0), 1, 0)Light(42)(1, (3,3), 2, 0)Light(69)(1, (5,4), 2, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (8,2), 1, 0)Ranged(54)(0, (7,1), 1, 0)Ranged(73)(0, (4,2), 1, 0)Ranged(82)(0, (2,0), 1, 0)
+Remained_B :Light(69)(1, (6,4), 2, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (8,2), 1, 0)Ranged(54)(0, (7,1), 1, 0)Light(69)(1, (6,4), 2, 0)Ranged(73)(0, (4,2), 1, 0)Ranged(82)(0, (2,0), 1, 0)
+KilledUnits :(Light(42)(1, (3,3), 2, 0), 2225)(Worker(83)(0, (2,3), 1, 0), 2225)
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(54)(0, (6,1), 1, 0)Ranged(40)(0, (8,2), 1, 0)Ranged(82)(0, (2,0), 1, 0)Light(69)(1, (5,4), 2, 0)
+
+Combat :
+start time :2222
+end time : 2225
+Combat Ended Because of :Reinforcement
+Involved_A :Ranged(40)(0, (8,2), 1, 0)Ranged(54)(0, (6,1), 1, 0)Ranged(73)(0, (4,2), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(29)(0, (10,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (10,3), 1, 0)Ranged(43)(0, (10,1), 1, 0)Worker(83)(0, (2,3), 1, 0)
+Involved_B :Light(69)(1, (6,4), 2, 0)Light(42)(1, (3,3), 2, 0)
+Involved_ALL :Ranged(40)(0, (8,2), 1, 0)Ranged(54)(0, (6,1), 1, 0)Ranged(73)(0, (4,2), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(29)(0, (10,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (10,3), 1, 0)Ranged(43)(0, (10,1), 1, 0)Worker(83)(0, (2,3), 1, 0)Light(69)(1, (6,4), 2, 0)Light(42)(1, (3,3), 2, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(29)(0, (10,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (10,3), 1, 0)Ranged(40)(0, (8,2), 1, 0)Ranged(43)(0, (10,1), 1, 0)Ranged(54)(0, (7,1), 1, 0)Ranged(73)(0, (4,2), 1, 0)
+Remained_B :Light(69)(1, (6,4), 2, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(29)(0, (10,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (10,3), 1, 0)Ranged(40)(0, (8,2), 1, 0)Ranged(43)(0, (10,1), 1, 0)Ranged(54)(0, (7,1), 1, 0)Light(69)(1, (6,4), 2, 0)Ranged(73)(0, (4,2), 1, 0)
+KilledUnits :(Light(42)(1, (3,3), 2, 0), 2225)(Worker(83)(0, (2,3), 1, 0), 2225)
+PassiveUnits :Ranged(40)(0, (8,2), 1, 0)Ranged(54)(0, (6,1), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(29)(0, (10,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Worker(34)(0, (10,3), 1, 0)Ranged(43)(0, (10,1), 1, 0)Light(69)(1, (6,4), 2, 0)
+
+Combat :
+start time :2230
+end time : 2235
+Combat Ended Because of :Reinforcement
+Involved_A :Ranged(40)(0, (9,2), 1, 0)Ranged(43)(0, (10,1), 1, 0)Ranged(54)(0, (7,1), 1, 0)Worker(29)(0, (11,2), 1, 0)Worker(34)(0, (10,4), 1, 0)Ranged(35)(0, (10,0), 1, 0)Ranged(77)(0, (11,1), 1, 0)
+Involved_B :Light(69)(1, (6,3), 2, 0)
+Involved_ALL :Ranged(40)(0, (9,2), 1, 0)Ranged(43)(0, (10,1), 1, 0)Ranged(54)(0, (7,1), 1, 0)Worker(29)(0, (11,2), 1, 0)Worker(34)(0, (10,4), 1, 0)Ranged(35)(0, (10,0), 1, 0)Ranged(77)(0, (11,1), 1, 0)Light(69)(1, (6,3), 2, 0)
+Remained_A :Worker(29)(0, (11,2), 1, 0)Worker(34)(0, (10,4), 1, 0)Ranged(35)(0, (10,0), 1, 0)Ranged(40)(0, (9,2), 1, 0)Ranged(43)(0, (10,1), 1, 0)Ranged(54)(0, (7,2), 1, 0)Ranged(77)(0, (11,1), 1, 0)
+Remained_B :Light(69)(1, (6,3), 2, 0)
+Remained_ALL :Worker(29)(0, (11,2), 1, 0)Worker(34)(0, (10,4), 1, 0)Ranged(35)(0, (10,0), 1, 0)Ranged(40)(0, (9,2), 1, 0)Ranged(43)(0, (10,1), 1, 0)Ranged(54)(0, (7,2), 1, 0)Light(69)(1, (6,3), 2, 0)Ranged(77)(0, (11,1), 1, 0)
+KilledUnits :
+PassiveUnits :Ranged(40)(0, (9,2), 1, 0)Ranged(43)(0, (10,1), 1, 0)Ranged(54)(0, (7,1), 1, 0)Worker(29)(0, (11,2), 1, 0)Worker(34)(0, (10,4), 1, 0)Ranged(35)(0, (10,0), 1, 0)Ranged(77)(0, (11,1), 1, 0)Light(69)(1, (6,3), 2, 0)
+
+Combat :
+start time :2230
+end time : 2235
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(73)(0, (4,2), 1, 0)Ranged(82)(0, (3,0), 1, 0)Worker(22)(0, (1,0), 1, 0)
+Involved_B :Light(69)(1, (6,3), 2, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(73)(0, (4,2), 1, 0)Ranged(82)(0, (3,0), 1, 0)Worker(22)(0, (1,0), 1, 0)Light(69)(1, (6,3), 2, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,0), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(73)(0, (5,2), 1, 0)Ranged(82)(0, (3,0), 1, 0)
+Remained_B :Light(69)(1, (6,3), 2, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,0), 1, 0)Barracks(31)(0, (2,1), 4, 0)Light(69)(1, (6,3), 2, 0)Ranged(73)(0, (5,2), 1, 0)Ranged(82)(0, (3,0), 1, 0)
+KilledUnits :
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(73)(0, (4,2), 1, 0)Ranged(82)(0, (3,0), 1, 0)Worker(22)(0, (1,0), 1, 0)Light(69)(1, (6,3), 2, 0)
+
+Combat :
+start time :2235
+end time : 2240
+Combat Ended Because of :Reinforcement
+Involved_A :Ranged(40)(0, (9,2), 1, 0)Ranged(54)(0, (7,2), 1, 0)Ranged(73)(0, (5,2), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(29)(0, (11,2), 1, 0)Worker(34)(0, (10,4), 1, 0)Ranged(35)(0, (10,0), 1, 0)Ranged(43)(0, (10,1), 1, 0)Ranged(77)(0, (11,1), 1, 0)
+Involved_B :Light(69)(1, (6,3), 2, 0)
+Involved_ALL :Ranged(40)(0, (9,2), 1, 0)Ranged(54)(0, (7,2), 1, 0)Ranged(73)(0, (5,2), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(29)(0, (11,2), 1, 0)Worker(34)(0, (10,4), 1, 0)Ranged(35)(0, (10,0), 1, 0)Ranged(43)(0, (10,1), 1, 0)Ranged(77)(0, (11,1), 1, 0)Light(69)(1, (6,3), 2, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(29)(0, (10,2), 1, 0)Worker(34)(0, (11,4), 1, 0)Ranged(35)(0, (10,0), 1, 0)Ranged(40)(0, (9,3), 1, 0)Ranged(43)(0, (10,1), 1, 0)Ranged(54)(0, (7,2), 1, 0)Ranged(73)(0, (5,2), 1, 0)Ranged(77)(0, (11,1), 1, 0)
+Remained_B :Light(69)(1, (6,2), 2, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(29)(0, (10,2), 1, 0)Worker(34)(0, (11,4), 1, 0)Ranged(35)(0, (10,0), 1, 0)Ranged(40)(0, (9,3), 1, 0)Ranged(43)(0, (10,1), 1, 0)Ranged(54)(0, (7,2), 1, 0)Light(69)(1, (6,2), 2, 0)Ranged(73)(0, (5,2), 1, 0)Ranged(77)(0, (11,1), 1, 0)
+KilledUnits :
+PassiveUnits :Ranged(40)(0, (9,2), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(29)(0, (11,2), 1, 0)Worker(34)(0, (10,4), 1, 0)Ranged(35)(0, (10,0), 1, 0)Ranged(43)(0, (10,1), 1, 0)Ranged(77)(0, (11,1), 1, 0)
+
+Combat :
+start time :2235
+end time : 2240
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Ranged(54)(0, (7,2), 1, 0)Ranged(73)(0, (5,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (9,2), 1, 0)
+Involved_B :Light(69)(1, (6,3), 2, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Ranged(54)(0, (7,2), 1, 0)Ranged(73)(0, (5,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (9,2), 1, 0)Light(69)(1, (6,3), 2, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (9,3), 1, 0)Ranged(54)(0, (7,2), 1, 0)Ranged(73)(0, (5,2), 1, 0)
+Remained_B :Light(69)(1, (6,2), 2, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (9,3), 1, 0)Ranged(54)(0, (7,2), 1, 0)Light(69)(1, (6,2), 2, 0)Ranged(73)(0, (5,2), 1, 0)
+KilledUnits :
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (9,2), 1, 0)
+
+Combat :
+start time :2240
+end time : 2243
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(29)(0, (10,2), 1, 0)Ranged(40)(0, (9,3), 1, 0)Ranged(54)(0, (7,2), 1, 0)Ranged(73)(0, (5,2), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(34)(0, (11,4), 1, 0)Ranged(43)(0, (10,1), 1, 0)Worker(53)(0, (12,3), 1, 0)Ranged(82)(0, (4,0), 1, 0)
+Involved_B :Light(69)(1, (6,2), 2, 0)
+Involved_ALL :Worker(29)(0, (10,2), 1, 0)Ranged(40)(0, (9,3), 1, 0)Ranged(54)(0, (7,2), 1, 0)Ranged(73)(0, (5,2), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(34)(0, (11,4), 1, 0)Ranged(43)(0, (10,1), 1, 0)Worker(53)(0, (12,3), 1, 0)Ranged(82)(0, (4,0), 1, 0)Light(69)(1, (6,2), 2, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(29)(0, (10,2), 1, 0)Worker(34)(0, (11,4), 1, 0)Ranged(40)(0, (9,3), 1, 0)Ranged(43)(0, (10,1), 1, 0)Worker(53)(0, (12,3), 1, 0)Ranged(73)(0, (5,2), 1, 0)Ranged(82)(0, (4,0), 1, 0)
+Remained_B :Light(69)(1, (6,2), 2, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(29)(0, (10,2), 1, 0)Worker(34)(0, (11,4), 1, 0)Ranged(40)(0, (9,3), 1, 0)Ranged(43)(0, (10,1), 1, 0)Worker(53)(0, (12,3), 1, 0)Light(69)(1, (6,2), 2, 0)Ranged(73)(0, (5,2), 1, 0)Ranged(82)(0, (4,0), 1, 0)
+KilledUnits :(Ranged(54)(0, (7,2), 1, 0), 2243)
+PassiveUnits :Worker(29)(0, (10,2), 1, 0)Ranged(40)(0, (9,3), 1, 0)Base(20)(0, (2,2), 10, 0)Worker(34)(0, (11,4), 1, 0)Ranged(43)(0, (10,1), 1, 0)Worker(53)(0, (12,3), 1, 0)Ranged(82)(0, (4,0), 1, 0)
+
+Combat :
+start time :2240
+end time : 2242
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Ranged(54)(0, (7,2), 1, 0)Ranged(73)(0, (5,2), 1, 0)Ranged(82)(0, (4,0), 1, 0)Worker(22)(0, (1,0), 1, 0)Worker(29)(0, (10,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (9,3), 1, 0)
+Involved_B :Light(69)(1, (6,2), 2, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Ranged(54)(0, (7,2), 1, 0)Ranged(73)(0, (5,2), 1, 0)Ranged(82)(0, (4,0), 1, 0)Worker(22)(0, (1,0), 1, 0)Worker(29)(0, (10,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (9,3), 1, 0)Light(69)(1, (6,2), 2, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,0), 1, 0)Worker(29)(0, (10,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (9,3), 1, 0)Ranged(54)(0, (7,2), 1, 0)Ranged(73)(0, (5,2), 1, 0)Ranged(82)(0, (4,0), 1, 0)
+Remained_B :Light(69)(1, (6,2), 2, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,0), 1, 0)Worker(29)(0, (10,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (9,3), 1, 0)Ranged(54)(0, (7,2), 1, 0)Light(69)(1, (6,2), 2, 0)Ranged(73)(0, (5,2), 1, 0)Ranged(82)(0, (4,0), 1, 0)
+KilledUnits :
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Ranged(82)(0, (4,0), 1, 0)Worker(22)(0, (1,0), 1, 0)Worker(29)(0, (10,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (9,3), 1, 0)
+
+Combat :
+start time :2242
+end time : 2243
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Ranged(54)(0, (7,2), 1, 0)Ranged(73)(0, (5,2), 1, 0)Ranged(82)(0, (4,0), 1, 0)Worker(22)(0, (1,0), 1, 0)Worker(29)(0, (10,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (9,3), 1, 0)
+Involved_B :Light(69)(1, (6,2), 2, 0)Light(45)(1, (2,3), 4, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Ranged(54)(0, (7,2), 1, 0)Ranged(73)(0, (5,2), 1, 0)Ranged(82)(0, (4,0), 1, 0)Worker(22)(0, (1,0), 1, 0)Worker(29)(0, (10,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (9,3), 1, 0)Light(69)(1, (6,2), 2, 0)Light(45)(1, (2,3), 4, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,0), 1, 0)Worker(29)(0, (10,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (9,3), 1, 0)Ranged(73)(0, (5,2), 1, 0)Ranged(82)(0, (4,0), 1, 0)
+Remained_B :Light(45)(1, (2,3), 4, 0)Light(69)(1, (6,2), 2, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,0), 1, 0)Worker(29)(0, (10,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (9,3), 1, 0)Light(45)(1, (2,3), 4, 0)Light(69)(1, (6,2), 2, 0)Ranged(73)(0, (5,2), 1, 0)Ranged(82)(0, (4,0), 1, 0)
+KilledUnits :(Ranged(54)(0, (7,2), 1, 0), 2243)
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Ranged(82)(0, (4,0), 1, 0)Worker(22)(0, (1,0), 1, 0)Worker(29)(0, (10,2), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(40)(0, (9,3), 1, 0)Light(45)(1, (2,3), 4, 0)
+
+Combat :
+start time :2243
+end time : 2247
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Ranged(73)(0, (5,2), 1, 0)Ranged(82)(0, (4,0), 1, 0)Worker(22)(0, (1,0), 1, 0)Barracks(31)(0, (2,1), 4, 0)
+Involved_B :Light(69)(1, (6,2), 2, 0)Light(45)(1, (2,3), 4, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Ranged(73)(0, (5,2), 1, 0)Ranged(82)(0, (4,0), 1, 0)Worker(22)(0, (1,0), 1, 0)Barracks(31)(0, (2,1), 4, 0)Light(69)(1, (6,2), 2, 0)Light(45)(1, (2,3), 4, 0)
+Remained_A :Base(20)(0, (2,2), 8, 0)Worker(22)(0, (1,0), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(73)(0, (5,2), 1, 0)Ranged(82)(0, (4,0), 1, 0)
+Remained_B :Light(45)(1, (2,3), 4, 0)Light(69)(1, (6,2), 1, 0)
+Remained_ALL :Base(20)(0, (2,2), 8, 0)Worker(22)(0, (1,0), 1, 0)Barracks(31)(0, (2,1), 4, 0)Light(45)(1, (2,3), 4, 0)Light(69)(1, (6,2), 1, 0)Ranged(73)(0, (5,2), 1, 0)Ranged(82)(0, (4,0), 1, 0)
+KilledUnits :
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Ranged(82)(0, (4,0), 1, 0)Worker(22)(0, (1,0), 1, 0)Barracks(31)(0, (2,1), 4, 0)
+
+Combat :
+start time :2247
+end time : 2248
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 8, 0)Ranged(73)(0, (5,2), 1, 0)Ranged(82)(0, (4,0), 1, 0)Worker(22)(0, (1,0), 1, 0)Barracks(31)(0, (2,1), 4, 0)
+Involved_B :Light(38)(1, (3,3), 2, 0)Light(69)(1, (6,2), 1, 0)Light(45)(1, (2,3), 4, 0)
+Involved_ALL :Base(20)(0, (2,2), 8, 0)Ranged(73)(0, (5,2), 1, 0)Ranged(82)(0, (4,0), 1, 0)Worker(22)(0, (1,0), 1, 0)Barracks(31)(0, (2,1), 4, 0)Light(38)(1, (3,3), 2, 0)Light(69)(1, (6,2), 1, 0)Light(45)(1, (2,3), 4, 0)
+Remained_A :Base(20)(0, (2,2), 8, 0)Worker(22)(0, (1,0), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(82)(0, (4,0), 1, 0)
+Remained_B :Light(38)(1, (3,3), 2, 0)Light(45)(1, (2,3), 4, 0)Light(69)(1, (6,2), 1, 0)
+Remained_ALL :Base(20)(0, (2,2), 8, 0)Worker(22)(0, (1,0), 1, 0)Barracks(31)(0, (2,1), 4, 0)Light(38)(1, (3,3), 2, 0)Light(45)(1, (2,3), 4, 0)Light(69)(1, (6,2), 1, 0)Ranged(82)(0, (4,0), 1, 0)
+KilledUnits :(Ranged(73)(0, (5,2), 1, 0), 2248)
+PassiveUnits :Base(20)(0, (2,2), 8, 0)Ranged(82)(0, (4,0), 1, 0)Worker(22)(0, (1,0), 1, 0)Barracks(31)(0, (2,1), 4, 0)Light(38)(1, (3,3), 2, 0)Light(45)(1, (2,3), 4, 0)
+
+Combat :
+start time :2248
+end time : 2260
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 8, 0)Barracks(31)(0, (2,1), 4, 0)
+Involved_B :Light(45)(1, (2,3), 4, 0)Light(38)(1, (3,3), 2, 0)
+Involved_ALL :Base(20)(0, (2,2), 8, 0)Barracks(31)(0, (2,1), 4, 0)Light(45)(1, (2,3), 4, 0)Light(38)(1, (3,3), 2, 0)
+Remained_A :Base(20)(0, (2,2), 2, 0)Barracks(31)(0, (2,1), 4, 0)
+Remained_B :Light(38)(1, (3,2), 2, 0)Light(45)(1, (2,3), 4, 0)
+Remained_ALL :Base(20)(0, (2,2), 2, 0)Barracks(31)(0, (2,1), 4, 0)Light(38)(1, (3,2), 2, 0)Light(45)(1, (2,3), 4, 0)
+KilledUnits :
+PassiveUnits :Base(20)(0, (2,2), 8, 0)Barracks(31)(0, (2,1), 4, 0)
+
+Combat :
+start time :2255
+end time : 2256
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(22)(0, (1,0), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(82)(0, (4,0), 1, 0)Base(20)(0, (2,2), 6, 0)
+Involved_B :Light(38)(1, (3,2), 2, 0)
+Involved_ALL :Worker(22)(0, (1,0), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(82)(0, (4,0), 1, 0)Base(20)(0, (2,2), 6, 0)Light(38)(1, (3,2), 2, 0)
+Remained_A :Base(20)(0, (2,2), 6, 0)Worker(22)(0, (1,0), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(82)(0, (4,0), 1, 0)
+Remained_B :Light(38)(1, (3,2), 2, 0)
+Remained_ALL :Base(20)(0, (2,2), 6, 0)Worker(22)(0, (1,0), 1, 0)Barracks(31)(0, (2,1), 4, 0)Light(38)(1, (3,2), 2, 0)Ranged(82)(0, (4,0), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(22)(0, (1,0), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(82)(0, (4,0), 1, 0)Base(20)(0, (2,2), 6, 0)Light(38)(1, (3,2), 2, 0)
+
+Combat :
+start time :2256
+end time : 2260
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(22)(0, (1,0), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(82)(0, (4,0), 1, 0)Base(20)(0, (2,2), 6, 0)
+Involved_B :Light(38)(1, (3,2), 2, 0)Light(69)(1, (5,2), 1, 0)
+Involved_ALL :Worker(22)(0, (1,0), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(82)(0, (4,0), 1, 0)Base(20)(0, (2,2), 6, 0)Light(38)(1, (3,2), 2, 0)Light(69)(1, (5,2), 1, 0)
+Remained_A :Base(20)(0, (2,2), 2, 0)Worker(22)(0, (1,0), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(82)(0, (4,1), 1, 0)
+Remained_B :Light(38)(1, (3,2), 2, 0)Light(69)(1, (5,2), 1, 0)
+Remained_ALL :Base(20)(0, (2,2), 2, 0)Worker(22)(0, (1,0), 1, 0)Barracks(31)(0, (2,1), 4, 0)Light(38)(1, (3,2), 2, 0)Light(69)(1, (5,2), 1, 0)Ranged(82)(0, (4,1), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(22)(0, (1,0), 1, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(82)(0, (4,0), 1, 0)Base(20)(0, (2,2), 6, 0)Light(69)(1, (5,2), 1, 0)
+
+Combat :
+start time :2260
+end time : 2262
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 2, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(82)(0, (4,1), 1, 0)
+Involved_B :Light(38)(1, (3,2), 2, 0)Light(69)(1, (5,2), 1, 0)Light(45)(1, (2,3), 4, 0)
+Involved_ALL :Base(20)(0, (2,2), 2, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(82)(0, (4,1), 1, 0)Light(38)(1, (3,2), 2, 0)Light(69)(1, (5,2), 1, 0)Light(45)(1, (2,3), 4, 0)
+Remained_A :Barracks(31)(0, (2,1), 4, 0)Ranged(82)(0, (4,1), 1, 0)
+Remained_B :Light(38)(1, (3,2), 2, 0)Light(45)(1, (2,3), 4, 0)Light(69)(1, (5,2), 1, 0)
+Remained_ALL :Barracks(31)(0, (2,1), 4, 0)Light(38)(1, (3,2), 2, 0)Light(45)(1, (2,3), 4, 0)Light(69)(1, (5,2), 1, 0)Ranged(82)(0, (4,1), 1, 0)
+KilledUnits :(Base(20)(0, (2,2), 2, 0), 2262)
+PassiveUnits :Base(20)(0, (2,2), 2, 0)Barracks(31)(0, (2,1), 4, 0)Ranged(82)(0, (4,1), 1, 0)Light(69)(1, (5,2), 1, 0)
+
+Combat :
+start time :2262
+end time : 2269
+Combat Ended Because of :Reinforcement
+Involved_A :Barracks(31)(0, (2,1), 4, 0)Ranged(82)(0, (4,1), 1, 0)
+Involved_B :Light(38)(1, (3,2), 2, 0)Light(69)(1, (5,2), 1, 0)
+Involved_ALL :Barracks(31)(0, (2,1), 4, 0)Ranged(82)(0, (4,1), 1, 0)Light(38)(1, (3,2), 2, 0)Light(69)(1, (5,2), 1, 0)
+Remained_A :Barracks(31)(0, (2,1), 4, 0)
+Remained_B :Light(38)(1, (3,2), 2, 0)Light(69)(1, (4,2), 1, 0)
+Remained_ALL :Barracks(31)(0, (2,1), 4, 0)Light(38)(1, (3,2), 2, 0)Light(69)(1, (4,2), 1, 0)
+KilledUnits :(Ranged(82)(0, (4,1), 1, 0), 2269)
+PassiveUnits :Barracks(31)(0, (2,1), 4, 0)Ranged(82)(0, (4,1), 1, 0)
+
+Combat :
+start time :2270
+end time : 2273
+Combat Ended Because of :Reinforcement
+Involved_A :Barracks(31)(0, (2,1), 4, 0)
+Involved_B :Light(38)(1, (3,2), 2, 0)Light(45)(1, (2,2), 4, 0)Light(60)(1, (1,2), 3, 0)Light(69)(1, (4,2), 1, 0)
+Involved_ALL :Barracks(31)(0, (2,1), 4, 0)Light(38)(1, (3,2), 2, 0)Light(45)(1, (2,2), 4, 0)Light(60)(1, (1,2), 3, 0)Light(69)(1, (4,2), 1, 0)
+Remained_A :Barracks(31)(0, (2,1), 4, 0)
+Remained_B :Light(38)(1, (3,1), 2, 0)Light(45)(1, (2,2), 4, 0)Light(60)(1, (1,2), 3, 0)Light(69)(1, (4,2), 1, 0)
+Remained_ALL :Barracks(31)(0, (2,1), 4, 0)Light(38)(1, (3,1), 2, 0)Light(45)(1, (2,2), 4, 0)Light(60)(1, (1,2), 3, 0)Light(69)(1, (4,2), 1, 0)
+KilledUnits :
+PassiveUnits :Barracks(31)(0, (2,1), 4, 0)Light(38)(1, (3,2), 2, 0)Light(60)(1, (1,2), 3, 0)Light(69)(1, (4,2), 1, 0)
+
+Combat :
+start time :2273
+end time : 2277
+Combat Ended Because of :Reinforcement
+Involved_A :Barracks(31)(0, (2,1), 4, 0)
+Involved_B :Light(38)(1, (3,1), 2, 0)Light(45)(1, (2,2), 4, 0)Light(60)(1, (1,2), 3, 0)
+Involved_ALL :Barracks(31)(0, (2,1), 4, 0)Light(38)(1, (3,1), 2, 0)Light(45)(1, (2,2), 4, 0)Light(60)(1, (1,2), 3, 0)
+Remained_A :Barracks(31)(0, (2,1), 2, 0)
+Remained_B :Light(38)(1, (3,1), 2, 0)Light(45)(1, (2,2), 4, 0)Light(60)(1, (1,2), 3, 0)
+Remained_ALL :Barracks(31)(0, (2,1), 2, 0)Light(38)(1, (3,1), 2, 0)Light(45)(1, (2,2), 4, 0)Light(60)(1, (1,2), 3, 0)
+KilledUnits :
+PassiveUnits :Barracks(31)(0, (2,1), 4, 0)Light(60)(1, (1,2), 3, 0)
+
+Combat :
+start time :2277
+end time : 2278
+Combat Ended Because of :Destroyed
+Involved_A :Barracks(31)(0, (2,1), 2, 0)
+Involved_B :Light(38)(1, (3,1), 2, 0)Light(45)(1, (2,2), 4, 0)Light(60)(1, (1,2), 3, 0)Light(69)(1, (4,1), 1, 0)
+Involved_ALL :Barracks(31)(0, (2,1), 2, 0)Light(38)(1, (3,1), 2, 0)Light(45)(1, (2,2), 4, 0)Light(60)(1, (1,2), 3, 0)Light(69)(1, (4,1), 1, 0)
+Remained_A :
+Remained_B :Light(38)(1, (3,1), 2, 0)Light(45)(1, (2,2), 4, 0)Light(60)(1, (1,1), 3, 0)Light(69)(1, (4,1), 1, 0)
+Remained_ALL :Light(38)(1, (3,1), 2, 0)Light(45)(1, (2,2), 4, 0)Light(60)(1, (1,1), 3, 0)Light(69)(1, (4,1), 1, 0)
+KilledUnits :(Barracks(31)(0, (2,1), 2, 0), 2278)
+PassiveUnits :Barracks(31)(0, (2,1), 2, 0)Light(60)(1, (1,2), 3, 0)Light(69)(1, (4,1), 1, 0)
+
+Combat :
+start time :2278
+end time : 2280
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(22)(0, (1,0), 1, 0)Worker(27)(0, (0,1), 1, 1)
+Involved_B :Light(60)(1, (1,1), 3, 0)
+Involved_ALL :Worker(22)(0, (1,0), 1, 0)Worker(27)(0, (0,1), 1, 1)Light(60)(1, (1,1), 3, 0)
+Remained_A :Worker(22)(0, (1,0), 1, 0)Worker(27)(0, (0,2), 1, 1)
+Remained_B :Light(60)(1, (1,1), 3, 0)
+Remained_ALL :Worker(22)(0, (1,0), 1, 0)Worker(27)(0, (0,2), 1, 1)Light(60)(1, (1,1), 3, 0)
+KilledUnits :
+PassiveUnits :Worker(22)(0, (1,0), 1, 0)Worker(27)(0, (0,1), 1, 1)
+
+Combat :
+start time :2280
+end time : 2283
+Combat Ended Because of :Destroyed
+Involved_A :Worker(22)(0, (1,0), 1, 0)
+Involved_B :Light(60)(1, (1,1), 3, 0)
+Involved_ALL :Worker(22)(0, (1,0), 1, 0)Light(60)(1, (1,1), 3, 0)
+Remained_A :
+Remained_B :Light(60)(1, (1,1), 3, 0)
+Remained_ALL :Light(60)(1, (1,1), 3, 0)
+KilledUnits :(Worker(22)(0, (1,0), 1, 0), 2283)
+PassiveUnits :Worker(22)(0, (1,0), 1, 0)
+
+Combat :
+start time :2288
+end time : 2290
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(27)(0, (0,2), 1, 1)
+Involved_B :Light(45)(1, (1,2), 4, 0)Light(60)(1, (1,1), 3, 0)Light(38)(1, (2,1), 2, 0)
+Involved_ALL :Worker(27)(0, (0,2), 1, 1)Light(45)(1, (1,2), 4, 0)Light(60)(1, (1,1), 3, 0)Light(38)(1, (2,1), 2, 0)
+Remained_A :Worker(27)(0, (0,3), 1, 1)
+Remained_B :Light(38)(1, (2,1), 2, 0)Light(45)(1, (1,2), 4, 0)Light(60)(1, (1,1), 3, 0)
+Remained_ALL :Worker(27)(0, (0,3), 1, 1)Light(38)(1, (2,1), 2, 0)Light(45)(1, (1,2), 4, 0)Light(60)(1, (1,1), 3, 0)
+KilledUnits :
+PassiveUnits :Worker(27)(0, (0,2), 1, 1)Light(60)(1, (1,1), 3, 0)Light(38)(1, (2,1), 2, 0)
+
+Combat :
+start time :2299
+end time : 2301
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(27)(0, (0,3), 1, 1)
+Involved_B :Light(60)(1, (0,2), 3, 0)Light(45)(1, (1,2), 4, 0)
+Involved_ALL :Worker(27)(0, (0,3), 1, 1)Light(60)(1, (0,2), 3, 0)Light(45)(1, (1,2), 4, 0)
+Remained_A :Worker(27)(0, (1,3), 1, 1)
+Remained_B :Light(45)(1, (2,2), 4, 0)Light(60)(1, (0,2), 3, 0)
+Remained_ALL :Worker(27)(0, (1,3), 1, 1)Light(45)(1, (2,2), 4, 0)Light(60)(1, (0,2), 3, 0)
+KilledUnits :
+PassiveUnits :Worker(27)(0, (0,3), 1, 1)Light(45)(1, (1,2), 4, 0)
+
+Combat :
+start time :2309
+end time : 2314
+Combat Ended Because of :Destroyed
+Involved_A :Worker(27)(0, (1,3), 1, 1)
+Involved_B :Light(45)(1, (1,2), 4, 0)Light(60)(1, (0,2), 3, 0)
+Involved_ALL :Worker(27)(0, (1,3), 1, 1)Light(45)(1, (1,2), 4, 0)Light(60)(1, (0,2), 3, 0)
+Remained_A :
+Remained_B :Light(45)(1, (1,2), 4, 0)Light(60)(1, (0,3), 3, 0)
+Remained_ALL :Light(45)(1, (1,2), 4, 0)Light(60)(1, (0,3), 3, 0)
+KilledUnits :(Worker(27)(0, (1,3), 1, 1), 2314)
+PassiveUnits :Worker(27)(0, (1,3), 1, 1)
+
+Combat :
+start time :2309
+end time : 2310
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(29)(0, (9,3), 1, 0)Worker(34)(0, (9,4), 1, 0)Ranged(35)(0, (9,1), 1, 0)Ranged(40)(0, (10,3), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(77)(0, (10,1), 1, 0)Worker(32)(0, (11,5), 1, 0)
+Involved_B :Light(69)(1, (6,1), 1, 0)
+Involved_ALL :Worker(29)(0, (9,3), 1, 0)Worker(34)(0, (9,4), 1, 0)Ranged(35)(0, (9,1), 1, 0)Ranged(40)(0, (10,3), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(77)(0, (10,1), 1, 0)Worker(32)(0, (11,5), 1, 0)Light(69)(1, (6,1), 1, 0)
+Remained_A :Worker(29)(0, (8,3), 1, 0)Worker(32)(0, (11,4), 1, 0)Worker(34)(0, (10,4), 1, 0)Ranged(35)(0, (9,1), 1, 0)Ranged(40)(0, (11,3), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(77)(0, (10,2), 1, 0)
+Remained_B :Light(69)(1, (6,1), 1, 0)
+Remained_ALL :Worker(29)(0, (8,3), 1, 0)Worker(32)(0, (11,4), 1, 0)Worker(34)(0, (10,4), 1, 0)Ranged(35)(0, (9,1), 1, 0)Ranged(40)(0, (11,3), 1, 0)Ranged(43)(0, (9,2), 1, 0)Light(69)(1, (6,1), 1, 0)Ranged(77)(0, (10,2), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(29)(0, (9,3), 1, 0)Worker(34)(0, (9,4), 1, 0)Ranged(35)(0, (9,1), 1, 0)Ranged(40)(0, (10,3), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(77)(0, (10,1), 1, 0)Worker(32)(0, (11,5), 1, 0)Light(69)(1, (6,1), 1, 0)
+
+Combat :
+start time :2310
+end time : 2315
+Combat Ended Because of :Destroyed
+Involved_A :Worker(29)(0, (8,3), 1, 0)Ranged(35)(0, (9,1), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(77)(0, (10,2), 1, 0)Worker(32)(0, (11,4), 1, 0)Worker(34)(0, (10,4), 1, 0)Ranged(40)(0, (11,3), 1, 0)Worker(46)(0, (9,5), 1, 0)
+Involved_B :Light(69)(1, (6,1), 1, 0)
+Involved_ALL :Worker(29)(0, (8,3), 1, 0)Ranged(35)(0, (9,1), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(77)(0, (10,2), 1, 0)Worker(32)(0, (11,4), 1, 0)Worker(34)(0, (10,4), 1, 0)Ranged(40)(0, (11,3), 1, 0)Worker(46)(0, (9,5), 1, 0)Light(69)(1, (6,1), 1, 0)
+Remained_A :Worker(29)(0, (8,3), 1, 0)Worker(32)(0, (11,4), 1, 0)Worker(34)(0, (10,4), 1, 0)Ranged(35)(0, (9,1), 1, 0)Ranged(40)(0, (11,3), 1, 0)Ranged(43)(0, (9,2), 1, 0)Worker(46)(0, (9,5), 1, 0)Ranged(77)(0, (10,2), 1, 0)
+Remained_B :
+Remained_ALL :Worker(29)(0, (8,3), 1, 0)Worker(32)(0, (11,4), 1, 0)Worker(34)(0, (10,4), 1, 0)Ranged(35)(0, (9,1), 1, 0)Ranged(40)(0, (11,3), 1, 0)Ranged(43)(0, (9,2), 1, 0)Worker(46)(0, (9,5), 1, 0)Ranged(77)(0, (10,2), 1, 0)
+KilledUnits :(Light(69)(1, (6,1), 1, 0), 2315)
+PassiveUnits :Worker(29)(0, (8,3), 1, 0)Ranged(43)(0, (9,2), 1, 0)Ranged(77)(0, (10,2), 1, 0)Worker(32)(0, (11,4), 1, 0)Worker(34)(0, (10,4), 1, 0)Ranged(40)(0, (11,3), 1, 0)Worker(46)(0, (9,5), 1, 0)Light(69)(1, (6,1), 1, 0)
+
+Combat :
+start time :2360
+end time : 2365
+Combat Ended Because of :Destroyed
+Involved_A :Worker(29)(0, (9,3), 1, 0)
+Involved_B :Light(38)(1, (8,3), 2, 0)
+Involved_ALL :Worker(29)(0, (9,3), 1, 0)Light(38)(1, (8,3), 2, 0)
+Remained_A :
+Remained_B :Light(38)(1, (8,3), 1, 0)
+Remained_ALL :Light(38)(1, (8,3), 1, 0)
+KilledUnits :(Worker(29)(0, (9,3), 1, 0), 2365)
+PassiveUnits :Worker(29)(0, (9,3), 1, 0)
+
+Combat :
+start time :2370
+end time : 2375
+Combat Ended Because of :Reinforcement
+Involved_A :Ranged(35)(0, (13,1), 1, 0)Ranged(43)(0, (10,1), 1, 0)Worker(32)(0, (12,3), 1, 0)Ranged(77)(0, (13,3), 1, 0)
+Involved_B :Light(45)(1, (8,2), 4, 0)
+Involved_ALL :Ranged(35)(0, (13,1), 1, 0)Ranged(43)(0, (10,1), 1, 0)Worker(32)(0, (12,3), 1, 0)Ranged(77)(0, (13,3), 1, 0)Light(45)(1, (8,2), 4, 0)
+Remained_A :Worker(32)(0, (12,3), 1, 0)Ranged(35)(0, (14,1), 1, 0)Ranged(43)(0, (10,1), 1, 0)Ranged(77)(0, (13,3), 1, 0)
+Remained_B :Light(45)(1, (8,2), 3, 0)
+Remained_ALL :Worker(32)(0, (12,3), 1, 0)Ranged(35)(0, (14,1), 1, 0)Ranged(43)(0, (10,1), 1, 0)Light(45)(1, (8,2), 3, 0)Ranged(77)(0, (13,3), 1, 0)
+KilledUnits :
+PassiveUnits :Ranged(35)(0, (13,1), 1, 0)Worker(32)(0, (12,3), 1, 0)Ranged(77)(0, (13,3), 1, 0)Light(45)(1, (8,2), 4, 0)
+
+Combat :
+start time :2375
+end time : 2389
+Combat Ended Because of :Reinforcement
+Involved_A :Ranged(43)(0, (10,1), 1, 0)
+Involved_B :Light(45)(1, (8,2), 3, 0)
+Involved_ALL :Ranged(43)(0, (10,1), 1, 0)Light(45)(1, (8,2), 3, 0)
+Remained_A :Ranged(43)(0, (10,1), 1, 0)
+Remained_B :Light(45)(1, (10,2), 2, 0)
+Remained_ALL :Ranged(43)(0, (10,1), 1, 0)Light(45)(1, (10,2), 2, 0)
+KilledUnits :
+PassiveUnits :
+
+Combat :
+start time :2389
+end time : 2391
+Combat Ended Because of :Destroyed
+Involved_A :Ranged(43)(0, (10,1), 1, 0)
+Involved_B :Light(45)(1, (10,2), 2, 0)Light(60)(1, (8,2), 3, 0)
+Involved_ALL :Ranged(43)(0, (10,1), 1, 0)Light(45)(1, (10,2), 2, 0)Light(60)(1, (8,2), 3, 0)
+Remained_A :
+Remained_B :Light(45)(1, (10,2), 2, 0)Light(60)(1, (8,2), 3, 0)
+Remained_ALL :Light(45)(1, (10,2), 2, 0)Light(60)(1, (8,2), 3, 0)
+KilledUnits :(Ranged(43)(0, (10,1), 1, 0), 2391)
+PassiveUnits :Light(60)(1, (8,2), 3, 0)
+
+Combat :
+start time :2407
+end time : 2412
+Combat Ended Because of :Destroyed
+Involved_A :Worker(32)(0, (12,3), 1, 0)
+Involved_B :Light(45)(1, (11,3), 2, 0)
+Involved_ALL :Worker(32)(0, (12,3), 1, 0)Light(45)(1, (11,3), 2, 0)
+Remained_A :
+Remained_B :Light(45)(1, (11,3), 2, 0)
+Remained_ALL :Light(45)(1, (11,3), 2, 0)
+KilledUnits :(Worker(32)(0, (12,3), 1, 0), 2412)
+PassiveUnits :Worker(32)(0, (12,3), 1, 0)
+
+Combat :
+start time :2410
+end time : 2414
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(53)(0, (18,6), 1, 0)
+Involved_B :Light(63)(1, (18,7), 4, 0)
+Involved_ALL :Worker(53)(0, (18,6), 1, 0)Light(63)(1, (18,7), 4, 0)
+Remained_A :Worker(53)(0, (18,6), 1, 0)
+Remained_B :Light(63)(1, (17,7), 4, 0)
+Remained_ALL :Worker(53)(0, (18,6), 1, 0)Light(63)(1, (17,7), 4, 0)
+KilledUnits :
+PassiveUnits :Light(63)(1, (18,7), 4, 0)
+
+Combat :
+start time :2422
+end time : 2425
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(34)(0, (18,5), 1, 0)Worker(53)(0, (18,6), 1, 0)
+Involved_B :Light(57)(1, (18,7), 4, 0)Light(63)(1, (17,6), 4, 0)
+Involved_ALL :Worker(34)(0, (18,5), 1, 0)Worker(53)(0, (18,6), 1, 0)Light(57)(1, (18,7), 4, 0)Light(63)(1, (17,6), 4, 0)
+Remained_A :Worker(34)(0, (18,5), 1, 0)Worker(53)(0, (19,6), 1, 0)
+Remained_B :Light(57)(1, (18,7), 4, 0)Light(63)(1, (17,6), 4, 0)
+Remained_ALL :Worker(34)(0, (18,5), 1, 0)Worker(53)(0, (19,6), 1, 0)Light(57)(1, (18,7), 4, 0)Light(63)(1, (17,6), 4, 0)
+KilledUnits :
+PassiveUnits :Worker(34)(0, (18,5), 1, 0)Worker(53)(0, (18,6), 1, 0)
+
+Combat :
+start time :2459
+end time : 2460
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(53)(0, (20,6), 1, 0)
+Involved_B :Light(57)(1, (19,6), 4, 0)Light(63)(1, (19,5), 4, 0)
+Involved_ALL :Worker(53)(0, (20,6), 1, 0)Light(57)(1, (19,6), 4, 0)Light(63)(1, (19,5), 4, 0)
+Remained_A :Worker(53)(0, (20,6), 1, 0)
+Remained_B :Light(57)(1, (19,6), 4, 0)Light(63)(1, (19,5), 4, 0)
+Remained_ALL :Worker(53)(0, (20,6), 1, 0)Light(57)(1, (19,6), 4, 0)Light(63)(1, (19,5), 4, 0)
+KilledUnits :
+PassiveUnits :Worker(53)(0, (20,6), 1, 0)Light(57)(1, (19,6), 4, 0)Light(63)(1, (19,5), 4, 0)
+
+Combat :
+start time :2460
+end time : 2467
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(34)(0, (22,5), 1, 0)Ranged(35)(0, (21,2), 1, 0)Ranged(40)(0, (21,4), 1, 0)Worker(53)(0, (20,6), 1, 0)Ranged(77)(0, (21,3), 1, 0)
+Involved_B :Light(63)(1, (19,5), 4, 0)Light(57)(1, (19,6), 4, 0)
+Involved_ALL :Worker(34)(0, (22,5), 1, 0)Ranged(35)(0, (21,2), 1, 0)Ranged(40)(0, (21,4), 1, 0)Worker(53)(0, (20,6), 1, 0)Ranged(77)(0, (21,3), 1, 0)Light(63)(1, (19,5), 4, 0)Light(57)(1, (19,6), 4, 0)
+Remained_A :Worker(34)(0, (22,5), 1, 0)Ranged(35)(0, (22,2), 1, 0)Ranged(40)(0, (21,4), 1, 0)Ranged(77)(0, (21,3), 1, 0)
+Remained_B :Light(57)(1, (19,6), 3, 0)Light(63)(1, (20,5), 3, 0)
+Remained_ALL :Worker(34)(0, (22,5), 1, 0)Ranged(35)(0, (22,2), 1, 0)Ranged(40)(0, (21,4), 1, 0)Light(57)(1, (19,6), 3, 0)Light(63)(1, (20,5), 3, 0)Ranged(77)(0, (21,3), 1, 0)
+KilledUnits :(Worker(53)(0, (20,6), 1, 0), 2464)
+PassiveUnits :Worker(34)(0, (22,5), 1, 0)Ranged(35)(0, (21,2), 1, 0)Ranged(77)(0, (21,3), 1, 0)Light(63)(1, (19,5), 4, 0)
+
+Combat :
+start time :2467
+end time : 2468
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(34)(0, (22,5), 1, 0)Ranged(35)(0, (22,2), 1, 0)Ranged(40)(0, (21,4), 1, 0)Ranged(77)(0, (21,3), 1, 0)
+Involved_B :Light(63)(1, (20,5), 3, 0)
+Involved_ALL :Worker(34)(0, (22,5), 1, 0)Ranged(35)(0, (22,2), 1, 0)Ranged(40)(0, (21,4), 1, 0)Ranged(77)(0, (21,3), 1, 0)Light(63)(1, (20,5), 3, 0)
+Remained_A :Worker(34)(0, (22,5), 1, 0)Ranged(35)(0, (22,2), 1, 0)Ranged(40)(0, (21,4), 1, 0)Ranged(77)(0, (21,3), 1, 0)
+Remained_B :Light(63)(1, (20,5), 3, 0)
+Remained_ALL :Worker(34)(0, (22,5), 1, 0)Ranged(35)(0, (22,2), 1, 0)Ranged(40)(0, (21,4), 1, 0)Light(63)(1, (20,5), 3, 0)Ranged(77)(0, (21,3), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(34)(0, (22,5), 1, 0)Ranged(35)(0, (22,2), 1, 0)Ranged(77)(0, (21,3), 1, 0)Light(63)(1, (20,5), 3, 0)
+
+Combat :
+start time :2468
+end time : 2470
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(34)(0, (22,5), 1, 0)Ranged(35)(0, (22,2), 1, 0)Ranged(40)(0, (21,4), 1, 0)Ranged(77)(0, (21,3), 1, 0)
+Involved_B :Light(63)(1, (20,5), 3, 0)Light(45)(1, (18,3), 2, 0)
+Involved_ALL :Worker(34)(0, (22,5), 1, 0)Ranged(35)(0, (22,2), 1, 0)Ranged(40)(0, (21,4), 1, 0)Ranged(77)(0, (21,3), 1, 0)Light(63)(1, (20,5), 3, 0)Light(45)(1, (18,3), 2, 0)
+Remained_A :Worker(34)(0, (21,5), 1, 0)Ranged(35)(0, (22,2), 1, 0)Ranged(40)(0, (21,4), 1, 0)Ranged(77)(0, (21,3), 1, 0)
+Remained_B :Light(45)(1, (18,3), 2, 0)Light(63)(1, (20,5), 3, 0)
+Remained_ALL :Worker(34)(0, (21,5), 1, 0)Ranged(35)(0, (22,2), 1, 0)Ranged(40)(0, (21,4), 1, 0)Light(45)(1, (18,3), 2, 0)Light(63)(1, (20,5), 3, 0)Ranged(77)(0, (21,3), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(34)(0, (22,5), 1, 0)Ranged(35)(0, (22,2), 1, 0)Ranged(77)(0, (21,3), 1, 0)Light(63)(1, (20,5), 3, 0)Light(45)(1, (18,3), 2, 0)
+
+Combat :
+start time :2470
+end time : 2488
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(34)(0, (21,5), 1, 0)Ranged(35)(0, (22,2), 1, 0)Ranged(40)(0, (21,4), 1, 0)Worker(46)(0, (22,6), 1, 0)Ranged(77)(0, (21,3), 1, 0)
+Involved_B :Light(63)(1, (20,5), 3, 0)Light(45)(1, (18,3), 2, 0)
+Involved_ALL :Worker(34)(0, (21,5), 1, 0)Ranged(35)(0, (22,2), 1, 0)Ranged(40)(0, (21,4), 1, 0)Worker(46)(0, (22,6), 1, 0)Ranged(77)(0, (21,3), 1, 0)Light(63)(1, (20,5), 3, 0)Light(45)(1, (18,3), 2, 0)
+Remained_A :Worker(34)(0, (20,5), 1, 0)Ranged(35)(0, (21,2), 1, 0)Worker(46)(0, (21,6), 1, 0)Ranged(77)(0, (21,3), 1, 0)
+Remained_B :Light(45)(1, (20,3), 1, 0)
+Remained_ALL :Worker(34)(0, (20,5), 1, 0)Ranged(35)(0, (21,2), 1, 0)Light(45)(1, (20,3), 1, 0)Worker(46)(0, (21,6), 1, 0)Ranged(77)(0, (21,3), 1, 0)
+KilledUnits :(Ranged(40)(0, (21,4), 1, 0), 2480)(Light(63)(1, (20,4), 3, 0), 2480)
+PassiveUnits :Worker(46)(0, (22,6), 1, 0)
+
+Combat :
+start time :2488
+end time : 2489
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(34)(0, (20,5), 1, 0)Ranged(35)(0, (21,2), 1, 0)Worker(46)(0, (21,6), 1, 0)Ranged(77)(0, (21,3), 1, 0)
+Involved_B :Light(45)(1, (20,3), 1, 0)Light(57)(1, (20,6), 3, 0)
+Involved_ALL :Worker(34)(0, (20,5), 1, 0)Ranged(35)(0, (21,2), 1, 0)Worker(46)(0, (21,6), 1, 0)Ranged(77)(0, (21,3), 1, 0)Light(45)(1, (20,3), 1, 0)Light(57)(1, (20,6), 3, 0)
+Remained_A :Worker(34)(0, (20,5), 1, 0)Ranged(35)(0, (21,2), 1, 0)Worker(46)(0, (21,6), 1, 0)
+Remained_B :Light(45)(1, (20,3), 1, 0)Light(57)(1, (20,6), 3, 0)
+Remained_ALL :Worker(34)(0, (20,5), 1, 0)Ranged(35)(0, (21,2), 1, 0)Light(45)(1, (20,3), 1, 0)Worker(46)(0, (21,6), 1, 0)Light(57)(1, (20,6), 3, 0)
+KilledUnits :(Ranged(77)(0, (21,3), 1, 0), 2489)
+PassiveUnits :Worker(34)(0, (20,5), 1, 0)Worker(46)(0, (21,6), 1, 0)Light(57)(1, (20,6), 3, 0)
+
+Combat :
+start time :2489
+end time : 2490
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(34)(0, (20,5), 1, 0)Worker(46)(0, (21,6), 1, 0)
+Involved_B :Light(57)(1, (20,6), 3, 0)
+Involved_ALL :Worker(34)(0, (20,5), 1, 0)Worker(46)(0, (21,6), 1, 0)Light(57)(1, (20,6), 3, 0)
+Remained_A :Worker(34)(0, (20,5), 1, 0)Worker(46)(0, (22,6), 1, 0)
+Remained_B :Light(57)(1, (20,6), 3, 0)
+Remained_ALL :Worker(34)(0, (20,5), 1, 0)Worker(46)(0, (22,6), 1, 0)Light(57)(1, (20,6), 3, 0)
+KilledUnits :
+PassiveUnits :Worker(34)(0, (20,5), 1, 0)Worker(46)(0, (21,6), 1, 0)
+
+Combat :
+start time :2489
+end time : 2490
+Combat Ended Because of :Destroyed
+Involved_A :Ranged(35)(0, (21,2), 1, 0)
+Involved_B :Light(45)(1, (20,3), 1, 0)
+Involved_ALL :Ranged(35)(0, (21,2), 1, 0)Light(45)(1, (20,3), 1, 0)
+Remained_A :Ranged(35)(0, (21,2), 1, 0)
+Remained_B :
+Remained_ALL :Ranged(35)(0, (21,2), 1, 0)
+KilledUnits :(Light(45)(1, (20,3), 1, 0), 2490)
+PassiveUnits :Light(45)(1, (20,3), 1, 0)
+
+Combat :
+start time :2490
+end time : 2493
+Combat Ended Because of :Destroyed
+Involved_A :Worker(34)(0, (20,5), 1, 0)
+Involved_B :Light(57)(1, (20,6), 3, 0)
+Involved_ALL :Worker(34)(0, (20,5), 1, 0)Light(57)(1, (20,6), 3, 0)
+Remained_A :
+Remained_B :Light(57)(1, (20,6), 3, 0)
+Remained_ALL :Light(57)(1, (20,6), 3, 0)
+KilledUnits :(Worker(34)(0, (20,5), 1, 0), 2493)
+PassiveUnits :Worker(34)(0, (20,5), 1, 0)
+
+Combat :
+start time :2500
+end time : 2501
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(46)(0, (21,6), 1, 0)
+Involved_B :Light(57)(1, (20,6), 3, 0)
+Involved_ALL :Worker(46)(0, (21,6), 1, 0)Light(57)(1, (20,6), 3, 0)
+Remained_A :Worker(46)(0, (21,6), 1, 0)
+Remained_B :Light(57)(1, (20,7), 3, 0)
+Remained_ALL :Worker(46)(0, (21,6), 1, 0)Light(57)(1, (20,7), 3, 0)
+KilledUnits :
+PassiveUnits :Worker(46)(0, (21,6), 1, 0)Light(57)(1, (20,6), 3, 0)
+
+Combat :
+start time :2509
+end time : 2510
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(46)(0, (21,6), 1, 0)
+Involved_B :Light(57)(1, (21,7), 3, 0)
+Involved_ALL :Worker(46)(0, (21,6), 1, 0)Light(57)(1, (21,7), 3, 0)
+Remained_A :Worker(46)(0, (21,6), 1, 0)
+Remained_B :Light(57)(1, (21,7), 3, 0)
+Remained_ALL :Worker(46)(0, (21,6), 1, 0)Light(57)(1, (21,7), 3, 0)
+KilledUnits :
+PassiveUnits :Worker(46)(0, (21,6), 1, 0)Light(57)(1, (21,7), 3, 0)
+
+Combat :
+start time :2510
+end time : 2517
+Combat Ended Because of :Reinforcement
+Involved_A :Ranged(35)(0, (21,4), 1, 0)Worker(46)(0, (21,6), 1, 0)
+Involved_B :Light(57)(1, (21,7), 3, 0)Light(84)(1, (22,7), 4, 0)
+Involved_ALL :Ranged(35)(0, (21,4), 1, 0)Worker(46)(0, (21,6), 1, 0)Light(57)(1, (21,7), 3, 0)Light(84)(1, (22,7), 4, 0)
+Remained_A :Ranged(35)(0, (21,4), 1, 0)
+Remained_B :Light(57)(1, (21,7), 2, 0)Light(84)(1, (22,7), 4, 0)
+Remained_ALL :Ranged(35)(0, (21,4), 1, 0)Light(57)(1, (21,7), 2, 0)Light(84)(1, (22,7), 4, 0)
+KilledUnits :(Worker(46)(0, (21,6), 1, 0), 2514)
+PassiveUnits :Worker(46)(0, (21,6), 1, 0)Light(84)(1, (22,7), 4, 0)
+
+Combat :
+start time :2517
+end time : 2535
+Combat Ended Because of :Destroyed
+Involved_A :Ranged(35)(0, (21,4), 1, 0)
+Involved_B :Light(57)(1, (21,7), 2, 0)Light(60)(1, (20,6), 3, 0)Light(84)(1, (22,7), 4, 0)
+Involved_ALL :Ranged(35)(0, (21,4), 1, 0)Light(57)(1, (21,7), 2, 0)Light(60)(1, (20,6), 3, 0)Light(84)(1, (22,7), 4, 0)
+Remained_A :
+Remained_B :Light(60)(1, (20,4), 3, 0)Light(84)(1, (22,4), 4, 0)
+Remained_ALL :Light(60)(1, (20,4), 3, 0)Light(84)(1, (22,4), 4, 0)
+KilledUnits :(Light(57)(1, (21,5), 1, 0), 2535)(Ranged(35)(0, (21,4), 1, 0), 2535)
+PassiveUnits :Light(84)(1, (22,7), 4, 0)
+
+
+Total records: 149

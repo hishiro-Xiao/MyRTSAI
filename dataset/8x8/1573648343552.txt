@@ -1,0 +1,1094 @@
+Combat :
+start time :614
+end time : 620
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(31)(0, (3,16), 4, 0)
+Involved_B :Ranged(32)(1, (3,19), 1, 0)
+Involved_ALL :Heavy(31)(0, (3,16), 4, 0)Ranged(32)(1, (3,19), 1, 0)
+Remained_A :Heavy(31)(0, (3,16), 4, 0)
+Remained_B :Ranged(32)(1, (2,19), 1, 0)
+Remained_ALL :Heavy(31)(0, (3,16), 4, 0)Ranged(32)(1, (2,19), 1, 0)
+KilledUnits :
+PassiveUnits :Heavy(31)(0, (3,16), 4, 0)Ranged(32)(1, (3,19), 1, 0)
+
+Combat :
+start time :626
+end time : 680
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(31)(0, (3,17), 4, 0)
+Involved_B :Ranged(32)(1, (2,19), 1, 0)
+Involved_ALL :Heavy(31)(0, (3,17), 4, 0)Ranged(32)(1, (2,19), 1, 0)
+Remained_A :Heavy(31)(0, (2,16), 4, 0)
+Remained_B :Ranged(32)(1, (2,13), 1, 0)
+Remained_ALL :Heavy(31)(0, (2,16), 4, 0)Ranged(32)(1, (2,13), 1, 0)
+KilledUnits :
+PassiveUnits :Ranged(32)(1, (2,19), 1, 0)
+
+Combat :
+start time :680
+end time : 690
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(31)(0, (2,16), 4, 0)Heavy(33)(0, (2,10), 4, 0)
+Involved_B :Ranged(32)(1, (2,13), 1, 0)
+Involved_ALL :Heavy(31)(0, (2,16), 4, 0)Heavy(33)(0, (2,10), 4, 0)Ranged(32)(1, (2,13), 1, 0)
+Remained_A :Heavy(31)(0, (2,16), 4, 0)Heavy(33)(0, (2,11), 4, 0)
+Remained_B :Ranged(32)(1, (2,12), 1, 0)
+Remained_ALL :Heavy(31)(0, (2,16), 4, 0)Ranged(32)(1, (2,12), 1, 0)Heavy(33)(0, (2,11), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(31)(0, (2,16), 4, 0)Heavy(33)(0, (2,10), 4, 0)Ranged(32)(1, (2,13), 1, 0)
+
+Combat :
+start time :690
+end time : 691
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(33)(0, (2,11), 4, 0)
+Involved_B :Ranged(32)(1, (2,12), 1, 0)
+Involved_ALL :Heavy(33)(0, (2,11), 4, 0)Ranged(32)(1, (2,12), 1, 0)
+Remained_A :Heavy(33)(0, (2,11), 4, 0)
+Remained_B :Ranged(32)(1, (2,12), 1, 0)
+Remained_ALL :Ranged(32)(1, (2,12), 1, 0)Heavy(33)(0, (2,11), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(33)(0, (2,11), 4, 0)Ranged(32)(1, (2,12), 1, 0)
+
+Combat :
+start time :691
+end time : 700
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(31)(0, (2,15), 4, 0)Heavy(33)(0, (2,11), 4, 0)
+Involved_B :Ranged(32)(1, (2,12), 1, 0)
+Involved_ALL :Heavy(31)(0, (2,15), 4, 0)Heavy(33)(0, (2,11), 4, 0)Ranged(32)(1, (2,12), 1, 0)
+Remained_A :Heavy(31)(0, (2,15), 4, 0)Heavy(33)(0, (1,11), 4, 0)
+Remained_B :Ranged(32)(1, (3,12), 1, 0)
+Remained_ALL :Heavy(31)(0, (2,15), 4, 0)Ranged(32)(1, (3,12), 1, 0)Heavy(33)(0, (1,11), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(31)(0, (2,15), 4, 0)Heavy(33)(0, (2,11), 4, 0)Ranged(32)(1, (2,12), 1, 0)
+
+Combat :
+start time :700
+end time : 703
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(33)(0, (1,11), 4, 0)
+Involved_B :Ranged(32)(1, (3,12), 1, 0)
+Involved_ALL :Heavy(33)(0, (1,11), 4, 0)Ranged(32)(1, (3,12), 1, 0)
+Remained_A :Heavy(33)(0, (1,11), 4, 0)
+Remained_B :Ranged(32)(1, (3,12), 1, 0)
+Remained_ALL :Ranged(32)(1, (3,12), 1, 0)Heavy(33)(0, (1,11), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(33)(0, (1,11), 4, 0)Ranged(32)(1, (3,12), 1, 0)
+
+Combat :
+start time :703
+end time : 715
+Combat Ended Because of :Destroyed
+Involved_A :Heavy(31)(0, (2,14), 4, 0)Heavy(33)(0, (1,11), 4, 0)
+Involved_B :Ranged(32)(1, (3,12), 1, 0)
+Involved_ALL :Heavy(31)(0, (2,14), 4, 0)Heavy(33)(0, (1,11), 4, 0)Ranged(32)(1, (3,12), 1, 0)
+Remained_A :Heavy(31)(0, (3,14), 4, 0)Heavy(33)(0, (1,12), 4, 0)
+Remained_B :
+Remained_ALL :Heavy(31)(0, (3,14), 4, 0)Heavy(33)(0, (1,12), 4, 0)
+KilledUnits :(Ranged(32)(1, (2,12), 1, 0), 715)
+PassiveUnits :Heavy(31)(0, (2,14), 4, 0)Ranged(32)(1, (3,12), 1, 0)
+
+Combat :
+start time :739
+end time : 750
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(31)(0, (3,16), 4, 0)
+Involved_B :Worker(28)(1, (4,18), 1, 0)Ranged(34)(1, (5,17), 1, 0)Light(36)(1, (7,18), 4, 0)Light(37)(1, (6,19), 4, 0)
+Involved_ALL :Heavy(31)(0, (3,16), 4, 0)Worker(28)(1, (4,18), 1, 0)Ranged(34)(1, (5,17), 1, 0)Light(36)(1, (7,18), 4, 0)Light(37)(1, (6,19), 4, 0)
+Remained_A :Heavy(31)(0, (3,16), 4, 0)
+Remained_B :Worker(28)(1, (4,16), 1, 0)Ranged(34)(1, (5,15), 1, 0)Light(36)(1, (6,17), 4, 0)Light(37)(1, (5,19), 4, 0)
+Remained_ALL :Worker(28)(1, (4,16), 1, 0)Heavy(31)(0, (3,16), 4, 0)Ranged(34)(1, (5,15), 1, 0)Light(36)(1, (6,17), 4, 0)Light(37)(1, (5,19), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(31)(0, (3,16), 4, 0)Worker(28)(1, (4,18), 1, 0)Ranged(34)(1, (5,17), 1, 0)Light(36)(1, (7,18), 4, 0)Light(37)(1, (6,19), 4, 0)
+
+Combat :
+start time :750
+end time : 751
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(31)(0, (3,16), 4, 0)
+Involved_B :Worker(28)(1, (4,16), 1, 0)Ranged(34)(1, (5,15), 1, 0)Light(36)(1, (6,17), 4, 0)
+Involved_ALL :Heavy(31)(0, (3,16), 4, 0)Worker(28)(1, (4,16), 1, 0)Ranged(34)(1, (5,15), 1, 0)Light(36)(1, (6,17), 4, 0)
+Remained_A :Heavy(31)(0, (3,17), 4, 0)
+Remained_B :Worker(28)(1, (4,16), 1, 0)Ranged(34)(1, (5,15), 1, 0)Light(36)(1, (6,17), 4, 0)
+Remained_ALL :Worker(28)(1, (4,16), 1, 0)Heavy(31)(0, (3,17), 4, 0)Ranged(34)(1, (5,15), 1, 0)Light(36)(1, (6,17), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(31)(0, (3,16), 4, 0)Worker(28)(1, (4,16), 1, 0)Ranged(34)(1, (5,15), 1, 0)Light(36)(1, (6,17), 4, 0)
+
+Combat :
+start time :792
+end time : 799
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(33)(0, (2,17), 4, 0)
+Involved_B :Light(37)(1, (1,17), 4, 0)
+Involved_ALL :Heavy(33)(0, (2,17), 4, 0)Light(37)(1, (1,17), 4, 0)
+Remained_A :Heavy(33)(0, (2,18), 4, 0)
+Remained_B :Light(37)(1, (1,17), 4, 0)
+Remained_ALL :Heavy(33)(0, (2,18), 4, 0)Light(37)(1, (1,17), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(33)(0, (2,17), 4, 0)Light(37)(1, (1,17), 4, 0)
+
+Combat :
+start time :800
+end time : 810
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(31)(0, (4,14), 4, 0)Heavy(38)(0, (2,10), 4, 0)
+Involved_B :Worker(28)(1, (3,12), 1, 0)Ranged(34)(1, (4,11), 1, 0)Light(36)(1, (6,11), 4, 0)
+Involved_ALL :Heavy(31)(0, (4,14), 4, 0)Heavy(38)(0, (2,10), 4, 0)Worker(28)(1, (3,12), 1, 0)Ranged(34)(1, (4,11), 1, 0)Light(36)(1, (6,11), 4, 0)
+Remained_A :Heavy(31)(0, (4,14), 4, 0)Heavy(38)(0, (2,11), 4, 0)
+Remained_B :Worker(28)(1, (3,11), 1, 0)Ranged(34)(1, (4,10), 1, 0)Light(36)(1, (6,10), 4, 0)
+Remained_ALL :Worker(28)(1, (3,11), 1, 0)Heavy(31)(0, (4,14), 4, 0)Ranged(34)(1, (4,10), 1, 0)Light(36)(1, (6,10), 4, 0)Heavy(38)(0, (2,11), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(31)(0, (4,14), 4, 0)Heavy(38)(0, (2,10), 4, 0)Worker(28)(1, (3,12), 1, 0)Ranged(34)(1, (4,11), 1, 0)Light(36)(1, (6,11), 4, 0)
+
+Combat :
+start time :810
+end time : 811
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(38)(0, (2,11), 4, 0)
+Involved_B :Worker(28)(1, (3,11), 1, 0)Ranged(34)(1, (4,10), 1, 0)Light(36)(1, (6,10), 4, 0)
+Involved_ALL :Heavy(38)(0, (2,11), 4, 0)Worker(28)(1, (3,11), 1, 0)Ranged(34)(1, (4,10), 1, 0)Light(36)(1, (6,10), 4, 0)
+Remained_A :Heavy(38)(0, (2,11), 4, 0)
+Remained_B :Worker(28)(1, (3,11), 1, 0)Ranged(34)(1, (4,10), 1, 0)Light(36)(1, (6,10), 4, 0)
+Remained_ALL :Worker(28)(1, (3,11), 1, 0)Ranged(34)(1, (4,10), 1, 0)Light(36)(1, (6,10), 4, 0)Heavy(38)(0, (2,11), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(38)(0, (2,11), 4, 0)Worker(28)(1, (3,11), 1, 0)Ranged(34)(1, (4,10), 1, 0)Light(36)(1, (6,10), 4, 0)
+
+Combat :
+start time :811
+end time : 818
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(31)(0, (4,13), 4, 0)Heavy(38)(0, (2,11), 4, 0)
+Involved_B :Worker(28)(1, (3,11), 1, 0)Ranged(34)(1, (4,10), 1, 0)Light(36)(1, (6,10), 4, 0)
+Involved_ALL :Heavy(31)(0, (4,13), 4, 0)Heavy(38)(0, (2,11), 4, 0)Worker(28)(1, (3,11), 1, 0)Ranged(34)(1, (4,10), 1, 0)Light(36)(1, (6,10), 4, 0)
+Remained_A :Heavy(31)(0, (4,13), 4, 0)Heavy(38)(0, (2,12), 4, 0)
+Remained_B :Worker(28)(1, (3,11), 1, 0)Ranged(34)(1, (4,10), 1, 0)Light(36)(1, (5,10), 4, 0)
+Remained_ALL :Worker(28)(1, (3,11), 1, 0)Heavy(31)(0, (4,13), 4, 0)Ranged(34)(1, (4,10), 1, 0)Light(36)(1, (5,10), 4, 0)Heavy(38)(0, (2,12), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(31)(0, (4,13), 4, 0)Heavy(38)(0, (2,11), 4, 0)Worker(28)(1, (3,11), 1, 0)Ranged(34)(1, (4,10), 1, 0)Light(36)(1, (6,10), 4, 0)
+
+Combat :
+start time :818
+end time : 820
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(31)(0, (4,13), 4, 0)
+Involved_B :Worker(28)(1, (3,11), 1, 0)Ranged(34)(1, (4,10), 1, 0)Light(36)(1, (5,10), 4, 0)
+Involved_ALL :Heavy(31)(0, (4,13), 4, 0)Worker(28)(1, (3,11), 1, 0)Ranged(34)(1, (4,10), 1, 0)Light(36)(1, (5,10), 4, 0)
+Remained_A :Heavy(31)(0, (4,13), 4, 0)
+Remained_B :Worker(28)(1, (3,10), 1, 0)Ranged(34)(1, (4,9), 1, 0)Light(36)(1, (5,9), 4, 0)
+Remained_ALL :Worker(28)(1, (3,10), 1, 0)Heavy(31)(0, (4,13), 4, 0)Ranged(34)(1, (4,9), 1, 0)Light(36)(1, (5,9), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(31)(0, (4,13), 4, 0)Worker(28)(1, (3,11), 1, 0)Ranged(34)(1, (4,10), 1, 0)Light(36)(1, (5,10), 4, 0)
+
+Combat :
+start time :830
+end time : 835
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(38)(0, (3,12), 4, 0)Heavy(31)(0, (3,13), 4, 0)
+Involved_B :Worker(28)(1, (2,10), 1, 0)Ranged(34)(1, (3,9), 1, 0)Light(36)(1, (5,8), 4, 0)
+Involved_ALL :Heavy(38)(0, (3,12), 4, 0)Heavy(31)(0, (3,13), 4, 0)Worker(28)(1, (2,10), 1, 0)Ranged(34)(1, (3,9), 1, 0)Light(36)(1, (5,8), 4, 0)
+Remained_A :Heavy(31)(0, (4,13), 4, 0)Heavy(38)(0, (3,12), 4, 0)
+Remained_B :Worker(28)(1, (2,10), 1, 0)Ranged(34)(1, (3,9), 1, 0)Light(36)(1, (5,8), 4, 0)
+Remained_ALL :Worker(28)(1, (2,10), 1, 0)Heavy(31)(0, (4,13), 4, 0)Ranged(34)(1, (3,9), 1, 0)Light(36)(1, (5,8), 4, 0)Heavy(38)(0, (3,12), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(38)(0, (3,12), 4, 0)Heavy(31)(0, (3,13), 4, 0)Worker(28)(1, (2,10), 1, 0)Ranged(34)(1, (3,9), 1, 0)Light(36)(1, (5,8), 4, 0)
+
+Combat :
+start time :835
+end time : 840
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(38)(0, (3,12), 4, 0)
+Involved_B :Worker(28)(1, (2,10), 1, 0)Ranged(34)(1, (3,9), 1, 0)Light(36)(1, (5,8), 4, 0)
+Involved_ALL :Heavy(38)(0, (3,12), 4, 0)Worker(28)(1, (2,10), 1, 0)Ranged(34)(1, (3,9), 1, 0)Light(36)(1, (5,8), 4, 0)
+Remained_A :Heavy(38)(0, (3,12), 4, 0)
+Remained_B :Worker(28)(1, (2,9), 1, 0)Ranged(34)(1, (3,8), 1, 0)Light(36)(1, (4,8), 4, 0)
+Remained_ALL :Worker(28)(1, (2,9), 1, 0)Ranged(34)(1, (3,8), 1, 0)Light(36)(1, (4,8), 4, 0)Heavy(38)(0, (3,12), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(38)(0, (3,12), 4, 0)Worker(28)(1, (2,10), 1, 0)Ranged(34)(1, (3,9), 1, 0)Light(36)(1, (5,8), 4, 0)
+
+Combat :
+start time :842
+end time : 859
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(41)(0, (3,5), 4, 0)
+Involved_B :Worker(28)(1, (2,9), 1, 0)Ranged(34)(1, (3,8), 1, 0)Light(36)(1, (4,8), 4, 0)
+Involved_ALL :Heavy(41)(0, (3,5), 4, 0)Worker(28)(1, (2,9), 1, 0)Ranged(34)(1, (3,8), 1, 0)Light(36)(1, (4,8), 4, 0)
+Remained_A :Heavy(41)(0, (3,6), 4, 0)
+Remained_B :Worker(28)(1, (2,8), 1, 0)Light(36)(1, (4,6), 4, 0)
+Remained_ALL :Worker(28)(1, (2,8), 1, 0)Light(36)(1, (4,6), 4, 0)Heavy(41)(0, (3,6), 4, 0)
+KilledUnits :(Ranged(34)(1, (3,7), 1, 0), 859)
+PassiveUnits :Worker(28)(1, (2,9), 1, 0)Ranged(34)(1, (3,8), 1, 0)Light(36)(1, (4,8), 4, 0)
+
+Combat :
+start time :859
+end time : 860
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(41)(0, (3,6), 4, 0)
+Involved_B :Light(36)(1, (4,6), 4, 0)
+Involved_ALL :Heavy(41)(0, (3,6), 4, 0)Light(36)(1, (4,6), 4, 0)
+Remained_A :Heavy(41)(0, (3,6), 4, 0)
+Remained_B :Light(36)(1, (4,5), 4, 0)
+Remained_ALL :Light(36)(1, (4,5), 4, 0)Heavy(41)(0, (3,6), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(41)(0, (3,6), 4, 0)Light(36)(1, (4,6), 4, 0)
+
+Combat :
+start time :868
+end time : 870
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(41)(0, (3,6), 4, 0)
+Involved_B :Light(36)(1, (3,5), 4, 0)
+Involved_ALL :Heavy(41)(0, (3,6), 4, 0)Light(36)(1, (3,5), 4, 0)
+Remained_A :Heavy(41)(0, (3,6), 4, 0)
+Remained_B :Light(36)(1, (3,5), 4, 0)
+Remained_ALL :Light(36)(1, (3,5), 4, 0)Heavy(41)(0, (3,6), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(41)(0, (3,6), 4, 0)Light(36)(1, (3,5), 4, 0)
+
+Combat :
+start time :870
+end time : 876
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(41)(0, (3,6), 4, 0)
+Involved_B :Worker(28)(1, (2,6), 1, 0)Light(36)(1, (3,5), 4, 0)
+Involved_ALL :Heavy(41)(0, (3,6), 4, 0)Worker(28)(1, (2,6), 1, 0)Light(36)(1, (3,5), 4, 0)
+Remained_A :Heavy(41)(0, (3,7), 4, 0)
+Remained_B :Worker(28)(1, (2,6), 1, 0)Light(36)(1, (2,5), 4, 0)
+Remained_ALL :Worker(28)(1, (2,6), 1, 0)Light(36)(1, (2,5), 4, 0)Heavy(41)(0, (3,7), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(41)(0, (3,6), 4, 0)Worker(28)(1, (2,6), 1, 0)Light(36)(1, (3,5), 4, 0)
+
+Combat :
+start time :884
+end time : 892
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(31)(0, (2,13), 4, 0)
+Involved_B :Light(39)(1, (3,13), 4, 0)
+Involved_ALL :Heavy(31)(0, (2,13), 4, 0)Light(39)(1, (3,13), 4, 0)
+Remained_A :Heavy(31)(0, (2,13), 4, 0)
+Remained_B :Light(39)(1, (3,12), 4, 0)
+Remained_ALL :Heavy(31)(0, (2,13), 4, 0)Light(39)(1, (3,12), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(31)(0, (2,13), 4, 0)Light(39)(1, (3,13), 4, 0)
+
+Combat :
+start time :892
+end time : 900
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,2), 1, 0)
+Involved_B :Light(36)(1, (2,3), 4, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,2), 1, 0)Light(36)(1, (2,3), 4, 0)
+Remained_A :Base(20)(0, (2,2), 8, 0)Worker(22)(0, (0,2), 1, 0)
+Remained_B :Light(36)(1, (2,3), 4, 0)
+Remained_ALL :Base(20)(0, (2,2), 8, 0)Worker(22)(0, (0,2), 1, 0)Light(36)(1, (2,3), 4, 0)
+KilledUnits :
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (1,2), 1, 0)
+
+Combat :
+start time :900
+end time : 902
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 8, 0)
+Involved_B :Light(36)(1, (2,3), 4, 0)
+Involved_ALL :Base(20)(0, (2,2), 8, 0)Light(36)(1, (2,3), 4, 0)
+Remained_A :Base(20)(0, (2,2), 6, 0)
+Remained_B :Light(36)(1, (2,3), 4, 0)
+Remained_ALL :Base(20)(0, (2,2), 6, 0)Light(36)(1, (2,3), 4, 0)
+KilledUnits :
+PassiveUnits :Base(20)(0, (2,2), 8, 0)
+
+Combat :
+start time :900
+end time : 902
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(41)(0, (1,7), 4, 0)
+Involved_B :Light(37)(1, (0,7), 4, 0)
+Involved_ALL :Heavy(41)(0, (1,7), 4, 0)Light(37)(1, (0,7), 4, 0)
+Remained_A :Heavy(41)(0, (1,7), 4, 0)
+Remained_B :Light(37)(1, (0,7), 4, 0)
+Remained_ALL :Light(37)(1, (0,7), 4, 0)Heavy(41)(0, (1,7), 4, 0)
+KilledUnits :
+PassiveUnits :Light(37)(1, (0,7), 4, 0)
+
+Combat :
+start time :902
+end time : 910
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 6, 0)Heavy(46)(0, (2,1), 4, 0)
+Involved_B :Light(36)(1, (2,3), 4, 0)
+Involved_ALL :Base(20)(0, (2,2), 6, 0)Heavy(46)(0, (2,1), 4, 0)Light(36)(1, (2,3), 4, 0)
+Remained_A :Base(20)(0, (2,2), 4, 0)Heavy(46)(0, (2,1), 4, 0)
+Remained_B :Light(36)(1, (2,3), 4, 0)
+Remained_ALL :Base(20)(0, (2,2), 4, 0)Light(36)(1, (2,3), 4, 0)Heavy(46)(0, (2,1), 4, 0)
+KilledUnits :
+PassiveUnits :Base(20)(0, (2,2), 6, 0)Heavy(46)(0, (2,1), 4, 0)
+
+Combat :
+start time :902
+end time : 904
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(41)(0, (1,7), 4, 0)Heavy(38)(0, (1,8), 4, 0)
+Involved_B :Light(37)(1, (0,7), 4, 0)
+Involved_ALL :Heavy(41)(0, (1,7), 4, 0)Heavy(38)(0, (1,8), 4, 0)Light(37)(1, (0,7), 4, 0)
+Remained_A :Heavy(38)(0, (1,8), 4, 0)Heavy(41)(0, (1,7), 4, 0)
+Remained_B :Light(37)(1, (0,6), 4, 0)
+Remained_ALL :Light(37)(1, (0,6), 4, 0)Heavy(38)(0, (1,8), 4, 0)Heavy(41)(0, (1,7), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(38)(0, (1,8), 4, 0)Light(37)(1, (0,7), 4, 0)
+
+Combat :
+start time :907
+end time : 908
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(33)(0, (2,13), 4, 0)
+Involved_B :Light(39)(1, (2,12), 4, 0)
+Involved_ALL :Heavy(33)(0, (2,13), 4, 0)Light(39)(1, (2,12), 4, 0)
+Remained_A :Heavy(33)(0, (2,13), 4, 0)
+Remained_B :Light(39)(1, (2,11), 4, 0)
+Remained_ALL :Heavy(33)(0, (2,13), 4, 0)Light(39)(1, (2,11), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(33)(0, (2,13), 4, 0)Light(39)(1, (2,12), 4, 0)
+
+Combat :
+start time :910
+end time : 914
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 4, 0)Heavy(46)(0, (2,1), 4, 0)
+Involved_B :Light(36)(1, (2,3), 4, 0)Worker(28)(1, (2,4), 1, 0)
+Involved_ALL :Base(20)(0, (2,2), 4, 0)Heavy(46)(0, (2,1), 4, 0)Light(36)(1, (2,3), 4, 0)Worker(28)(1, (2,4), 1, 0)
+Remained_A :Base(20)(0, (2,2), 2, 0)Heavy(46)(0, (3,1), 4, 0)
+Remained_B :Worker(28)(1, (2,4), 1, 0)Light(36)(1, (2,3), 4, 0)
+Remained_ALL :Base(20)(0, (2,2), 2, 0)Worker(28)(1, (2,4), 1, 0)Light(36)(1, (2,3), 4, 0)Heavy(46)(0, (3,1), 4, 0)
+KilledUnits :
+PassiveUnits :Base(20)(0, (2,2), 4, 0)Heavy(46)(0, (2,1), 4, 0)Worker(28)(1, (2,4), 1, 0)
+
+Combat :
+start time :912
+end time : 914
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(41)(0, (1,7), 4, 0)Heavy(38)(0, (1,8), 4, 0)
+Involved_B :Light(37)(1, (1,6), 4, 0)
+Involved_ALL :Heavy(41)(0, (1,7), 4, 0)Heavy(38)(0, (1,8), 4, 0)Light(37)(1, (1,6), 4, 0)
+Remained_A :Heavy(38)(0, (0,8), 4, 0)Heavy(41)(0, (1,7), 4, 0)
+Remained_B :Light(37)(1, (1,6), 4, 0)
+Remained_ALL :Light(37)(1, (1,6), 4, 0)Heavy(38)(0, (0,8), 4, 0)Heavy(41)(0, (1,7), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(41)(0, (1,7), 4, 0)Heavy(38)(0, (1,8), 4, 0)Light(37)(1, (1,6), 4, 0)
+
+Combat :
+start time :914
+end time : 917
+Combat Ended Because of :Destroyed
+Involved_A :Base(20)(0, (2,2), 2, 0)
+Involved_B :Light(36)(1, (2,3), 4, 0)Worker(28)(1, (2,4), 1, 0)
+Involved_ALL :Base(20)(0, (2,2), 2, 0)Light(36)(1, (2,3), 4, 0)Worker(28)(1, (2,4), 1, 0)
+Remained_A :
+Remained_B :Worker(28)(1, (2,4), 1, 0)Light(36)(1, (2,3), 4, 0)
+Remained_ALL :Worker(28)(1, (2,4), 1, 0)Light(36)(1, (2,3), 4, 0)
+KilledUnits :(Base(20)(0, (2,2), 2, 0), 917)
+PassiveUnits :Base(20)(0, (2,2), 2, 0)Worker(28)(1, (2,4), 1, 0)
+
+Combat :
+start time :914
+end time : 917
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(41)(0, (1,7), 4, 0)
+Involved_B :Light(37)(1, (1,6), 4, 0)
+Involved_ALL :Heavy(41)(0, (1,7), 4, 0)Light(37)(1, (1,6), 4, 0)
+Remained_A :Heavy(41)(0, (0,7), 4, 0)
+Remained_B :Light(37)(1, (1,6), 4, 0)
+Remained_ALL :Light(37)(1, (1,6), 4, 0)Heavy(41)(0, (0,7), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(41)(0, (1,7), 4, 0)Light(37)(1, (1,6), 4, 0)
+
+Combat :
+start time :930
+end time : 933
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(22)(0, (1,2), 1, 1)
+Involved_B :Light(36)(1, (1,3), 4, 0)
+Involved_ALL :Worker(22)(0, (1,2), 1, 1)Light(36)(1, (1,3), 4, 0)
+Remained_A :Worker(22)(0, (1,2), 1, 1)
+Remained_B :Light(36)(1, (0,3), 4, 0)
+Remained_ALL :Worker(22)(0, (1,2), 1, 1)Light(36)(1, (0,3), 4, 0)
+KilledUnits :
+PassiveUnits :Worker(22)(0, (1,2), 1, 1)Light(36)(1, (1,3), 4, 0)
+
+Combat :
+start time :936
+end time : 940
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(33)(0, (2,11), 4, 0)
+Involved_B :Light(39)(1, (2,10), 4, 0)
+Involved_ALL :Heavy(33)(0, (2,11), 4, 0)Light(39)(1, (2,10), 4, 0)
+Remained_A :Heavy(33)(0, (2,11), 4, 0)
+Remained_B :Light(39)(1, (1,10), 4, 0)
+Remained_ALL :Heavy(33)(0, (2,11), 4, 0)Light(39)(1, (1,10), 4, 0)
+KilledUnits :
+PassiveUnits :Light(39)(1, (2,10), 4, 0)
+
+Combat :
+start time :936
+end time : 938
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(38)(0, (1,8), 4, 0)Heavy(41)(0, (1,7), 4, 0)
+Involved_B :Light(40)(1, (2,8), 4, 0)
+Involved_ALL :Heavy(38)(0, (1,8), 4, 0)Heavy(41)(0, (1,7), 4, 0)Light(40)(1, (2,8), 4, 0)
+Remained_A :Heavy(38)(0, (1,9), 4, 0)Heavy(41)(0, (1,7), 4, 0)
+Remained_B :Light(40)(1, (2,8), 4, 0)
+Remained_ALL :Heavy(38)(0, (1,9), 4, 0)Light(40)(1, (2,8), 4, 0)Heavy(41)(0, (1,7), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(38)(0, (1,8), 4, 0)Heavy(41)(0, (1,7), 4, 0)
+
+Combat :
+start time :940
+end time : 949
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(38)(0, (1,9), 4, 0)
+Involved_B :Light(39)(1, (1,10), 4, 0)
+Involved_ALL :Heavy(38)(0, (1,9), 4, 0)Light(39)(1, (1,10), 4, 0)
+Remained_A :Heavy(38)(0, (1,9), 2, 0)
+Remained_B :Light(39)(1, (1,10), 4, 0)
+Remained_ALL :Heavy(38)(0, (1,9), 2, 0)Light(39)(1, (1,10), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(38)(0, (1,9), 4, 0)
+
+Combat :
+start time :941
+end time : 946
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(22)(0, (1,2), 1, 1)Heavy(46)(0, (2,2), 4, 0)
+Involved_B :Light(36)(1, (1,3), 4, 0)
+Involved_ALL :Worker(22)(0, (1,2), 1, 1)Heavy(46)(0, (2,2), 4, 0)Light(36)(1, (1,3), 4, 0)
+Remained_A :Heavy(46)(0, (2,2), 4, 0)
+Remained_B :Light(36)(1, (1,3), 4, 0)
+Remained_ALL :Light(36)(1, (1,3), 4, 0)Heavy(46)(0, (2,2), 4, 0)
+KilledUnits :(Worker(22)(0, (1,2), 1, 1), 946)
+PassiveUnits :Worker(22)(0, (1,2), 1, 1)Heavy(46)(0, (2,2), 4, 0)
+
+Combat :
+start time :941
+end time : 944
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(41)(0, (1,6), 4, 0)
+Involved_B :Light(37)(1, (0,6), 4, 0)
+Involved_ALL :Heavy(41)(0, (1,6), 4, 0)Light(37)(1, (0,6), 4, 0)
+Remained_A :Heavy(41)(0, (1,6), 4, 0)
+Remained_B :Light(37)(1, (0,7), 4, 0)
+Remained_ALL :Light(37)(1, (0,7), 4, 0)Heavy(41)(0, (1,6), 4, 0)
+KilledUnits :
+PassiveUnits :Light(37)(1, (0,6), 4, 0)
+
+Combat :
+start time :949
+end time : 950
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(38)(0, (1,9), 2, 0)
+Involved_B :Light(39)(1, (1,10), 4, 0)Light(40)(1, (1,8), 4, 0)
+Involved_ALL :Heavy(38)(0, (1,9), 2, 0)Light(39)(1, (1,10), 4, 0)Light(40)(1, (1,8), 4, 0)
+Remained_A :Heavy(38)(0, (2,9), 2, 0)
+Remained_B :Light(39)(1, (1,10), 4, 0)Light(40)(1, (1,8), 4, 0)
+Remained_ALL :Heavy(38)(0, (2,9), 2, 0)Light(39)(1, (1,10), 4, 0)Light(40)(1, (1,8), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(38)(0, (1,9), 2, 0)Light(40)(1, (1,8), 4, 0)
+
+Combat :
+start time :952
+end time : 958
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(41)(0, (1,6), 4, 0)
+Involved_B :Light(37)(1, (1,7), 4, 0)Light(40)(1, (1,8), 4, 0)
+Involved_ALL :Heavy(41)(0, (1,6), 4, 0)Light(37)(1, (1,7), 4, 0)Light(40)(1, (1,8), 4, 0)
+Remained_A :Heavy(41)(0, (0,6), 2, 0)
+Remained_B :Light(37)(1, (1,7), 4, 0)Light(40)(1, (1,8), 4, 0)
+Remained_ALL :Light(37)(1, (1,7), 4, 0)Light(40)(1, (1,8), 4, 0)Heavy(41)(0, (0,6), 2, 0)
+KilledUnits :
+PassiveUnits :Heavy(41)(0, (1,6), 4, 0)
+
+Combat :
+start time :953
+end time : 958
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(33)(0, (1,11), 4, 0)
+Involved_B :Light(39)(1, (1,10), 4, 0)
+Involved_ALL :Heavy(33)(0, (1,11), 4, 0)Light(39)(1, (1,10), 4, 0)
+Remained_A :Heavy(33)(0, (1,11), 4, 0)
+Remained_B :Light(39)(1, (2,10), 4, 0)
+Remained_ALL :Heavy(33)(0, (1,11), 4, 0)Light(39)(1, (2,10), 4, 0)
+KilledUnits :
+PassiveUnits :Light(39)(1, (1,10), 4, 0)
+
+Combat :
+start time :954
+end time : 960
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(46)(0, (2,2), 4, 0)
+Involved_B :Light(36)(1, (2,3), 4, 0)
+Involved_ALL :Heavy(46)(0, (2,2), 4, 0)Light(36)(1, (2,3), 4, 0)
+Remained_A :Heavy(46)(0, (1,2), 2, 0)
+Remained_B :Light(36)(1, (2,3), 4, 0)
+Remained_ALL :Light(36)(1, (2,3), 4, 0)Heavy(46)(0, (1,2), 2, 0)
+KilledUnits :
+PassiveUnits :Heavy(46)(0, (2,2), 4, 0)
+
+Combat :
+start time :958
+end time : 962
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(31)(0, (3,10), 4, 0)Heavy(38)(0, (2,9), 2, 0)
+Involved_B :Light(39)(1, (2,10), 4, 0)
+Involved_ALL :Heavy(31)(0, (3,10), 4, 0)Heavy(38)(0, (2,9), 2, 0)Light(39)(1, (2,10), 4, 0)
+Remained_A :Heavy(31)(0, (3,10), 4, 0)Heavy(38)(0, (1,9), 2, 0)
+Remained_B :Light(39)(1, (2,10), 4, 0)
+Remained_ALL :Heavy(31)(0, (3,10), 4, 0)Heavy(38)(0, (1,9), 2, 0)Light(39)(1, (2,10), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(31)(0, (3,10), 4, 0)Heavy(38)(0, (2,9), 2, 0)
+
+Combat :
+start time :960
+end time : 970
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(41)(0, (0,6), 2, 0)
+Involved_B :Worker(28)(1, (0,5), 1, 0)
+Involved_ALL :Heavy(41)(0, (0,6), 2, 0)Worker(28)(1, (0,5), 1, 0)
+Remained_A :Heavy(41)(0, (1,6), 1, 0)
+Remained_B :Worker(28)(1, (0,5), 1, 0)
+Remained_ALL :Worker(28)(1, (0,5), 1, 0)Heavy(41)(0, (1,6), 1, 0)
+KilledUnits :
+PassiveUnits :Heavy(41)(0, (0,6), 2, 0)
+
+Combat :
+start time :962
+end time : 967
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(31)(0, (3,10), 4, 0)
+Involved_B :Light(39)(1, (2,10), 4, 0)
+Involved_ALL :Heavy(31)(0, (3,10), 4, 0)Light(39)(1, (2,10), 4, 0)
+Remained_A :Heavy(31)(0, (3,11), 2, 0)
+Remained_B :Light(39)(1, (2,10), 4, 0)
+Remained_ALL :Heavy(31)(0, (3,11), 2, 0)Light(39)(1, (2,10), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(31)(0, (3,10), 4, 0)
+
+Combat :
+start time :970
+end time : 975
+Combat Ended Because of :Destroyed
+Involved_A :Heavy(33)(0, (2,11), 4, 0)Heavy(31)(0, (3,11), 2, 0)Heavy(38)(0, (1,9), 2, 0)
+Involved_B :Light(39)(1, (2,10), 4, 0)Light(40)(1, (2,9), 4, 0)
+Involved_ALL :Heavy(33)(0, (2,11), 4, 0)Heavy(31)(0, (3,11), 2, 0)Heavy(38)(0, (1,9), 2, 0)Light(39)(1, (2,10), 4, 0)Light(40)(1, (2,9), 4, 0)
+Remained_A :Heavy(31)(0, (3,11), 2, 0)Heavy(33)(0, (2,11), 4, 0)
+Remained_B :
+Remained_ALL :Heavy(31)(0, (3,11), 2, 0)Heavy(33)(0, (2,11), 4, 0)
+KilledUnits :(Light(40)(1, (2,9), 4, 0), 975)(Heavy(38)(0, (1,9), 2, 0), 975)(Light(39)(1, (2,10), 4, 0), 975)
+PassiveUnits :Heavy(31)(0, (3,11), 2, 0)Light(39)(1, (2,10), 4, 0)
+
+Combat :
+start time :970
+end time : 975
+Combat Ended Because of :Destroyed
+Involved_A :Heavy(41)(0, (1,6), 1, 0)
+Involved_B :Light(37)(1, (1,7), 4, 0)
+Involved_ALL :Heavy(41)(0, (1,6), 1, 0)Light(37)(1, (1,7), 4, 0)
+Remained_A :
+Remained_B :
+Remained_ALL :
+KilledUnits :(Light(37)(1, (1,7), 4, 0), 975)(Heavy(41)(0, (1,6), 1, 0), 975)
+PassiveUnits :
+
+Combat :
+start time :972
+end time : 977
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(31)(0, (3,11), 2, 0)Heavy(33)(0, (2,11), 4, 0)
+Involved_B :Light(39)(1, (2,10), 4, 0)Light(40)(1, (2,9), 4, 0)Light(42)(1, (3,12), 4, 0)
+Involved_ALL :Heavy(31)(0, (3,11), 2, 0)Heavy(33)(0, (2,11), 4, 0)Light(39)(1, (2,10), 4, 0)Light(40)(1, (2,9), 4, 0)Light(42)(1, (3,12), 4, 0)
+Remained_A :Heavy(33)(0, (2,11), 4, 0)
+Remained_B :Light(42)(1, (3,12), 4, 0)
+Remained_ALL :Heavy(33)(0, (2,11), 4, 0)Light(42)(1, (3,12), 4, 0)
+KilledUnits :(Light(40)(1, (2,9), 4, 0), 975)(Light(39)(1, (2,10), 4, 0), 975)(Heavy(31)(0, (3,11), 2, 0), 977)
+PassiveUnits :Heavy(31)(0, (3,11), 2, 0)Light(39)(1, (2,10), 4, 0)
+
+Combat :
+start time :980
+end time : 984
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(46)(0, (1,3), 2, 0)
+Involved_B :Light(36)(1, (1,2), 4, 0)
+Involved_ALL :Heavy(46)(0, (1,3), 2, 0)Light(36)(1, (1,2), 4, 0)
+Remained_A :Heavy(46)(0, (2,3), 2, 0)
+Remained_B :Light(36)(1, (1,2), 4, 0)
+Remained_ALL :Light(36)(1, (1,2), 4, 0)Heavy(46)(0, (2,3), 2, 0)
+KilledUnits :
+PassiveUnits :Heavy(46)(0, (1,3), 2, 0)
+
+Combat :
+start time :985
+end time : 987
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(33)(0, (2,11), 4, 0)
+Involved_B :Light(42)(1, (3,11), 4, 0)
+Involved_ALL :Heavy(33)(0, (2,11), 4, 0)Light(42)(1, (3,11), 4, 0)
+Remained_A :Heavy(33)(0, (2,12), 4, 0)
+Remained_B :Light(42)(1, (3,11), 4, 0)
+Remained_ALL :Heavy(33)(0, (2,12), 4, 0)Light(42)(1, (3,11), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(33)(0, (2,11), 4, 0)
+
+Combat :
+start time :992
+end time : 998
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(33)(0, (2,12), 4, 0)
+Involved_B :Light(43)(1, (1,12), 4, 0)
+Involved_ALL :Heavy(33)(0, (2,12), 4, 0)Light(43)(1, (1,12), 4, 0)
+Remained_A :Heavy(33)(0, (2,12), 2, 0)
+Remained_B :Light(43)(1, (1,12), 4, 0)
+Remained_ALL :Heavy(33)(0, (2,12), 2, 0)Light(43)(1, (1,12), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(33)(0, (2,12), 4, 0)
+
+Combat :
+start time :993
+end time : 996
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(46)(0, (2,3), 2, 0)
+Involved_B :Light(36)(1, (2,2), 4, 0)
+Involved_ALL :Heavy(46)(0, (2,3), 2, 0)Light(36)(1, (2,2), 4, 0)
+Remained_A :Heavy(46)(0, (1,3), 2, 0)
+Remained_B :Light(36)(1, (2,2), 4, 0)
+Remained_ALL :Light(36)(1, (2,2), 4, 0)Heavy(46)(0, (1,3), 2, 0)
+KilledUnits :
+PassiveUnits :Heavy(46)(0, (2,3), 2, 0)
+
+Combat :
+start time :998
+end time : 999
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(33)(0, (2,12), 2, 0)
+Involved_B :Light(42)(1, (2,11), 4, 0)Light(43)(1, (1,12), 4, 0)
+Involved_ALL :Heavy(33)(0, (2,12), 2, 0)Light(42)(1, (2,11), 4, 0)Light(43)(1, (1,12), 4, 0)
+Remained_A :Heavy(33)(0, (3,12), 2, 0)
+Remained_B :Light(42)(1, (2,11), 4, 0)Light(43)(1, (1,12), 4, 0)
+Remained_ALL :Heavy(33)(0, (3,12), 2, 0)Light(42)(1, (2,11), 4, 0)Light(43)(1, (1,12), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(33)(0, (2,12), 2, 0)Light(42)(1, (2,11), 4, 0)
+
+Combat :
+start time :1006
+end time : 1008
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(46)(0, (1,3), 2, 0)
+Involved_B :Light(36)(1, (1,2), 4, 0)
+Involved_ALL :Heavy(46)(0, (1,3), 2, 0)Light(36)(1, (1,2), 4, 0)
+Remained_A :Heavy(46)(0, (2,3), 2, 0)
+Remained_B :Light(36)(1, (1,2), 4, 0)
+Remained_ALL :Light(36)(1, (1,2), 4, 0)Heavy(46)(0, (2,3), 2, 0)
+KilledUnits :
+PassiveUnits :Heavy(46)(0, (1,3), 2, 0)
+
+Combat :
+start time :1010
+end time : 1015
+Combat Ended Because of :Destroyed
+Involved_A :Heavy(49)(0, (1,1), 4, 0)Barracks(29)(0, (1,0), 4, 0)
+Involved_B :Light(36)(1, (1,2), 4, 0)
+Involved_ALL :Heavy(49)(0, (1,1), 4, 0)Barracks(29)(0, (1,0), 4, 0)Light(36)(1, (1,2), 4, 0)
+Remained_A :Barracks(29)(0, (1,0), 4, 0)Heavy(49)(0, (1,1), 4, 0)
+Remained_B :
+Remained_ALL :Barracks(29)(0, (1,0), 4, 0)Heavy(49)(0, (1,1), 4, 0)
+KilledUnits :(Light(36)(1, (1,2), 4, 0), 1015)
+PassiveUnits :Barracks(29)(0, (1,0), 4, 0)
+
+Combat :
+start time :1018
+end time : 1019
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(33)(0, (2,12), 2, 0)
+Involved_B :Light(43)(1, (2,13), 4, 0)
+Involved_ALL :Heavy(33)(0, (2,12), 2, 0)Light(43)(1, (2,13), 4, 0)
+Remained_A :Heavy(33)(0, (2,12), 2, 0)
+Remained_B :Light(43)(1, (2,13), 4, 0)
+Remained_ALL :Heavy(33)(0, (2,12), 2, 0)Light(43)(1, (2,13), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(33)(0, (2,12), 2, 0)Light(43)(1, (2,13), 4, 0)
+
+Combat :
+start time :1019
+end time : 1023
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(33)(0, (2,12), 2, 0)
+Involved_B :Light(42)(1, (2,11), 4, 0)Light(43)(1, (2,13), 4, 0)
+Involved_ALL :Heavy(33)(0, (2,12), 2, 0)Light(42)(1, (2,11), 4, 0)Light(43)(1, (2,13), 4, 0)
+Remained_A :Heavy(33)(0, (3,12), 2, 0)
+Remained_B :Light(42)(1, (2,11), 4, 0)Light(43)(1, (2,13), 4, 0)
+Remained_ALL :Heavy(33)(0, (3,12), 2, 0)Light(42)(1, (2,11), 4, 0)Light(43)(1, (2,13), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(33)(0, (2,12), 2, 0)
+
+Combat :
+start time :1031
+end time : 1032
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(33)(0, (3,12), 2, 0)
+Involved_B :Light(43)(1, (3,13), 4, 0)
+Involved_ALL :Heavy(33)(0, (3,12), 2, 0)Light(43)(1, (3,13), 4, 0)
+Remained_A :Heavy(33)(0, (3,12), 2, 0)
+Remained_B :Light(43)(1, (3,13), 4, 0)
+Remained_ALL :Heavy(33)(0, (3,12), 2, 0)Light(43)(1, (3,13), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(33)(0, (3,12), 2, 0)Light(43)(1, (3,13), 4, 0)
+
+Combat :
+start time :1032
+end time : 1035
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(33)(0, (3,12), 2, 0)
+Involved_B :Light(42)(1, (3,11), 4, 0)Light(43)(1, (3,13), 4, 0)
+Involved_ALL :Heavy(33)(0, (3,12), 2, 0)Light(42)(1, (3,11), 4, 0)Light(43)(1, (3,13), 4, 0)
+Remained_A :Heavy(33)(0, (2,12), 2, 0)
+Remained_B :Light(42)(1, (3,11), 4, 0)Light(43)(1, (3,13), 4, 0)
+Remained_ALL :Heavy(33)(0, (2,12), 2, 0)Light(42)(1, (3,11), 4, 0)Light(43)(1, (3,13), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(33)(0, (3,12), 2, 0)
+
+Combat :
+start time :1040
+end time : 1044
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(46)(0, (1,4), 2, 0)
+Involved_B :Worker(28)(1, (1,5), 1, 0)
+Involved_ALL :Heavy(46)(0, (1,4), 2, 0)Worker(28)(1, (1,5), 1, 0)
+Remained_A :Heavy(46)(0, (0,4), 2, 0)
+Remained_B :Worker(28)(1, (1,5), 1, 0)
+Remained_ALL :Worker(28)(1, (1,5), 1, 0)Heavy(46)(0, (0,4), 2, 0)
+KilledUnits :
+PassiveUnits :Heavy(46)(0, (1,4), 2, 0)
+
+Combat :
+start time :1044
+end time : 1045
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(33)(0, (2,12), 2, 0)
+Involved_B :Light(43)(1, (2,13), 4, 0)Light(44)(1, (2,14), 4, 0)Light(45)(1, (3,14), 4, 0)
+Involved_ALL :Heavy(33)(0, (2,12), 2, 0)Light(43)(1, (2,13), 4, 0)Light(44)(1, (2,14), 4, 0)Light(45)(1, (3,14), 4, 0)
+Remained_A :Heavy(33)(0, (2,12), 2, 0)
+Remained_B :Light(43)(1, (2,13), 4, 0)Light(44)(1, (2,14), 4, 0)Light(45)(1, (3,14), 4, 0)
+Remained_ALL :Heavy(33)(0, (2,12), 2, 0)Light(43)(1, (2,13), 4, 0)Light(44)(1, (2,14), 4, 0)Light(45)(1, (3,14), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(33)(0, (2,12), 2, 0)Light(43)(1, (2,13), 4, 0)Light(44)(1, (2,14), 4, 0)Light(45)(1, (3,14), 4, 0)
+
+Combat :
+start time :1045
+end time : 1047
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(33)(0, (2,12), 2, 0)
+Involved_B :Light(43)(1, (2,13), 4, 0)Light(44)(1, (2,14), 4, 0)Light(42)(1, (2,11), 4, 0)Light(45)(1, (3,14), 4, 0)
+Involved_ALL :Heavy(33)(0, (2,12), 2, 0)Light(43)(1, (2,13), 4, 0)Light(44)(1, (2,14), 4, 0)Light(42)(1, (2,11), 4, 0)Light(45)(1, (3,14), 4, 0)
+Remained_A :Heavy(33)(0, (3,12), 2, 0)
+Remained_B :Light(42)(1, (2,11), 4, 0)Light(43)(1, (2,13), 4, 0)Light(44)(1, (2,14), 4, 0)Light(45)(1, (3,14), 4, 0)
+Remained_ALL :Heavy(33)(0, (3,12), 2, 0)Light(42)(1, (2,11), 4, 0)Light(43)(1, (2,13), 4, 0)Light(44)(1, (2,14), 4, 0)Light(45)(1, (3,14), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(33)(0, (2,12), 2, 0)Light(44)(1, (2,14), 4, 0)Light(45)(1, (3,14), 4, 0)
+
+Combat :
+start time :1055
+end time : 1056
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(46)(0, (0,4), 2, 0)
+Involved_B :Worker(28)(1, (1,4), 1, 0)
+Involved_ALL :Heavy(46)(0, (0,4), 2, 0)Worker(28)(1, (1,4), 1, 0)
+Remained_A :Heavy(46)(0, (0,5), 2, 0)
+Remained_B :Worker(28)(1, (1,4), 1, 0)
+Remained_ALL :Worker(28)(1, (1,4), 1, 0)Heavy(46)(0, (0,5), 2, 0)
+KilledUnits :
+PassiveUnits :Heavy(46)(0, (0,4), 2, 0)Worker(28)(1, (1,4), 1, 0)
+
+Combat :
+start time :1057
+end time : 1058
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(33)(0, (3,12), 2, 0)
+Involved_B :Light(43)(1, (3,13), 4, 0)Light(45)(1, (3,14), 4, 0)
+Involved_ALL :Heavy(33)(0, (3,12), 2, 0)Light(43)(1, (3,13), 4, 0)Light(45)(1, (3,14), 4, 0)
+Remained_A :Heavy(33)(0, (3,12), 2, 0)
+Remained_B :Light(43)(1, (3,13), 4, 0)Light(45)(1, (3,14), 4, 0)
+Remained_ALL :Heavy(33)(0, (3,12), 2, 0)Light(43)(1, (3,13), 4, 0)Light(45)(1, (3,14), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(33)(0, (3,12), 2, 0)Light(43)(1, (3,13), 4, 0)Light(45)(1, (3,14), 4, 0)
+
+Combat :
+start time :1058
+end time : 1059
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(33)(0, (3,12), 2, 0)
+Involved_B :Light(42)(1, (3,11), 4, 0)Light(43)(1, (3,13), 4, 0)Light(45)(1, (3,14), 4, 0)
+Involved_ALL :Heavy(33)(0, (3,12), 2, 0)Light(42)(1, (3,11), 4, 0)Light(43)(1, (3,13), 4, 0)Light(45)(1, (3,14), 4, 0)
+Remained_A :Heavy(33)(0, (2,12), 2, 0)
+Remained_B :Light(42)(1, (3,11), 4, 0)Light(43)(1, (3,13), 4, 0)Light(45)(1, (3,14), 4, 0)
+Remained_ALL :Heavy(33)(0, (2,12), 2, 0)Light(42)(1, (3,11), 4, 0)Light(43)(1, (3,13), 4, 0)Light(45)(1, (3,14), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(33)(0, (3,12), 2, 0)Light(42)(1, (3,11), 4, 0)Light(45)(1, (3,14), 4, 0)
+
+Combat :
+start time :1063
+end time : 1068
+Combat Ended Because of :Destroyed
+Involved_A :Heavy(49)(0, (2,4), 4, 0)
+Involved_B :Worker(28)(1, (1,4), 1, 0)
+Involved_ALL :Heavy(49)(0, (2,4), 4, 0)Worker(28)(1, (1,4), 1, 0)
+Remained_A :Heavy(49)(0, (2,4), 4, 0)
+Remained_B :
+Remained_ALL :Heavy(49)(0, (2,4), 4, 0)
+KilledUnits :(Worker(28)(1, (1,4), 1, 0), 1068)
+PassiveUnits :Worker(28)(1, (1,4), 1, 0)
+
+Combat :
+start time :1068
+end time : 1070
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(33)(0, (2,12), 2, 0)
+Involved_B :Light(44)(1, (2,13), 4, 0)Light(43)(1, (3,13), 4, 0)
+Involved_ALL :Heavy(33)(0, (2,12), 2, 0)Light(44)(1, (2,13), 4, 0)Light(43)(1, (3,13), 4, 0)
+Remained_A :Heavy(33)(0, (2,12), 2, 0)
+Remained_B :Light(43)(1, (4,13), 4, 0)Light(44)(1, (2,13), 4, 0)
+Remained_ALL :Heavy(33)(0, (2,12), 2, 0)Light(43)(1, (4,13), 4, 0)Light(44)(1, (2,13), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(33)(0, (2,12), 2, 0)Light(43)(1, (3,13), 4, 0)
+
+Combat :
+start time :1070
+end time : 1071
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(33)(0, (2,12), 2, 0)
+Involved_B :Light(44)(1, (2,13), 4, 0)
+Involved_ALL :Heavy(33)(0, (2,12), 2, 0)Light(44)(1, (2,13), 4, 0)
+Remained_A :Heavy(33)(0, (3,12), 2, 0)
+Remained_B :Light(44)(1, (2,13), 4, 0)
+Remained_ALL :Heavy(33)(0, (3,12), 2, 0)Light(44)(1, (2,13), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(33)(0, (2,12), 2, 0)
+
+Combat :
+start time :1078
+end time : 1080
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(33)(0, (3,12), 2, 0)
+Involved_B :Light(43)(1, (4,12), 4, 0)
+Involved_ALL :Heavy(33)(0, (3,12), 2, 0)Light(43)(1, (4,12), 4, 0)
+Remained_A :Heavy(33)(0, (3,12), 2, 0)
+Remained_B :Light(43)(1, (4,12), 4, 0)
+Remained_ALL :Heavy(33)(0, (3,12), 2, 0)Light(43)(1, (4,12), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(33)(0, (3,12), 2, 0)
+
+Combat :
+start time :1080
+end time : 1081
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(33)(0, (3,12), 2, 0)
+Involved_B :Light(43)(1, (4,12), 4, 0)Light(45)(1, (3,13), 4, 0)Light(44)(1, (2,13), 4, 0)
+Involved_ALL :Heavy(33)(0, (3,12), 2, 0)Light(43)(1, (4,12), 4, 0)Light(45)(1, (3,13), 4, 0)Light(44)(1, (2,13), 4, 0)
+Remained_A :Heavy(33)(0, (3,12), 2, 0)
+Remained_B :Light(43)(1, (4,12), 4, 0)Light(44)(1, (2,12), 4, 0)Light(45)(1, (3,13), 4, 0)
+Remained_ALL :Heavy(33)(0, (3,12), 2, 0)Light(43)(1, (4,12), 4, 0)Light(44)(1, (2,12), 4, 0)Light(45)(1, (3,13), 4, 0)
+KilledUnits :
+PassiveUnits :Light(45)(1, (3,13), 4, 0)Light(44)(1, (2,13), 4, 0)
+
+Combat :
+start time :1081
+end time : 1083
+Combat Ended Because of :Destroyed
+Involved_A :Heavy(33)(0, (3,12), 2, 0)
+Involved_B :Light(43)(1, (4,12), 4, 0)Light(44)(1, (2,12), 4, 0)Light(45)(1, (3,13), 4, 0)Light(42)(1, (2,11), 4, 0)
+Involved_ALL :Heavy(33)(0, (3,12), 2, 0)Light(43)(1, (4,12), 4, 0)Light(44)(1, (2,12), 4, 0)Light(45)(1, (3,13), 4, 0)Light(42)(1, (2,11), 4, 0)
+Remained_A :
+Remained_B :Light(42)(1, (2,11), 4, 0)Light(43)(1, (4,12), 4, 0)Light(44)(1, (2,12), 4, 0)Light(45)(1, (3,13), 4, 0)
+Remained_ALL :Light(42)(1, (2,11), 4, 0)Light(43)(1, (4,12), 4, 0)Light(44)(1, (2,12), 4, 0)Light(45)(1, (3,13), 4, 0)
+KilledUnits :(Heavy(33)(0, (3,12), 2, 0), 1083)
+PassiveUnits :Light(42)(1, (2,11), 4, 0)
+
+Combat :
+start time :1116
+end time : 1118
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(46)(0, (1,9), 2, 0)
+Involved_B :Light(42)(1, (2,9), 4, 0)Light(43)(1, (3,9), 4, 0)Light(44)(1, (1,10), 4, 0)
+Involved_ALL :Heavy(46)(0, (1,9), 2, 0)Light(42)(1, (2,9), 4, 0)Light(43)(1, (3,9), 4, 0)Light(44)(1, (1,10), 4, 0)
+Remained_A :Heavy(46)(0, (1,9), 2, 0)
+Remained_B :Light(42)(1, (2,9), 4, 0)Light(43)(1, (3,9), 4, 0)Light(44)(1, (0,10), 4, 0)
+Remained_ALL :Light(42)(1, (2,9), 4, 0)Light(43)(1, (3,9), 4, 0)Light(44)(1, (0,10), 4, 0)Heavy(46)(0, (1,9), 2, 0)
+KilledUnits :
+PassiveUnits :Light(42)(1, (2,9), 4, 0)Light(43)(1, (3,9), 4, 0)Light(44)(1, (1,10), 4, 0)
+
+Combat :
+start time :1118
+end time : 1119
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(46)(0, (1,9), 2, 0)
+Involved_B :Light(42)(1, (2,9), 4, 0)Light(43)(1, (3,9), 4, 0)
+Involved_ALL :Heavy(46)(0, (1,9), 2, 0)Light(42)(1, (2,9), 4, 0)Light(43)(1, (3,9), 4, 0)
+Remained_A :Heavy(46)(0, (1,9), 2, 0)
+Remained_B :Light(42)(1, (2,8), 4, 0)Light(43)(1, (3,9), 4, 0)
+Remained_ALL :Light(42)(1, (2,8), 4, 0)Light(43)(1, (3,9), 4, 0)Heavy(46)(0, (1,9), 2, 0)
+KilledUnits :
+PassiveUnits :Light(42)(1, (2,9), 4, 0)Light(43)(1, (3,9), 4, 0)
+
+Combat :
+start time :1126
+end time : 1127
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(46)(0, (1,9), 2, 0)
+Involved_B :Light(44)(1, (1,10), 4, 0)
+Involved_ALL :Heavy(46)(0, (1,9), 2, 0)Light(44)(1, (1,10), 4, 0)
+Remained_A :Heavy(46)(0, (1,9), 2, 0)
+Remained_B :Light(44)(1, (1,10), 4, 0)
+Remained_ALL :Light(44)(1, (1,10), 4, 0)Heavy(46)(0, (1,9), 2, 0)
+KilledUnits :
+PassiveUnits :Heavy(46)(0, (1,9), 2, 0)Light(44)(1, (1,10), 4, 0)
+
+Combat :
+start time :1127
+end time : 1128
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(46)(0, (1,9), 2, 0)Heavy(49)(0, (1,7), 4, 0)
+Involved_B :Light(42)(1, (1,8), 4, 0)Light(44)(1, (1,10), 4, 0)
+Involved_ALL :Heavy(46)(0, (1,9), 2, 0)Heavy(49)(0, (1,7), 4, 0)Light(42)(1, (1,8), 4, 0)Light(44)(1, (1,10), 4, 0)
+Remained_A :Heavy(46)(0, (1,9), 2, 0)Heavy(49)(0, (2,7), 4, 0)
+Remained_B :Light(42)(1, (1,8), 4, 0)Light(44)(1, (1,10), 4, 0)
+Remained_ALL :Light(42)(1, (1,8), 4, 0)Light(44)(1, (1,10), 4, 0)Heavy(46)(0, (1,9), 2, 0)Heavy(49)(0, (2,7), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(46)(0, (1,9), 2, 0)Heavy(49)(0, (1,7), 4, 0)Light(42)(1, (1,8), 4, 0)
+
+Combat :
+start time :1128
+end time : 1131
+Combat Ended Because of :Destroyed
+Involved_A :Heavy(46)(0, (1,9), 2, 0)
+Involved_B :Light(42)(1, (1,8), 4, 0)Light(44)(1, (1,10), 4, 0)
+Involved_ALL :Heavy(46)(0, (1,9), 2, 0)Light(42)(1, (1,8), 4, 0)Light(44)(1, (1,10), 4, 0)
+Remained_A :
+Remained_B :Light(42)(1, (1,8), 4, 0)Light(44)(1, (1,10), 4, 0)
+Remained_ALL :Light(42)(1, (1,8), 4, 0)Light(44)(1, (1,10), 4, 0)
+KilledUnits :(Heavy(46)(0, (1,9), 2, 0), 1131)
+PassiveUnits :Heavy(46)(0, (1,9), 2, 0)
+
+Combat :
+start time :1131
+end time : 1140
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(49)(0, (2,7), 4, 0)
+Involved_B :Light(43)(1, (3,7), 4, 0)
+Involved_ALL :Heavy(49)(0, (2,7), 4, 0)Light(43)(1, (3,7), 4, 0)
+Remained_A :Heavy(49)(0, (1,7), 2, 0)
+Remained_B :Light(43)(1, (3,7), 4, 0)
+Remained_ALL :Light(43)(1, (3,7), 4, 0)Heavy(49)(0, (1,7), 2, 0)
+KilledUnits :
+PassiveUnits :Heavy(49)(0, (2,7), 4, 0)
+
+Combat :
+start time :1149
+end time : 1154
+Combat Ended Because of :Destroyed
+Involved_A :Heavy(49)(0, (1,7), 2, 0)
+Involved_B :Light(42)(1, (2,8), 4, 0)Light(43)(1, (2,7), 4, 0)Light(44)(1, (2,9), 4, 0)
+Involved_ALL :Heavy(49)(0, (1,7), 2, 0)Light(42)(1, (2,8), 4, 0)Light(43)(1, (2,7), 4, 0)Light(44)(1, (2,9), 4, 0)
+Remained_A :
+Remained_B :Light(42)(1, (2,8), 4, 0)Light(43)(1, (2,7), 4, 0)Light(44)(1, (2,9), 4, 0)
+Remained_ALL :Light(42)(1, (2,8), 4, 0)Light(43)(1, (2,7), 4, 0)Light(44)(1, (2,9), 4, 0)
+KilledUnits :(Heavy(49)(0, (1,7), 2, 0), 1154)
+PassiveUnits :Heavy(49)(0, (1,7), 2, 0)Light(42)(1, (2,8), 4, 0)Light(44)(1, (2,9), 4, 0)
+
+Combat :
+start time :1186
+end time : 1188
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(52)(0, (2,4), 4, 0)
+Involved_B :Light(43)(1, (2,5), 4, 0)
+Involved_ALL :Heavy(52)(0, (2,4), 4, 0)Light(43)(1, (2,5), 4, 0)
+Remained_A :Heavy(52)(0, (2,4), 4, 0)
+Remained_B :Light(43)(1, (2,5), 4, 0)
+Remained_ALL :Light(43)(1, (2,5), 4, 0)Heavy(52)(0, (2,4), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(52)(0, (2,4), 4, 0)
+
+Combat :
+start time :1188
+end time : 1190
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(52)(0, (2,4), 4, 0)
+Involved_B :Light(42)(1, (3,5), 4, 0)Light(43)(1, (2,5), 4, 0)
+Involved_ALL :Heavy(52)(0, (2,4), 4, 0)Light(42)(1, (3,5), 4, 0)Light(43)(1, (2,5), 4, 0)
+Remained_A :Heavy(52)(0, (1,4), 4, 0)
+Remained_B :Light(42)(1, (3,5), 4, 0)Light(43)(1, (2,5), 4, 0)
+Remained_ALL :Light(42)(1, (3,5), 4, 0)Light(43)(1, (2,5), 4, 0)Heavy(52)(0, (1,4), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(52)(0, (2,4), 4, 0)Light(42)(1, (3,5), 4, 0)
+
+Combat :
+start time :1199
+end time : 1202
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(52)(0, (1,4), 4, 0)
+Involved_B :Light(42)(1, (3,4), 4, 0)Light(43)(1, (2,4), 4, 0)
+Involved_ALL :Heavy(52)(0, (1,4), 4, 0)Light(42)(1, (3,4), 4, 0)Light(43)(1, (2,4), 4, 0)
+Remained_A :Heavy(52)(0, (1,5), 4, 0)
+Remained_B :Light(42)(1, (3,4), 4, 0)Light(43)(1, (2,4), 4, 0)
+Remained_ALL :Light(42)(1, (3,4), 4, 0)Light(43)(1, (2,4), 4, 0)Heavy(52)(0, (1,5), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(52)(0, (1,4), 4, 0)Light(42)(1, (3,4), 4, 0)
+
+Combat :
+start time :1202
+end time : 1203
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(52)(0, (1,5), 4, 0)
+Involved_B :Light(44)(1, (0,5), 4, 0)
+Involved_ALL :Heavy(52)(0, (1,5), 4, 0)Light(44)(1, (0,5), 4, 0)
+Remained_A :Heavy(52)(0, (1,5), 4, 0)
+Remained_B :Light(44)(1, (0,4), 4, 0)
+Remained_ALL :Light(44)(1, (0,4), 4, 0)Heavy(52)(0, (1,5), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(52)(0, (1,5), 4, 0)Light(44)(1, (0,5), 4, 0)
+
+Combat :
+start time :1211
+end time : 1212
+Combat Ended Because of :Reinforcement
+Involved_A :Heavy(52)(0, (1,5), 4, 0)
+Involved_B :Light(44)(1, (0,5), 4, 0)
+Involved_ALL :Heavy(52)(0, (1,5), 4, 0)Light(44)(1, (0,5), 4, 0)
+Remained_A :Heavy(52)(0, (1,5), 4, 0)
+Remained_B :Light(44)(1, (0,5), 4, 0)
+Remained_ALL :Light(44)(1, (0,5), 4, 0)Heavy(52)(0, (1,5), 4, 0)
+KilledUnits :
+PassiveUnits :Heavy(52)(0, (1,5), 4, 0)Light(44)(1, (0,5), 4, 0)
+
+Combat :
+start time :1212
+end time : 1217
+Combat Ended Because of :Destroyed
+Involved_A :Heavy(52)(0, (1,5), 4, 0)
+Involved_B :Light(43)(1, (1,4), 4, 0)Light(44)(1, (0,5), 4, 0)
+Involved_ALL :Heavy(52)(0, (1,5), 4, 0)Light(43)(1, (1,4), 4, 0)Light(44)(1, (0,5), 4, 0)
+Remained_A :
+Remained_B :Light(43)(1, (1,4), 4, 0)Light(44)(1, (0,5), 4, 0)
+Remained_ALL :Light(43)(1, (1,4), 4, 0)Light(44)(1, (0,5), 4, 0)
+KilledUnits :(Heavy(52)(0, (1,5), 2, 0), 1217)
+PassiveUnits :Heavy(52)(0, (1,5), 4, 0)
+
+Combat :
+start time :1241
+end time : 1251
+Combat Ended Because of :Destroyed
+Involved_A :Barracks(29)(0, (1,0), 4, 0)
+Involved_B :Light(43)(1, (1,1), 4, 0)
+Involved_ALL :Barracks(29)(0, (1,0), 4, 0)Light(43)(1, (1,1), 4, 0)
+Remained_A :
+Remained_B :Light(43)(1, (1,1), 4, 0)
+Remained_ALL :Light(43)(1, (1,1), 4, 0)
+KilledUnits :(Barracks(29)(0, (1,0), 2, 0), 1251)
+PassiveUnits :Barracks(29)(0, (1,0), 4, 0)
+
+
+Total records: 84

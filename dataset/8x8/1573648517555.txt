@@ -1,0 +1,496 @@
+Combat :
+start time :500
+end time : 505
+Combat Ended Because of :Destroyed
+Involved_A :Ranged(84842)(0, (4,11), 1, 0)
+Involved_B :Worker(66539)(1, (4,14), 1, 0)
+Involved_ALL :Ranged(84842)(0, (4,11), 1, 0)Worker(66539)(1, (4,14), 1, 0)
+Remained_A :Ranged(84842)(0, (4,11), 1, 0)
+Remained_B :
+Remained_ALL :Ranged(84842)(0, (4,11), 1, 0)
+KilledUnits :(Worker(66539)(1, (4,14), 1, 0), 505)
+PassiveUnits :Worker(66539)(1, (4,14), 1, 0)
+
+Combat :
+start time :520
+end time : 535
+Combat Ended Because of :Destroyed
+Involved_A :Ranged(84842)(0, (4,12), 1, 0)
+Involved_B :Worker(75263)(1, (5,14), 1, 0)
+Involved_ALL :Ranged(84842)(0, (4,12), 1, 0)Worker(75263)(1, (5,14), 1, 0)
+Remained_A :
+Remained_B :Worker(75263)(1, (5,13), 1, 0)
+Remained_ALL :Worker(75263)(1, (5,13), 1, 0)
+KilledUnits :(Ranged(84842)(0, (4,13), 1, 0), 535)
+PassiveUnits :Ranged(84842)(0, (4,12), 1, 0)
+
+Combat :
+start time :570
+end time : 580
+Combat Ended Because of :Destroyed
+Involved_A :Ranged(90722)(0, (3,9), 1, 0)
+Involved_B :Worker(75263)(1, (5,10), 1, 0)
+Involved_ALL :Ranged(90722)(0, (3,9), 1, 0)Worker(75263)(1, (5,10), 1, 0)
+Remained_A :Ranged(90722)(0, (3,9), 1, 0)
+Remained_B :
+Remained_ALL :Ranged(90722)(0, (3,9), 1, 0)
+KilledUnits :(Worker(75263)(1, (4,10), 1, 0), 580)
+PassiveUnits :Worker(75263)(1, (5,10), 1, 0)
+
+Combat :
+start time :610
+end time : 615
+Combat Ended Because of :Destroyed
+Involved_A :Ranged(90722)(0, (3,12), 1, 0)
+Involved_B :Worker(79113)(1, (3,14), 1, 0)
+Involved_ALL :Ranged(90722)(0, (3,12), 1, 0)Worker(79113)(1, (3,14), 1, 0)
+Remained_A :Ranged(90722)(0, (3,12), 1, 0)
+Remained_B :
+Remained_ALL :Ranged(90722)(0, (3,12), 1, 0)
+KilledUnits :(Worker(79113)(1, (3,14), 1, 0), 615)
+PassiveUnits :Worker(79113)(1, (3,14), 1, 0)
+
+Combat :
+start time :620
+end time : 625
+Combat Ended Because of :Reinforcement
+Involved_A :Ranged(90722)(0, (3,12), 1, 0)
+Involved_B :Ranged(82155)(1, (3,15), 1, 0)Worker(83526)(1, (4,15), 1, 0)
+Involved_ALL :Ranged(90722)(0, (3,12), 1, 0)Ranged(82155)(1, (3,15), 1, 0)Worker(83526)(1, (4,15), 1, 0)
+Remained_A :Ranged(90722)(0, (2,12), 1, 0)
+Remained_B :Ranged(82155)(1, (3,15), 1, 0)Worker(83526)(1, (4,15), 1, 0)
+Remained_ALL :Ranged(82155)(1, (3,15), 1, 0)Worker(83526)(1, (4,15), 1, 0)Ranged(90722)(0, (2,12), 1, 0)
+KilledUnits :
+PassiveUnits :Ranged(90722)(0, (3,12), 1, 0)Worker(83526)(1, (4,15), 1, 0)
+
+Combat :
+start time :635
+end time : 640
+Combat Ended Because of :Destroyed
+Involved_A :Ranged(90722)(0, (2,13), 1, 0)
+Involved_B :Ranged(82155)(1, (2,15), 1, 0)Worker(83526)(1, (4,14), 1, 0)
+Involved_ALL :Ranged(90722)(0, (2,13), 1, 0)Ranged(82155)(1, (2,15), 1, 0)Worker(83526)(1, (4,14), 1, 0)
+Remained_A :
+Remained_B :Worker(83526)(1, (3,14), 1, 0)
+Remained_ALL :Worker(83526)(1, (3,14), 1, 0)
+KilledUnits :(Ranged(82155)(1, (2,15), 1, 0), 640)(Ranged(90722)(0, (2,13), 1, 0), 640)
+PassiveUnits :Worker(83526)(1, (4,14), 1, 0)
+
+Combat :
+start time :690
+end time : 695
+Combat Ended Because of :Destroyed
+Involved_A :Ranged(100067)(0, (3,9), 1, 0)
+Involved_B :Worker(83526)(1, (3,11), 1, 0)
+Involved_ALL :Ranged(100067)(0, (3,9), 1, 0)Worker(83526)(1, (3,11), 1, 0)
+Remained_A :Ranged(100067)(0, (3,9), 1, 0)
+Remained_B :
+Remained_ALL :Ranged(100067)(0, (3,9), 1, 0)
+KilledUnits :(Worker(83526)(1, (3,11), 1, 0), 695)
+PassiveUnits :Worker(83526)(1, (3,11), 1, 0)
+
+Combat :
+start time :745
+end time : 755
+Combat Ended Because of :Destroyed
+Involved_A :Ranged(100067)(0, (3,14), 1, 0)
+Involved_B :Worker(90098)(1, (5,15), 1, 0)Ranged(93171)(1, (6,15), 1, 0)
+Involved_ALL :Ranged(100067)(0, (3,14), 1, 0)Worker(90098)(1, (5,15), 1, 0)Ranged(93171)(1, (6,15), 1, 0)
+Remained_A :
+Remained_B :Worker(90098)(1, (4,15), 1, 0)Ranged(93171)(1, (6,14), 1, 0)
+Remained_ALL :Worker(90098)(1, (4,15), 1, 0)Ranged(93171)(1, (6,14), 1, 0)
+KilledUnits :(Ranged(100067)(0, (3,14), 1, 0), 755)
+PassiveUnits :Worker(90098)(1, (5,15), 1, 0)
+
+Combat :
+start time :805
+end time : 810
+Combat Ended Because of :Reinforcement
+Involved_A :Ranged(116777)(0, (3,9), 1, 0)
+Involved_B :Worker(90098)(1, (2,14), 1, 0)Ranged(93171)(1, (3,12), 1, 0)
+Involved_ALL :Ranged(116777)(0, (3,9), 1, 0)Worker(90098)(1, (2,14), 1, 0)Ranged(93171)(1, (3,12), 1, 0)
+Remained_A :Ranged(116777)(0, (3,10), 1, 0)
+Remained_B :Worker(90098)(1, (2,13), 1, 0)Ranged(93171)(1, (3,12), 1, 0)
+Remained_ALL :Worker(90098)(1, (2,13), 1, 0)Ranged(93171)(1, (3,12), 1, 0)Ranged(116777)(0, (3,10), 1, 0)
+KilledUnits :
+PassiveUnits :Ranged(116777)(0, (3,9), 1, 0)Worker(90098)(1, (2,14), 1, 0)
+
+Combat :
+start time :810
+end time : 815
+Combat Ended Because of :Destroyed
+Involved_A :Ranged(116777)(0, (3,10), 1, 0)
+Involved_B :Worker(90098)(1, (2,13), 1, 0)Ranged(93171)(1, (3,12), 1, 0)Worker(93762)(1, (4,14), 1, 0)
+Involved_ALL :Ranged(116777)(0, (3,10), 1, 0)Worker(90098)(1, (2,13), 1, 0)Ranged(93171)(1, (3,12), 1, 0)Worker(93762)(1, (4,14), 1, 0)
+Remained_A :
+Remained_B :Worker(90098)(1, (2,13), 1, 0)Worker(93762)(1, (4,14), 1, 0)
+Remained_ALL :Worker(90098)(1, (2,13), 1, 0)Worker(93762)(1, (4,14), 1, 0)
+KilledUnits :(Ranged(116777)(0, (3,10), 1, 0), 815)(Ranged(93171)(1, (3,12), 1, 0), 815)
+PassiveUnits :Worker(90098)(1, (2,13), 1, 0)Worker(93762)(1, (4,14), 1, 0)
+
+Combat :
+start time :890
+end time : 900
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (3,1), 1, 0)Barracks(77110)(0, (3,3), 4, 0)Ranged(125236)(0, (3,4), 1, 0)
+Involved_B :Worker(90098)(1, (2,5), 1, 0)Worker(93762)(1, (4,6), 1, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (3,1), 1, 0)Barracks(77110)(0, (3,3), 4, 0)Ranged(125236)(0, (3,4), 1, 0)Worker(90098)(1, (2,5), 1, 0)Worker(93762)(1, (4,6), 1, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (3,1), 1, 0)Barracks(77110)(0, (3,3), 4, 0)Ranged(125236)(0, (3,4), 1, 0)
+Remained_B :Worker(93762)(1, (4,5), 1, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (3,1), 1, 0)Barracks(77110)(0, (3,3), 4, 0)Worker(93762)(1, (4,5), 1, 0)Ranged(125236)(0, (3,4), 1, 0)
+KilledUnits :(Worker(90098)(1, (2,5), 1, 0), 895)
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (3,1), 1, 0)Barracks(77110)(0, (3,3), 4, 0)Worker(90098)(1, (2,5), 1, 0)Worker(93762)(1, (4,6), 1, 0)
+
+Combat :
+start time :900
+end time : 905
+Combat Ended Because of :Destroyed
+Involved_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (3,1), 1, 0)Barracks(77110)(0, (3,3), 4, 0)Ranged(125236)(0, (3,4), 1, 0)Worker(22377)(0, (1,2), 1, 1)
+Involved_B :Worker(93762)(1, (4,5), 1, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (3,1), 1, 0)Barracks(77110)(0, (3,3), 4, 0)Ranged(125236)(0, (3,4), 1, 0)Worker(22377)(0, (1,2), 1, 1)Worker(93762)(1, (4,5), 1, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (3,1), 1, 0)Worker(22377)(0, (1,2), 1, 1)Barracks(77110)(0, (3,3), 4, 0)Ranged(125236)(0, (3,4), 1, 0)
+Remained_B :
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (3,1), 1, 0)Worker(22377)(0, (1,2), 1, 1)Barracks(77110)(0, (3,3), 4, 0)Ranged(125236)(0, (3,4), 1, 0)
+KilledUnits :(Worker(93762)(1, (4,5), 1, 0), 905)
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Worker(22)(0, (3,1), 1, 0)Barracks(77110)(0, (3,3), 4, 0)Worker(22377)(0, (1,2), 1, 1)Worker(93762)(1, (4,5), 1, 0)
+
+Combat :
+start time :930
+end time : 935
+Combat Ended Because of :Reinforcement
+Involved_A :Barracks(77110)(0, (3,3), 4, 0)Ranged(125236)(0, (3,6), 1, 0)Worker(22)(0, (3,2), 1, 0)
+Involved_B :Ranged(105455)(1, (3,9), 1, 0)Worker(105456)(1, (5,8), 1, 0)
+Involved_ALL :Barracks(77110)(0, (3,3), 4, 0)Ranged(125236)(0, (3,6), 1, 0)Worker(22)(0, (3,2), 1, 0)Ranged(105455)(1, (3,9), 1, 0)Worker(105456)(1, (5,8), 1, 0)
+Remained_A :Worker(22)(0, (3,2), 1, 0)Barracks(77110)(0, (3,3), 4, 0)Ranged(125236)(0, (3,7), 1, 0)
+Remained_B :Ranged(105455)(1, (3,9), 1, 0)Worker(105456)(1, (5,8), 1, 0)
+Remained_ALL :Worker(22)(0, (3,2), 1, 0)Barracks(77110)(0, (3,3), 4, 0)Ranged(105455)(1, (3,9), 1, 0)Worker(105456)(1, (5,8), 1, 0)Ranged(125236)(0, (3,7), 1, 0)
+KilledUnits :
+PassiveUnits :Barracks(77110)(0, (3,3), 4, 0)Ranged(125236)(0, (3,6), 1, 0)Worker(22)(0, (3,2), 1, 0)Worker(105456)(1, (5,8), 1, 0)
+
+Combat :
+start time :935
+end time : 940
+Combat Ended Because of :Destroyed
+Involved_A :Ranged(125236)(0, (3,7), 1, 0)
+Involved_B :Ranged(105455)(1, (3,9), 1, 0)Worker(105456)(1, (5,8), 1, 0)
+Involved_ALL :Ranged(125236)(0, (3,7), 1, 0)Ranged(105455)(1, (3,9), 1, 0)Worker(105456)(1, (5,8), 1, 0)
+Remained_A :
+Remained_B :Worker(105456)(1, (4,8), 1, 0)
+Remained_ALL :Worker(105456)(1, (4,8), 1, 0)
+KilledUnits :(Ranged(125236)(0, (3,7), 1, 0), 940)(Ranged(105455)(1, (3,9), 1, 0), 940)
+PassiveUnits :Worker(105456)(1, (5,8), 1, 0)
+
+Combat :
+start time :980
+end time : 985
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(22)(0, (4,3), 1, 0)Barracks(77110)(0, (3,3), 4, 0)
+Involved_B :Worker(105456)(1, (4,4), 1, 0)
+Involved_ALL :Worker(22)(0, (4,3), 1, 0)Barracks(77110)(0, (3,3), 4, 0)Worker(105456)(1, (4,4), 1, 0)
+Remained_A :Barracks(77110)(0, (3,3), 4, 0)
+Remained_B :Worker(105456)(1, (4,4), 1, 0)
+Remained_ALL :Barracks(77110)(0, (3,3), 4, 0)Worker(105456)(1, (4,4), 1, 0)
+KilledUnits :(Worker(22)(0, (4,3), 1, 0), 985)
+PassiveUnits :Worker(22)(0, (4,3), 1, 0)Barracks(77110)(0, (3,3), 4, 0)
+
+Combat :
+start time :995
+end time : 1010
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(22377)(0, (2,3), 1, 1)Barracks(77110)(0, (3,3), 4, 0)Base(20)(0, (2,2), 10, 0)
+Involved_B :Worker(105456)(1, (4,3), 1, 0)
+Involved_ALL :Worker(22377)(0, (2,3), 1, 1)Barracks(77110)(0, (3,3), 4, 0)Base(20)(0, (2,2), 10, 0)Worker(105456)(1, (4,3), 1, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(22377)(0, (1,3), 1, 0)Barracks(77110)(0, (3,3), 1, 0)
+Remained_B :Worker(105456)(1, (4,3), 1, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(22377)(0, (1,3), 1, 0)Barracks(77110)(0, (3,3), 1, 0)Worker(105456)(1, (4,3), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(22377)(0, (2,3), 1, 1)Barracks(77110)(0, (3,3), 4, 0)Base(20)(0, (2,2), 10, 0)
+
+Combat :
+start time :1010
+end time : 1015
+Combat Ended Because of :Destroyed
+Involved_A :Barracks(77110)(0, (3,3), 1, 0)Light(130155)(0, (4,4), 4, 0)
+Involved_B :Worker(105456)(1, (4,3), 1, 0)
+Involved_ALL :Barracks(77110)(0, (3,3), 1, 0)Light(130155)(0, (4,4), 4, 0)Worker(105456)(1, (4,3), 1, 0)
+Remained_A :Light(130155)(0, (4,4), 4, 0)
+Remained_B :
+Remained_ALL :Light(130155)(0, (4,4), 4, 0)
+KilledUnits :(Worker(105456)(1, (4,3), 1, 0), 1015)(Barracks(77110)(0, (3,3), 1, 0), 1015)
+PassiveUnits :Barracks(77110)(0, (3,3), 1, 0)
+
+Combat :
+start time :1031
+end time : 1036
+Combat Ended Because of :Destroyed
+Involved_A :Light(130155)(0, (4,6), 4, 0)
+Involved_B :Worker(112733)(1, (4,7), 1, 0)
+Involved_ALL :Light(130155)(0, (4,6), 4, 0)Worker(112733)(1, (4,7), 1, 0)
+Remained_A :Light(130155)(0, (4,6), 4, 0)
+Remained_B :
+Remained_ALL :Light(130155)(0, (4,6), 4, 0)
+KilledUnits :(Worker(112733)(1, (4,7), 1, 0), 1036)
+PassiveUnits :Worker(112733)(1, (4,7), 1, 0)
+
+Combat :
+start time :1052
+end time : 1065
+Combat Ended Because of :Reinforcement
+Involved_A :Light(130155)(0, (4,8), 4, 0)
+Involved_B :Ranged(120635)(1, (4,11), 1, 0)Worker(120636)(1, (5,9), 1, 0)
+Involved_ALL :Light(130155)(0, (4,8), 4, 0)Ranged(120635)(1, (4,11), 1, 0)Worker(120636)(1, (5,9), 1, 0)
+Remained_A :Light(130155)(0, (4,9), 3, 0)
+Remained_B :Worker(120636)(1, (5,8), 1, 0)
+Remained_ALL :Worker(120636)(1, (5,8), 1, 0)Light(130155)(0, (4,9), 3, 0)
+KilledUnits :(Ranged(120635)(1, (4,10), 1, 0), 1065)
+PassiveUnits :Worker(120636)(1, (5,9), 1, 0)
+
+Combat :
+start time :1070
+end time : 1073
+Combat Ended Because of :Reinforcement
+Involved_A :Light(130155)(0, (4,9), 3, 0)
+Involved_B :Worker(120636)(1, (4,8), 1, 0)
+Involved_ALL :Light(130155)(0, (4,9), 3, 0)Worker(120636)(1, (4,8), 1, 0)
+Remained_A :Light(130155)(0, (5,9), 3, 0)
+Remained_B :Worker(120636)(1, (4,8), 1, 0)
+Remained_ALL :Worker(120636)(1, (4,8), 1, 0)Light(130155)(0, (5,9), 3, 0)
+KilledUnits :
+PassiveUnits :Light(130155)(0, (4,9), 3, 0)
+
+Combat :
+start time :1081
+end time : 1085
+Combat Ended Because of :Reinforcement
+Involved_A :Light(130155)(0, (4,9), 3, 0)
+Involved_B :Worker(120636)(1, (4,8), 1, 0)
+Involved_ALL :Light(130155)(0, (4,9), 3, 0)Worker(120636)(1, (4,8), 1, 0)
+Remained_A :Light(130155)(0, (4,9), 3, 0)
+Remained_B :Worker(120636)(1, (5,8), 1, 0)
+Remained_ALL :Worker(120636)(1, (5,8), 1, 0)Light(130155)(0, (4,9), 3, 0)
+KilledUnits :
+PassiveUnits :Light(130155)(0, (4,9), 3, 0)Worker(120636)(1, (4,8), 1, 0)
+
+Combat :
+start time :1095
+end time : 1099
+Combat Ended Because of :Reinforcement
+Involved_A :Light(130155)(0, (4,9), 3, 0)
+Involved_B :Worker(120636)(1, (4,8), 1, 0)
+Involved_ALL :Light(130155)(0, (4,9), 3, 0)Worker(120636)(1, (4,8), 1, 0)
+Remained_A :Light(130155)(0, (5,9), 3, 0)
+Remained_B :Worker(120636)(1, (4,8), 1, 0)
+Remained_ALL :Worker(120636)(1, (4,8), 1, 0)Light(130155)(0, (5,9), 3, 0)
+KilledUnits :
+PassiveUnits :Light(130155)(0, (4,9), 3, 0)
+
+Combat :
+start time :1107
+end time : 1110
+Combat Ended Because of :Reinforcement
+Involved_A :Light(130155)(0, (4,9), 3, 0)
+Involved_B :Worker(120636)(1, (4,8), 1, 0)
+Involved_ALL :Light(130155)(0, (4,9), 3, 0)Worker(120636)(1, (4,8), 1, 0)
+Remained_A :Light(130155)(0, (4,9), 3, 0)
+Remained_B :Worker(120636)(1, (5,8), 1, 0)
+Remained_ALL :Worker(120636)(1, (5,8), 1, 0)Light(130155)(0, (4,9), 3, 0)
+KilledUnits :
+PassiveUnits :Worker(120636)(1, (4,8), 1, 0)
+
+Combat :
+start time :1206
+end time : 1210
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Worker(7303)(0, (3,2), 1, 1)Worker(22377)(0, (1,2), 1, 0)
+Involved_B :Worker(120636)(1, (2,3), 1, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Worker(7303)(0, (3,2), 1, 1)Worker(22377)(0, (1,2), 1, 0)Worker(120636)(1, (2,3), 1, 0)
+Remained_A :Base(20)(0, (2,2), 10, 0)Worker(7303)(0, (3,2), 1, 1)Worker(22377)(0, (1,1), 1, 0)
+Remained_B :Worker(120636)(1, (2,3), 1, 0)
+Remained_ALL :Base(20)(0, (2,2), 10, 0)Worker(7303)(0, (3,2), 1, 1)Worker(22377)(0, (1,1), 1, 0)Worker(120636)(1, (2,3), 1, 0)
+KilledUnits :
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Worker(7303)(0, (3,2), 1, 1)Worker(22377)(0, (1,2), 1, 0)
+
+Combat :
+start time :1210
+end time : 1240
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 10, 0)Worker(7303)(0, (3,2), 1, 1)
+Involved_B :Worker(120636)(1, (2,3), 1, 0)
+Involved_ALL :Base(20)(0, (2,2), 10, 0)Worker(7303)(0, (3,2), 1, 1)Worker(120636)(1, (2,3), 1, 0)
+Remained_A :Base(20)(0, (2,2), 4, 0)Worker(7303)(0, (3,2), 1, 1)
+Remained_B :Worker(120636)(1, (2,3), 1, 0)
+Remained_ALL :Base(20)(0, (2,2), 4, 0)Worker(7303)(0, (3,2), 1, 1)Worker(120636)(1, (2,3), 1, 0)
+KilledUnits :
+PassiveUnits :Base(20)(0, (2,2), 10, 0)Worker(7303)(0, (3,2), 1, 1)
+
+Combat :
+start time :1240
+end time : 1250
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 4, 0)Worker(7303)(0, (3,2), 1, 1)Worker(143102)(0, (1,2), 1, 1)Barracks(149072)(0, (3,3), 4, 0)
+Involved_B :Worker(120636)(1, (2,3), 1, 0)
+Involved_ALL :Base(20)(0, (2,2), 4, 0)Worker(7303)(0, (3,2), 1, 1)Worker(143102)(0, (1,2), 1, 1)Barracks(149072)(0, (3,3), 4, 0)Worker(120636)(1, (2,3), 1, 0)
+Remained_A :Base(20)(0, (2,2), 2, 0)Worker(7303)(0, (3,2), 1, 0)Worker(143102)(0, (1,2), 1, 0)Barracks(149072)(0, (3,3), 4, 0)
+Remained_B :Worker(120636)(1, (2,3), 1, 0)
+Remained_ALL :Base(20)(0, (2,2), 2, 0)Worker(7303)(0, (3,2), 1, 0)Worker(120636)(1, (2,3), 1, 0)Worker(143102)(0, (1,2), 1, 0)Barracks(149072)(0, (3,3), 4, 0)
+KilledUnits :
+PassiveUnits :Base(20)(0, (2,2), 4, 0)Worker(7303)(0, (3,2), 1, 1)Worker(143102)(0, (1,2), 1, 1)Barracks(149072)(0, (3,3), 4, 0)
+
+Combat :
+start time :1250
+end time : 1256
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 2, 0)Worker(7303)(0, (3,2), 1, 0)Worker(143102)(0, (1,2), 1, 0)Worker(22377)(0, (1,1), 1, 1)Barracks(149072)(0, (3,3), 4, 0)
+Involved_B :Worker(120636)(1, (2,3), 1, 0)
+Involved_ALL :Base(20)(0, (2,2), 2, 0)Worker(7303)(0, (3,2), 1, 0)Worker(143102)(0, (1,2), 1, 0)Worker(22377)(0, (1,1), 1, 1)Barracks(149072)(0, (3,3), 4, 0)Worker(120636)(1, (2,3), 1, 0)
+Remained_A :Worker(7303)(0, (3,2), 1, 0)Worker(22377)(0, (1,1), 1, 1)Worker(143102)(0, (1,2), 1, 0)Barracks(149072)(0, (3,3), 3, 0)
+Remained_B :Worker(120636)(1, (2,3), 1, 0)
+Remained_ALL :Worker(7303)(0, (3,2), 1, 0)Worker(22377)(0, (1,1), 1, 1)Worker(120636)(1, (2,3), 1, 0)Worker(143102)(0, (1,2), 1, 0)Barracks(149072)(0, (3,3), 3, 0)
+KilledUnits :(Base(20)(0, (2,2), 1, 0), 1256)
+PassiveUnits :Base(20)(0, (2,2), 2, 0)Worker(7303)(0, (3,2), 1, 0)Worker(143102)(0, (1,2), 1, 0)Worker(22377)(0, (1,1), 1, 1)Barracks(149072)(0, (3,3), 4, 0)
+
+Combat :
+start time :1250
+end time : 1256
+Combat Ended Because of :Reinforcement
+Involved_A :Base(20)(0, (2,2), 2, 0)Barracks(149072)(0, (3,3), 4, 0)Worker(7303)(0, (3,2), 1, 0)Worker(143102)(0, (1,2), 1, 0)
+Involved_B :Worker(120636)(1, (2,3), 1, 0)Worker(123942)(1, (3,4), 1, 0)
+Involved_ALL :Base(20)(0, (2,2), 2, 0)Barracks(149072)(0, (3,3), 4, 0)Worker(7303)(0, (3,2), 1, 0)Worker(143102)(0, (1,2), 1, 0)Worker(120636)(1, (2,3), 1, 0)Worker(123942)(1, (3,4), 1, 0)
+Remained_A :Worker(7303)(0, (3,2), 1, 0)Worker(143102)(0, (1,2), 1, 0)Barracks(149072)(0, (3,3), 3, 0)
+Remained_B :Worker(120636)(1, (2,3), 1, 0)Worker(123942)(1, (3,4), 1, 0)
+Remained_ALL :Worker(7303)(0, (3,2), 1, 0)Worker(120636)(1, (2,3), 1, 0)Worker(123942)(1, (3,4), 1, 0)Worker(143102)(0, (1,2), 1, 0)Barracks(149072)(0, (3,3), 3, 0)
+KilledUnits :(Base(20)(0, (2,2), 1, 0), 1256)
+PassiveUnits :Base(20)(0, (2,2), 2, 0)Barracks(149072)(0, (3,3), 4, 0)Worker(7303)(0, (3,2), 1, 0)Worker(143102)(0, (1,2), 1, 0)
+
+Combat :
+start time :1255
+end time : 1260
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(143102)(0, (1,2), 1, 0)Base(20)(0, (2,2), 1, 0)Worker(22377)(0, (1,1), 1, 1)Barracks(149072)(0, (3,3), 3, 0)
+Involved_B :Worker(120636)(1, (2,3), 1, 0)Worker(123942)(1, (3,4), 1, 0)Ranged(124244)(1, (1,5), 1, 0)Worker(127315)(1, (4,5), 1, 0)
+Involved_ALL :Worker(143102)(0, (1,2), 1, 0)Base(20)(0, (2,2), 1, 0)Worker(22377)(0, (1,1), 1, 1)Barracks(149072)(0, (3,3), 3, 0)Worker(120636)(1, (2,3), 1, 0)Worker(123942)(1, (3,4), 1, 0)Ranged(124244)(1, (1,5), 1, 0)Worker(127315)(1, (4,5), 1, 0)
+Remained_A :Worker(22377)(0, (2,1), 1, 1)Worker(143102)(0, (0,2), 1, 0)Barracks(149072)(0, (3,3), 2, 0)
+Remained_B :Worker(120636)(1, (2,3), 1, 0)Worker(123942)(1, (3,4), 1, 0)Ranged(124244)(1, (1,5), 1, 0)Worker(127315)(1, (4,4), 1, 0)
+Remained_ALL :Worker(22377)(0, (2,1), 1, 1)Worker(120636)(1, (2,3), 1, 0)Worker(123942)(1, (3,4), 1, 0)Ranged(124244)(1, (1,5), 1, 0)Worker(127315)(1, (4,4), 1, 0)Worker(143102)(0, (0,2), 1, 0)Barracks(149072)(0, (3,3), 2, 0)
+KilledUnits :(Base(20)(0, (2,2), 1, 0), 1256)
+PassiveUnits :Worker(143102)(0, (1,2), 1, 0)Base(20)(0, (2,2), 1, 0)Worker(22377)(0, (1,1), 1, 1)Barracks(149072)(0, (3,3), 3, 0)Worker(127315)(1, (4,5), 1, 0)
+
+Combat :
+start time :1256
+end time : 1260
+Combat Ended Because of :Reinforcement
+Involved_A :Barracks(149072)(0, (3,3), 3, 0)Worker(7303)(0, (3,2), 1, 0)
+Involved_B :Worker(120636)(1, (2,3), 1, 0)Worker(123942)(1, (3,4), 1, 0)
+Involved_ALL :Barracks(149072)(0, (3,3), 3, 0)Worker(7303)(0, (3,2), 1, 0)Worker(120636)(1, (2,3), 1, 0)Worker(123942)(1, (3,4), 1, 0)
+Remained_A :Worker(7303)(0, (3,1), 1, 0)Barracks(149072)(0, (3,3), 2, 0)
+Remained_B :Worker(120636)(1, (2,3), 1, 0)Worker(123942)(1, (3,4), 1, 0)
+Remained_ALL :Worker(7303)(0, (3,1), 1, 0)Worker(120636)(1, (2,3), 1, 0)Worker(123942)(1, (3,4), 1, 0)Barracks(149072)(0, (3,3), 2, 0)
+KilledUnits :
+PassiveUnits :Barracks(149072)(0, (3,3), 3, 0)Worker(7303)(0, (3,2), 1, 0)
+
+Combat :
+start time :1260
+end time : 1265
+Combat Ended Because of :Destroyed
+Involved_A :Barracks(149072)(0, (3,3), 2, 0)
+Involved_B :Worker(123942)(1, (3,4), 1, 0)Worker(127315)(1, (4,4), 1, 0)Worker(120636)(1, (2,3), 1, 0)
+Involved_ALL :Barracks(149072)(0, (3,3), 2, 0)Worker(123942)(1, (3,4), 1, 0)Worker(127315)(1, (4,4), 1, 0)Worker(120636)(1, (2,3), 1, 0)
+Remained_A :
+Remained_B :Worker(120636)(1, (2,3), 1, 0)Worker(123942)(1, (3,4), 1, 0)Worker(127315)(1, (4,4), 1, 0)
+Remained_ALL :Worker(120636)(1, (2,3), 1, 0)Worker(123942)(1, (3,4), 1, 0)Worker(127315)(1, (4,4), 1, 0)
+KilledUnits :(Barracks(149072)(0, (3,3), 1, 0), 1265)
+PassiveUnits :Barracks(149072)(0, (3,3), 2, 0)Worker(127315)(1, (4,4), 1, 0)
+
+Combat :
+start time :1276
+end time : 1280
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(22377)(0, (2,1), 1, 1)
+Involved_B :Worker(120636)(1, (2,2), 1, 0)
+Involved_ALL :Worker(22377)(0, (2,1), 1, 1)Worker(120636)(1, (2,2), 1, 0)
+Remained_A :Worker(22377)(0, (2,1), 1, 1)
+Remained_B :Worker(120636)(1, (2,2), 1, 0)
+Remained_ALL :Worker(22377)(0, (2,1), 1, 1)Worker(120636)(1, (2,2), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(22377)(0, (2,1), 1, 1)
+
+Combat :
+start time :1280
+end time : 1281
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(7303)(0, (3,1), 1, 0)Worker(22377)(0, (2,1), 1, 1)
+Involved_B :Worker(120636)(1, (2,2), 1, 0)
+Involved_ALL :Worker(7303)(0, (3,1), 1, 0)Worker(22377)(0, (2,1), 1, 1)Worker(120636)(1, (2,2), 1, 0)
+Remained_A :Worker(7303)(0, (3,1), 1, 0)
+Remained_B :Worker(120636)(1, (2,2), 1, 0)
+Remained_ALL :Worker(7303)(0, (3,1), 1, 0)Worker(120636)(1, (2,2), 1, 0)
+KilledUnits :(Worker(22377)(0, (2,1), 1, 1), 1281)
+PassiveUnits :Worker(7303)(0, (3,1), 1, 0)Worker(22377)(0, (2,1), 1, 1)
+
+Combat :
+start time :1280
+end time : 1285
+Combat Ended Because of :Destroyed
+Involved_A :Worker(143102)(0, (0,1), 1, 0)
+Involved_B :Ranged(124244)(1, (0,4), 1, 0)
+Involved_ALL :Worker(143102)(0, (0,1), 1, 0)Ranged(124244)(1, (0,4), 1, 0)
+Remained_A :
+Remained_B :Ranged(124244)(1, (0,4), 1, 0)
+Remained_ALL :Ranged(124244)(1, (0,4), 1, 0)
+KilledUnits :(Worker(143102)(0, (0,1), 1, 0), 1285)
+PassiveUnits :Worker(143102)(0, (0,1), 1, 0)
+
+Combat :
+start time :1285
+end time : 1290
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(7303)(0, (3,1), 1, 0)
+Involved_B :Worker(123942)(1, (3,2), 1, 0)Worker(120636)(1, (2,2), 1, 0)
+Involved_ALL :Worker(7303)(0, (3,1), 1, 0)Worker(123942)(1, (3,2), 1, 0)Worker(120636)(1, (2,2), 1, 0)
+Remained_A :Worker(7303)(0, (3,0), 1, 0)
+Remained_B :Worker(120636)(1, (2,2), 1, 0)Worker(123942)(1, (3,2), 1, 0)
+Remained_ALL :Worker(7303)(0, (3,0), 1, 0)Worker(120636)(1, (2,2), 1, 0)Worker(123942)(1, (3,2), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(7303)(0, (3,1), 1, 0)Worker(120636)(1, (2,2), 1, 0)
+
+Combat :
+start time :1300
+end time : 1301
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(7303)(0, (2,0), 1, 0)
+Involved_B :Worker(120636)(1, (2,1), 1, 0)Worker(123942)(1, (3,1), 1, 0)
+Involved_ALL :Worker(7303)(0, (2,0), 1, 0)Worker(120636)(1, (2,1), 1, 0)Worker(123942)(1, (3,1), 1, 0)
+Remained_A :Worker(7303)(0, (2,0), 1, 0)
+Remained_B :Worker(120636)(1, (2,2), 1, 0)Worker(123942)(1, (3,1), 1, 0)
+Remained_ALL :Worker(7303)(0, (2,0), 1, 0)Worker(120636)(1, (2,2), 1, 0)Worker(123942)(1, (3,1), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(7303)(0, (2,0), 1, 0)Worker(120636)(1, (2,1), 1, 0)Worker(123942)(1, (3,1), 1, 0)
+
+Combat :
+start time :1310
+end time : 1311
+Combat Ended Because of :Reinforcement
+Involved_A :Worker(7303)(0, (2,0), 1, 0)
+Involved_B :Worker(123942)(1, (3,0), 1, 0)
+Involved_ALL :Worker(7303)(0, (2,0), 1, 0)Worker(123942)(1, (3,0), 1, 0)
+Remained_A :Worker(7303)(0, (2,0), 1, 0)
+Remained_B :Worker(123942)(1, (3,0), 1, 0)
+Remained_ALL :Worker(7303)(0, (2,0), 1, 0)Worker(123942)(1, (3,0), 1, 0)
+KilledUnits :
+PassiveUnits :Worker(7303)(0, (2,0), 1, 0)Worker(123942)(1, (3,0), 1, 0)
+
+Combat :
+start time :1311
+end time : 1315
+Combat Ended Because of :Destroyed
+Involved_A :Worker(7303)(0, (2,0), 1, 0)
+Involved_B :Worker(120636)(1, (2,1), 1, 0)Worker(123942)(1, (3,0), 1, 0)
+Involved_ALL :Worker(7303)(0, (2,0), 1, 0)Worker(120636)(1, (2,1), 1, 0)Worker(123942)(1, (3,0), 1, 0)
+Remained_A :
+Remained_B :Worker(120636)(1, (2,1), 1, 0)Worker(123942)(1, (3,0), 1, 0)
+Remained_ALL :Worker(120636)(1, (2,1), 1, 0)Worker(123942)(1, (3,0), 1, 0)
+KilledUnits :(Worker(7303)(0, (2,0), 1, 0), 1315)
+PassiveUnits :Worker(7303)(0, (2,0), 1, 0)
+
+
+Total records: 38
