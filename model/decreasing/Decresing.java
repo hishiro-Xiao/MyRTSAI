@@ -322,7 +322,7 @@ public class Decresing {
 	}
 
 	// 根据游戏的初始状态给出预测，预测会赢的一方
-	public void predict(List<Unit> enemy1, List<Unit> enemy2) {
+	public int predict(List<Unit> enemy1, List<Unit> enemy2) {
 		List<Unit> sorted_enemy1 = this.sortByTargetSelection(enemy1);
 		List<Unit> sorted_enemy2 = this.sortByTargetSelection(enemy2);
 
@@ -389,10 +389,7 @@ public class Decresing {
 				break;
 		}
 		
-		if(sorted_enemy1.size() > sorted_enemy2.size())
-			System.out.println("Enemy1 wins");
-		else
-			System.out.println("Enemy2 wins");
+		return sorted_enemy1.size() - sorted_enemy2.size();
 	}
 
 	// 打印出所有的参数
@@ -472,11 +469,11 @@ public class Decresing {
 	}
 
 	// 从文件中读取训练好的参数
-	public void getParameters() throws IOException {
+	public boolean getParameters() throws IOException {
 		String filePath = "./dataset/8x8/Decresing.json";
 		File f = new File(filePath);
 		if (!f.exists())
-			return;
+			return false;
 
 		synchronized (f) {
 			String content = new String(Files.readAllBytes(Paths.get(f.getAbsolutePath())));
@@ -488,6 +485,7 @@ public class Decresing {
 				this.setTargetSelection(dec.getTargetSelection());
 			}
 		}
+		return true;
 	}
 
 	public static void main(String[] args) throws IOException {
@@ -510,9 +508,6 @@ public class Decresing {
 		List<Unit> ordered2 = dec.sortByTargetSelection(test2);
 		System.out.println(ordered2);
 
-//		System.out.println();
-//		dec.timeToKillUnit(test.get(0), test);
-		
-		dec.predict(test, test2);
+//		dec.predict(test, test2);
 	}
 }

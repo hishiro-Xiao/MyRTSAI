@@ -2,7 +2,6 @@ package hx;
 
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.LinkedHashMap;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
@@ -15,12 +14,12 @@ import rts.GameState;
 import rts.PhysicalGameState;
 import rts.Player;
 import rts.PlayerAction;
-import rts.UnitAction;
+import rts.UnitActionAssignment;
 import rts.units.Unit;
 import rts.units.UnitType;
 import rts.units.UnitTypeTable;
 
-public class MyNewAI extends AbstractionLayerAI {
+public class XiaoNiBen_24 extends AbstractionLayerAI {
 
 	UnitTypeTable m_utt = null;
 	UnitType workerType;
@@ -31,18 +30,18 @@ public class MyNewAI extends AbstractionLayerAI {
 	UnitType rangedType;
 
 	// default constructor
-	public MyNewAI(UnitTypeTable utt) {
+	public XiaoNiBen_24(UnitTypeTable utt) {
 		this(utt, new AStarPathFinding());
 	}
 
-	public MyNewAI(UnitTypeTable utt, AStarPathFinding aStarPathFinding) {
+	public XiaoNiBen_24(UnitTypeTable utt, AStarPathFinding aStarPathFinding) {
 		super(aStarPathFinding);
 		reset(utt);
 	}
 
 	// create new instance
 	public AI clone() {
-		return new MyNewAI(m_utt);
+		return new XiaoNiBen_24(m_utt);
 	}
 
 	public void reset() {
@@ -110,10 +109,23 @@ public class MyNewAI extends AbstractionLayerAI {
 
 	// 基地的行动
 	public void baseBehavior(Unit u, Player p, GameState gs) {
-		if (getHarvestWorkerNum(p, gs) < 2 && p.getResources() > workerType.cost)
-			train(u, workerType);
-		if (getBarracksNum(p, gs) < 1 && getHarvestWorkerNum(p, gs) < 2 && p.getResources() > workerType.cost)
-			train(u, workerType);
+		
+		//如果两方基地很近，优先采用workerRush
+		int enemy_worker_num = getEnemyInfo(p, gs).get("num_worker");
+		int worker_num = getHarvestWorkerNum(p, gs);
+		if(worker_num <= enemy_worker_num)
+			train(u, workerType);	
+		
+//		//如果敌人是workerRush，则我们也先workerRush
+//		if(getEnemyBarracksNum(p, gs) < 1 && p.getResources() > workerType.cost) {
+//			train(u, workerType);
+//		}
+//		else {
+//			if (getHarvestWorkerNum(p, gs) < 2 && p.getResources() > workerType.cost)
+//				train(u, workerType);
+//			if (getBarracksNum(p, gs) < 1 && getHarvestWorkerNum(p, gs) < 2 && p.getResources() > workerType.cost)
+//				train(u, workerType);
+//		}
 	}
 
 	// 进攻单位的行动
@@ -122,11 +134,13 @@ public class MyNewAI extends AbstractionLayerAI {
 		PhysicalGameState pgs = gs.getPhysicalGameState();
 		Unit closestEnemy = null;
 		Unit closestBase = null;
-		int closestEnemyDistance = 0;
-		int closestBaseDistance = 0;
+		Unit closestBarracks = null;
+		int closestEnemyDistance = 65535;
+		int closestBaseDistance = 65535;
+		int closestBarracksDistance = 65535;
 
 		for (Unit unit : pgs.getUnits()) {
-			if (unit.getType() != baseType && unit.getPlayer() >= 0 && unit.getPlayer() != p.getID()) {
+			if (unit.getType() != baseType && unit.getType() != barracksType && unit.getPlayer() >= 0 && unit.getPlayer() != p.getID()) {
 				int dis = getDistanceBetweenUnits(u, unit);
 				if (dis < closestEnemyDistance || closestEnemy == null) {
 					closestEnemyDistance = dis;
@@ -138,23 +152,41 @@ public class MyNewAI extends AbstractionLayerAI {
 					closestBaseDistance = dis;
 					closestBase = unit;
 				}
+			} else if (unit.getType() == barracksType && unit.getPlayer() >= 0 && unit.getPlayer() != p.getID()) {
+				int dis = getDistanceBetweenUnits(u, unit);
+				if (dis < closestBarracksDistance || closestBarracks == null) {
+					closestBarracksDistance = dis;
+					closestBarracks = unit;
+				}
 			}
 		}
 
 		// 策略：优先打最近的基地，否则打最近的敌人
-//							if(closestBase != null && closestBaseDistance <= closestEnemyDistance){
-//										  attack(u, closestBase);
-//							}
-//							else if(closestEnemy != null){
-//										  attack(u, closestEnemy);
-//							}
-
-		// 策略：优先打基地，基地没了再打最近的敌人
-		if (closestBase != null) {
-			attack(u, closestBase);
-		} else {
+//		if(closestBase != null){
+//			attack(u, closestBase);
+//		}
+//		else if(closestEnemy != null){
+//			attack(u, closestEnemy);
+//		}
+		
+		// 策略：优先打最近的敌人，否则打最近的基地
+		if(closestEnemy != null && closestEnemyDistance < closestBarracksDistance && closestEnemyDistance < closestBaseDistance){
 			attack(u, closestEnemy);
 		}
+		else if(closestBase != null && closestBaseDistance < closestBarracksDistance){
+			attack(u, closestBase);
+		}
+		else if(closestBarracks != null) {
+			attack(u, closestBarracks);
+		}
+
+		// 策略：优先打基地，基地没了再打最近的敌人
+//		if (closestBase != null) {
+//			attack(u, closestBase);
+//		} else {
+//			attack(u, closestEnemy);
+//		}
+		
 	}
 
 	// 工人的行动
@@ -164,12 +196,18 @@ public class MyNewAI extends AbstractionLayerAI {
 		// 挖矿的工人
 		List<Unit> harvestWorkers = new LinkedList<Unit>();
 		int num_harvest = 2; // 需求量
+		if(getEnemyBarracksNum(p, gs) < 1) {
+			num_harvest = 1;
+		}
 
 		// 建造的工人
 		List<Unit> buildWorkers = new LinkedList<Unit>();
 		int num_build = 1;
-		if (getBarracksNum(p, gs) >= 2)
+		// 如果对方没有建造兵营，那么我们也不造,如果已经有一个兵营了，那么也不造
+		if (getEnemyBarracksNum(p, gs) == 0)
 			num_build = 0; // 需求barracks建筑量
+		else if(getBarracksNum(p, gs) == 1)
+			num_build = 0;
 
 		// 免费的工人
 		List<Unit> freeWorkers = new LinkedList<Unit>();
@@ -201,7 +239,7 @@ public class MyNewAI extends AbstractionLayerAI {
 				harvestWorkers.add(previousHarvest.remove(0));
 				num_harvest--;
 			} else if (workers.size() > 0) {
-				harvestWorkers.add(workers.remove(0));
+				harvestWorkers.add(workers.remove(workers.size() - 1));
 				num_harvest--;
 			} else
 				break;
@@ -212,7 +250,7 @@ public class MyNewAI extends AbstractionLayerAI {
 				buildWorkers.add(previousBuild.remove(0));
 				num_build--;
 			} else if (workers.size() > 0) {
-				buildWorkers.add(workers.remove(0));
+				buildWorkers.add(workers.remove(workers.size() - 1));
 				num_build--;
 			} else
 				break;
@@ -367,24 +405,45 @@ public class MyNewAI extends AbstractionLayerAI {
 				barracks_x = 18;
 				barracks_y = 18;
 			}
-			build(worker, utype, barracks_x, barracks_y);
+			
+			List<Integer> reservedPositions = new LinkedList<Integer>();
+			buildIfNotAlreadyBuilding(worker, barracksType, worker.getX(), worker.getY(), reservedPositions,p,pgs);
+//			build(worker, utype, barracks_x, barracks_y);
 		}
 	}
 
-	// 获取兵营数量（包括正在建造的建筑）
+	// 获取我方兵营数量（包括正在建造的建筑）
 	public int getBarracksNum(Player p, GameState gs) {
 		int num = 0;
 		PhysicalGameState pgs = gs.getPhysicalGameState();
 
 		for (Unit u : pgs.getUnits()) {
-			if (u.getPlayer() == p.getID() && u.getType() == barracksType) {
-				num++;
-			}
-			AbstractAction aa = getAbstractAction(u);
-			if (aa instanceof Build) {
-				Build build_aa = (Build) aa;
-				if (!build_aa.completed(gs)) {
+			if (u.getPlayer() == p.getID()) {
+				if(u.getType() == barracksType)
 					num++;
+				else {
+					UnitActionAssignment uaa = gs.getActionAssignment(u);
+					if(uaa != null && uaa.action.getActionName() == "produce" && uaa.action.getUnitType().equals(barracksType))
+						num++;
+				}
+			}
+		}
+		return num;
+	}
+	
+	// 获取敌方兵营数量（包括正在建造的建筑）, p为我方
+	public int getEnemyBarracksNum(Player p, GameState gs) {
+		int num = 0;
+		PhysicalGameState pgs = gs.getPhysicalGameState();
+
+		for (Unit u : pgs.getUnits()) {
+			if (u.getPlayer() != p.getID()) {
+				if(u.getType() == barracksType)
+					num++;
+				else{
+					UnitActionAssignment uaa = gs.getActionAssignment(u);
+					if(uaa != null && uaa.action.getActionName() == "produce" && uaa.action.getUnitType().equals(barracksType))
+						num++;
 				}
 			}
 		}
